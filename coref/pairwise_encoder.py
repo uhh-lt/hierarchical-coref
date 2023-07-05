@@ -40,6 +40,7 @@ class PairwiseEncoder(torch.nn.Module):
         """ A workaround to get current device (which is assumed to be the
         device of the first parameter of one of the submodules) """
         return next(self.genre_emb.parameters()).device
+        
 
     def forward(self,  # type: ignore  # pylint: disable=arguments-differ  #35566 in pytorch
                 top_indices: torch.Tensor,
@@ -58,10 +59,12 @@ class PairwiseEncoder(torch.nn.Module):
         distance = torch.where(distance < 5, distance - 1, log_distance + 2)
         distance = self.distance_emb(distance)
 
-        genre = torch.tensor(self.genre2int[doc["document_id"][:2]],
-                             device=self.device).expand_as(top_indices)
+        # genre = torch.tensor(self.genre2int[doc["document_id"][:2]],
+        #                     device=self.device).expand_as(top_indices)
+        genre = torch.tensor(self.genre2int['bc'],
+                            device=self.device).expand_as(top_indices)
+        # genre = torch.tensor(self.genre2int['bc'])
         genre = self.genre_emb(genre)
-
         return self.dropout(torch.cat((same_speaker, distance, genre), dim=2))
 
     @staticmethod

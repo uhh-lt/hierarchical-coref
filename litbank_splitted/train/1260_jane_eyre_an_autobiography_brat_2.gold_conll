@@ -1,0 +1,832 @@
+#begin document (litbank_splitted/train/1260_jane_eyre_an_autobiography_brat_2); part 0
+1260_jane_eyre_an_autobiography_brat_2	0	0	"	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	1	What	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	do	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	you	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	4	want	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	?	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	"	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	I	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	1	asked	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	with	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	4	awkward	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	diffidence	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	.	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	"	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	1	Say	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	'	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	4	What	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	do	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	you	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	7	want	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	8	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	9	Master	_	_	_	_	_	_	_	_	(6
+1260_jane_eyre_an_autobiography_brat_2	0	10	Reed	_	_	_	_	_	_	_	_	6)
+1260_jane_eyre_an_autobiography_brat_2	0	11	?	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	12	'	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	13	"	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	was	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	1	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	answer	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	.	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	"	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	1	I	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	2	want	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	you	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	4	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	come	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	here	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	7	;	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	8	"	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	9	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	10	seating	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	11	himself	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	12	in	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	13	an	_	_	_	_	_	_	_	_	(50
+1260_jane_eyre_an_autobiography_brat_2	0	14	arm-chair	_	_	_	_	_	_	_	_	50)
+1260_jane_eyre_an_autobiography_brat_2	0	15	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	16	he	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	17	intimated	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	18	by	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	19	a	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	20	gesture	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	21	that	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	22	I	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	23	was	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	24	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	25	approach	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	26	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	27	stand	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	28	before	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	29	him	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	30	.	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	John	_	_	_	_	_	_	_	_	(6
+1260_jane_eyre_an_autobiography_brat_2	0	1	Reed	_	_	_	_	_	_	_	_	6)
+1260_jane_eyre_an_autobiography_brat_2	0	2	was	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	a	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	4	schoolboy	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	of	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	fourteen	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	7	years	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	8	old	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	9	;	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	10	four	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	11	years	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	12	older	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	13	than	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	14	I	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	15	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	16	for	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	17	I	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	18	was	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	19	but	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	20	ten	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	21	:	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	22	large	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	23	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	24	stout	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	25	for	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	26	his	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	27	age	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	28	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	29	with	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	30	a	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	31	dingy	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	32	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	33	unwholesome	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	34	skin	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	35	;	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	36	thick	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	37	lineaments	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	38	in	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	39	a	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	40	spacious	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	41	visage	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	42	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	43	heavy	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	44	limbs	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	45	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	46	large	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	47	extremities	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	48	.	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	He	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	1	gorged	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	himself	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	3	habitually	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	4	at	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	table	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	7	which	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	8	made	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	9	him	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	10	bilious	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	11	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	12	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	13	gave	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	14	him	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	15	a	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	16	dim	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	17	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	18	bleared	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	19	eye	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	20	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	21	flabby	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	22	cheeks	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	23	.	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	He	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	1	ought	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	now	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	4	have	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	been	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	at	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	7	school	_	_	_	_	_	_	_	_	(51)
+1260_jane_eyre_an_autobiography_brat_2	0	8	;	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	9	but	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	10	his	_	_	_	_	_	_	_	_	(1|(6)
+1260_jane_eyre_an_autobiography_brat_2	0	11	mama	_	_	_	_	_	_	_	_	1)
+1260_jane_eyre_an_autobiography_brat_2	0	12	had	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	13	taken	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	14	him	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	15	home	_	_	_	_	_	_	_	_	(3)
+1260_jane_eyre_an_autobiography_brat_2	0	16	for	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	17	a	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	18	month	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	19	or	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	20	two	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	21	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	22	"	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	23	on	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	24	account	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	25	of	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	26	his	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	27	delicate	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	28	health	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	29	.	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	30	"	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	Mr.	_	_	_	_	_	_	_	_	(52
+1260_jane_eyre_an_autobiography_brat_2	0	1	Miles	_	_	_	_	_	_	_	_	52)
+1260_jane_eyre_an_autobiography_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	the	_	_	_	_	_	_	_	_	(68
+1260_jane_eyre_an_autobiography_brat_2	0	4	master	_	_	_	_	_	_	_	_	68)
+1260_jane_eyre_an_autobiography_brat_2	0	5	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	affirmed	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	7	that	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	8	he	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	9	would	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	10	do	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	11	very	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	12	well	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	13	if	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	14	he	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	15	had	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	16	fewer	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	17	cakes	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	18	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	19	sweetmeats	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	20	sent	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	21	him	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	22	from	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	23	home	_	_	_	_	_	_	_	_	(3)
+1260_jane_eyre_an_autobiography_brat_2	0	24	;	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	25	but	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	26	the	_	_	_	_	_	_	_	_	(1
+1260_jane_eyre_an_autobiography_brat_2	0	27	mother	_	_	_	_	_	_	_	_	1)
+1260_jane_eyre_an_autobiography_brat_2	0	28	's	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	29	heart	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	30	turned	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	31	from	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	32	an	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	33	opinion	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	34	so	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	35	harsh	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	36	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	37	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	38	inclined	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	39	rather	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	40	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	41	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	42	more	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	43	refined	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	44	idea	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	45	that	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	46	John	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	47	's	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	48	sallowness	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	49	was	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	50	owing	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	51	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	52	over-application	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	53	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	54	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	55	perhaps	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	56	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	57	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	58	pining	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	59	after	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	60	home	_	_	_	_	_	_	_	_	(3)
+1260_jane_eyre_an_autobiography_brat_2	0	61	.	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	John	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	1	had	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	not	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	much	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	4	affection	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	for	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	his	_	_	_	_	_	_	_	_	(1|(6)
+1260_jane_eyre_an_autobiography_brat_2	0	7	mother	_	_	_	_	_	_	_	_	1)
+1260_jane_eyre_an_autobiography_brat_2	0	8	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	9	sisters	_	_	_	_	_	_	_	_	(48)
+1260_jane_eyre_an_autobiography_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	11	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	12	an	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	13	antipathy	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	14	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	15	me	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	16	.	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	He	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	1	bullied	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	punished	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	4	me	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	5	;	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	not	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	7	two	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	8	or	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	9	three	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	10	times	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	11	in	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	12	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	13	week	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	14	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	15	nor	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	16	once	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	17	or	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	18	twice	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	19	in	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	20	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	21	day	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	22	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	23	but	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	24	continually	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	25	:	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	26	every	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	27	nerve	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	28	I	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	29	had	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	30	feared	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	31	him	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	32	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	33	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	34	every	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	35	morsel	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	36	of	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	37	flesh	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	38	in	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	39	my	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	40	bones	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	41	shrank	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	42	when	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	43	he	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	44	came	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	45	near	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	46	.	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	There	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	1	were	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	moments	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	when	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	4	I	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	5	was	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	bewildered	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	7	by	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	8	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	9	terror	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	10	he	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	11	inspired	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	12	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	13	because	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	14	I	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	15	had	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	16	no	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	17	appeal	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	18	whatever	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	19	against	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	20	either	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	21	his	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	22	menaces	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	23	or	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	24	his	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	25	inflictions	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	26	;	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	27	the	_	_	_	_	_	_	_	_	(53
+1260_jane_eyre_an_autobiography_brat_2	0	28	servants	_	_	_	_	_	_	_	_	53)
+1260_jane_eyre_an_autobiography_brat_2	0	29	did	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	30	not	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	31	like	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	32	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	33	offend	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	34	their	_	_	_	_	_	_	_	_	(6|(53)
+1260_jane_eyre_an_autobiography_brat_2	0	35	young	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	36	master	_	_	_	_	_	_	_	_	6)
+1260_jane_eyre_an_autobiography_brat_2	0	37	by	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	38	taking	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	39	my	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	40	part	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	41	against	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	42	him	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	43	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	44	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	45	Mrs.	_	_	_	_	_	_	_	_	(1
+1260_jane_eyre_an_autobiography_brat_2	0	46	Reed	_	_	_	_	_	_	_	_	1)
+1260_jane_eyre_an_autobiography_brat_2	0	47	was	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	48	blind	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	49	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	50	deaf	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	51	on	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	52	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	53	subject	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	54	:	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	55	she	_	_	_	_	_	_	_	_	(1)
+1260_jane_eyre_an_autobiography_brat_2	0	56	never	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	57	saw	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	58	him	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	59	strike	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	60	or	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	61	heard	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	62	him	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	63	abuse	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	64	me	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	65	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	66	though	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	67	he	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	68	did	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	69	both	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	70	now	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	71	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	72	then	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	73	in	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	74	her	_	_	_	_	_	_	_	_	(1)
+1260_jane_eyre_an_autobiography_brat_2	0	75	very	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	76	presence	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	77	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	78	more	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	79	frequently	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	80	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	81	however	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	82	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	83	behind	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	84	her	_	_	_	_	_	_	_	_	(1)
+1260_jane_eyre_an_autobiography_brat_2	0	85	back	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	86	.	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	Habitually	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	1	obedient	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	John	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	I	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	6	came	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	7	up	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	8	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	9	his	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	10	chair	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	11	:	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	12	he	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	13	spent	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	14	some	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	15	three	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	16	minutes	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	17	in	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	18	thrusting	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	19	out	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	20	his	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	21	tongue	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	22	at	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	23	me	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	24	as	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	25	far	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	26	as	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	27	he	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	28	could	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	29	without	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	30	damaging	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	31	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	32	roots	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	33	:	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	34	I	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	35	knew	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	36	he	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	37	would	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	38	soon	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	39	strike	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	40	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	41	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	42	while	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	43	dreading	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	44	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	45	blow	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	46	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	47	I	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	48	mused	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	49	on	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	50	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	51	disgusting	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	52	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	53	ugly	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	54	appearance	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	55	of	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	56	him	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	57	who	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	58	would	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	59	presently	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	60	deal	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	61	it	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	62	.	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	I	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	1	wonder	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	if	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	he	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	4	read	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	that	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	notion	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	7	in	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	8	my	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	9	face	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	10	;	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	11	for	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	12	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	13	all	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	14	at	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	15	once	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	16	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	17	without	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	18	speaking	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	19	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	20	he	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	21	struck	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	22	suddenly	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	23	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	24	strongly	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	25	.	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	I	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	1	tottered	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	4	on	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	regaining	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	my	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	7	equilibrium	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	8	retired	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	9	back	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	10	a	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	11	step	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	12	or	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	13	two	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	14	from	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	15	his	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	16	chair	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	17	.	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	"	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	1	That	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	is	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	for	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	4	your	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	5	impudence	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	in	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	7	answering	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	8	mama	_	_	_	_	_	_	_	_	(1)
+1260_jane_eyre_an_autobiography_brat_2	0	9	awhile	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	10	since	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	11	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	12	"	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	13	said	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	14	he	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	15	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	16	"	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	17	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	18	for	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	19	your	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	20	sneaking	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	21	way	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	22	of	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	23	getting	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	24	behind	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	25	curtains	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	26	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	27	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	28	for	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	29	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	30	look	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	31	you	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	32	had	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	33	in	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	34	your	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	35	eyes	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	36	two	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	37	minutes	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	38	since	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	39	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	40	you	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	41	rat	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	42	!	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	43	"	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	Accustomed	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	1	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	John	_	_	_	_	_	_	_	_	(6
+1260_jane_eyre_an_autobiography_brat_2	0	3	Reed	_	_	_	_	_	_	_	_	6)
+1260_jane_eyre_an_autobiography_brat_2	0	4	's	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	abuse	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	7	I	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	8	never	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	9	had	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	10	an	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	11	idea	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	12	of	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	13	replying	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	14	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	15	it	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	16	;	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	17	my	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	18	care	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	19	was	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	20	how	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	21	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	22	endure	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	23	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	24	blow	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	25	which	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	26	would	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	27	certainly	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	28	follow	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	29	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	30	insult	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	31	.	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	"	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	1	What	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	were	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	you	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	4	doing	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	behind	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	7	curtain	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	8	?	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	9	"	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	he	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	1	asked	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	.	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	"	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	1	I	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	2	was	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	reading	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	4	.	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	"	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	"	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	1	Show	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	book	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	4	.	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	"	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	I	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	1	returned	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	the	_	_	_	_	_	_	_	_	(54
+1260_jane_eyre_an_autobiography_brat_2	0	4	window	_	_	_	_	_	_	_	_	54)
+1260_jane_eyre_an_autobiography_brat_2	0	5	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	fetched	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	7	it	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	8	thence	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	9	.	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	"	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	1	You	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	2	have	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	no	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	4	business	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	take	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	7	our	_	_	_	_	_	_	_	_	(10)
+1260_jane_eyre_an_autobiography_brat_2	0	8	books	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	9	;	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	10	you	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	11	are	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	12	a	_	_	_	_	_	_	_	_	(55
+1260_jane_eyre_an_autobiography_brat_2	0	13	dependent	_	_	_	_	_	_	_	_	55)
+1260_jane_eyre_an_autobiography_brat_2	0	14	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	15	mama	_	_	_	_	_	_	_	_	(1)
+1260_jane_eyre_an_autobiography_brat_2	0	16	says	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	17	;	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	18	you	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	19	have	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	20	no	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	21	money	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	22	;	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	23	your	_	_	_	_	_	_	_	_	(56|(2)
+1260_jane_eyre_an_autobiography_brat_2	0	24	father	_	_	_	_	_	_	_	_	56)
+1260_jane_eyre_an_autobiography_brat_2	0	25	left	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	26	you	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	27	none	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	28	;	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	29	you	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	30	ought	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	31	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	32	beg	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	33	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	34	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	35	not	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	36	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	37	live	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	38	here	_	_	_	_	_	_	_	_	(3)
+1260_jane_eyre_an_autobiography_brat_2	0	39	with	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	40	gentlemen	_	_	_	_	_	_	_	_	(57)|(58
+1260_jane_eyre_an_autobiography_brat_2	0	41	's	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	42	children	_	_	_	_	_	_	_	_	58)
+1260_jane_eyre_an_autobiography_brat_2	0	43	like	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	44	us	_	_	_	_	_	_	_	_	(8)
+1260_jane_eyre_an_autobiography_brat_2	0	45	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	46	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	47	eat	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	48	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	49	same	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	50	meals	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	51	we	_	_	_	_	_	_	_	_	(8)
+1260_jane_eyre_an_autobiography_brat_2	0	52	do	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	53	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	54	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	55	wear	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	56	clothes	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	57	at	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	58	our	_	_	_	_	_	_	_	_	(1|(8)
+1260_jane_eyre_an_autobiography_brat_2	0	59	mama	_	_	_	_	_	_	_	_	1)
+1260_jane_eyre_an_autobiography_brat_2	0	60	's	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	61	expense	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	62	.	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	Now	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	1	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	I	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	3	'll	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	4	teach	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	you	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	6	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	7	rummage	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	8	my	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	9	bookshelves	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	10	:	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	11	for	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	12	they	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	13	_	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	14	are	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	15	_	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	16	mine	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	17	;	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	18	all	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	19	the	_	_	_	_	_	_	_	_	(3
+1260_jane_eyre_an_autobiography_brat_2	0	20	house	_	_	_	_	_	_	_	_	3)
+1260_jane_eyre_an_autobiography_brat_2	0	21	belongs	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	22	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	23	me	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	24	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	25	or	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	26	will	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	27	do	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	28	in	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	29	a	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	30	few	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	31	years	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	32	.	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	Go	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	1	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	stand	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	by	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	4	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	door	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	7	out	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	8	of	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	9	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	10	way	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	11	of	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	12	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	13	mirror	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	14	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	15	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	16	windows	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	17	.	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	18	"	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	I	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	1	did	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	so	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	4	not	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	at	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	first	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	7	aware	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	8	what	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	9	was	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	10	his	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	11	intention	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	12	;	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	13	but	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	14	when	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	15	I	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	16	saw	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	17	him	_	_	_	_	_	_	_	_	(6)
+1260_jane_eyre_an_autobiography_brat_2	0	18	lift	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	19	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	20	poise	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	21	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	22	book	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	23	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	24	stand	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	25	in	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	26	act	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	27	to	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	28	hurl	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	29	it	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	30	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	31	I	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	32	instinctively	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	33	started	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	34	aside	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	35	with	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	36	a	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	37	cry	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	38	of	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	39	alarm	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	40	:	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	41	not	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	42	soon	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	43	enough	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	44	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	45	however	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	46	;	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	47	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	48	volume	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	49	was	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	50	flung	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	51	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	52	it	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	53	hit	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	54	me	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	55	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	56	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	57	I	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	58	fell	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	59	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	60	striking	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	61	my	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	62	head	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	63	against	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	64	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	65	door	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	66	and	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	67	cutting	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	68	it	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	69	.	_	_	_	_	_	_	_	_	
+
+1260_jane_eyre_an_autobiography_brat_2	0	0	The	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	1	cut	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	2	bled	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	3	,	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	4	the	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	5	pain	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	6	was	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	7	sharp	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	8	:	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	9	my	_	_	_	_	_	_	_	_	(2)
+1260_jane_eyre_an_autobiography_brat_2	0	10	terror	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	11	had	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	12	passed	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	13	its	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	14	climax	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	15	;	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	16	other	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	17	feelings	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	18	succeeded	_	_	_	_	_	_	_	_	
+1260_jane_eyre_an_autobiography_brat_2	0	19	.	_	_	_	_	_	_	_	_	
+
+#end document

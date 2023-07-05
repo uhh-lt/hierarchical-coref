@@ -1,0 +1,724 @@
+#begin document (litbank_splitted/train/711_allan_quatermain_brat_2); part 0
+711_allan_quatermain_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	Ah	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	!	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	’	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	I	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	1	said	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	I	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	5	thought	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	you	_	_	_	_	_	_	_	_	(6)
+711_allan_quatermain_brat_2	0	7	would	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	8	come	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	that	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	11	sooner	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	12	or	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	13	later	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	14	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	And	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	now	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	Good	_	_	_	_	_	_	_	_	(7)
+711_allan_quatermain_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	what	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	is	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	your	_	_	_	_	_	_	_	_	(7)
+711_allan_quatermain_brat_2	0	8	reason	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	for	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	wanting	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	11	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	12	trek	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	13	;	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	14	have	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	15	you	_	_	_	_	_	_	_	_	(7)
+711_allan_quatermain_brat_2	0	16	got	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	17	one	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	18	?	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	19	’	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	I	_	_	_	_	_	_	_	_	(7)
+711_allan_quatermain_brat_2	0	2	have	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	’	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	said	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	Good	_	_	_	_	_	_	_	_	(7)
+711_allan_quatermain_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	8	solemnly	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	I	_	_	_	_	_	_	_	_	(7)
+711_allan_quatermain_brat_2	0	2	never	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	do	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	anything	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	without	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	a	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	reason	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	8	;	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	and	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	it	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	11	is	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	12	n’t	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	13	a	_	_	_	_	_	_	_	_	(36
+711_allan_quatermain_brat_2	0	14	lady	_	_	_	_	_	_	_	_	36)
+711_allan_quatermain_brat_2	0	15	--	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	16	at	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	17	least	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	18	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	19	if	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	20	it	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	21	is	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	22	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	23	it	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	24	’s	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	25	several	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	26	.	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	27	’	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	I	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	1	looked	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	at	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	him	_	_	_	_	_	_	_	_	(7)
+711_allan_quatermain_brat_2	0	4	again	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	Good	_	_	_	_	_	_	_	_	(7)
+711_allan_quatermain_brat_2	0	1	is	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	so	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	overpoweringly	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	frivolous	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	What	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	is	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	it	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	?	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	’	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	I	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	1	said	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	Well	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	if	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	you	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	5	really	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	want	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	8	know	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	though	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	11	I	_	_	_	_	_	_	_	_	(7)
+711_allan_quatermain_brat_2	0	12	’d	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	13	rather	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	14	not	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	15	speak	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	16	of	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	17	a	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	18	delicate	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	19	and	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	20	strictly	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	21	personal	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	22	matter	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	23	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	24	I	_	_	_	_	_	_	_	_	(7)
+711_allan_quatermain_brat_2	0	25	’ll	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	26	tell	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	27	you	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	28	:	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	29	I	_	_	_	_	_	_	_	_	(7)
+711_allan_quatermain_brat_2	0	30	’m	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	31	getting	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	32	too	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	33	fat	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	34	.	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	35	’	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	Shut	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	up	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	Good	_	_	_	_	_	_	_	_	(7)
+711_allan_quatermain_brat_2	0	5	!	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	’	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	said	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	Sir	_	_	_	_	_	_	_	_	(6
+711_allan_quatermain_brat_2	0	2	Henry	_	_	_	_	_	_	_	_	6)
+711_allan_quatermain_brat_2	0	3	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	And	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	now	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	Quatermain	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	5	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	tell	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	us	_	_	_	_	_	_	_	_	(5)
+711_allan_quatermain_brat_2	0	8	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	where	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	do	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	11	you	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	12	propose	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	13	going	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	14	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	15	?	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	16	’	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	I	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	1	lit	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	my	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	3	pipe	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	which	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	had	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	gone	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	8	out	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	before	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	11	answering	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	12	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	Have	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	you	_	_	_	_	_	_	_	_	(5
+711_allan_quatermain_brat_2	0	3	people	_	_	_	_	_	_	_	_	5)
+711_allan_quatermain_brat_2	0	4	ever	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	heard	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	of	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	Mt	_	_	_	_	_	_	_	_	(37
+711_allan_quatermain_brat_2	0	8	Kenia	_	_	_	_	_	_	_	_	37)
+711_allan_quatermain_brat_2	0	9	?	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	’	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	I	_	_	_	_	_	_	_	_	(1)
+711_allan_quatermain_brat_2	0	1	asked	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	Do	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	n’t	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	know	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	the	_	_	_	_	_	_	_	_	(37
+711_allan_quatermain_brat_2	0	5	place	_	_	_	_	_	_	_	_	37)
+711_allan_quatermain_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	’	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	8	said	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	Good	_	_	_	_	_	_	_	_	(7)
+711_allan_quatermain_brat_2	0	10	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	Did	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	you	_	_	_	_	_	_	_	_	(5)
+711_allan_quatermain_brat_2	0	3	ever	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	hear	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	of	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	the	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	Island	_	_	_	_	_	_	_	_	(38
+711_allan_quatermain_brat_2	0	8	of	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	Lamu	_	_	_	_	_	_	_	_	38)
+711_allan_quatermain_brat_2	0	10	?	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	11	’	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	I	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	1	asked	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	again	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	No	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	Stop	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	though	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	--	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	is	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	n’t	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	it	_	_	_	_	_	_	_	_	(38)
+711_allan_quatermain_brat_2	0	7	a	_	_	_	_	_	_	_	_	(48
+711_allan_quatermain_brat_2	0	8	place	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	about	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	300	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	11	miles	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	12	north	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	13	of	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	14	Zanzibar	_	_	_	_	_	_	_	_	(39)|48)
+711_allan_quatermain_brat_2	0	15	?	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	16	’	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	Yes	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	Now	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	listen	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	What	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	I	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	2	have	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	propose	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	is	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	this	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	That	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	we	_	_	_	_	_	_	_	_	(14)
+711_allan_quatermain_brat_2	0	2	go	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	Lamu	_	_	_	_	_	_	_	_	(38)
+711_allan_quatermain_brat_2	0	5	and	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	thence	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	make	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	8	our	_	_	_	_	_	_	_	_	(14)
+711_allan_quatermain_brat_2	0	9	way	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	about	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	11	250	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	12	miles	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	13	inland	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	14	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	15	Mt	_	_	_	_	_	_	_	_	(37
+711_allan_quatermain_brat_2	0	16	Kenia	_	_	_	_	_	_	_	_	37)
+711_allan_quatermain_brat_2	0	17	;	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	18	from	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	19	Mt	_	_	_	_	_	_	_	_	(37
+711_allan_quatermain_brat_2	0	20	Kenia	_	_	_	_	_	_	_	_	37)
+711_allan_quatermain_brat_2	0	21	on	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	22	inland	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	23	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	24	Mt	_	_	_	_	_	_	_	_	(40
+711_allan_quatermain_brat_2	0	25	Lekakisera	_	_	_	_	_	_	_	_	40)
+711_allan_quatermain_brat_2	0	26	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	27	another	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	28	200	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	29	miles	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	30	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	31	or	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	32	thereabouts	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	33	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	34	beyond	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	35	which	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	36	no	_	_	_	_	_	_	_	_	(41
+711_allan_quatermain_brat_2	0	37	white	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	38	man	_	_	_	_	_	_	_	_	41)
+711_allan_quatermain_brat_2	0	39	has	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	40	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	41	the	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	42	best	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	43	of	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	44	my	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	45	belief	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	46	ever	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	47	been	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	48	;	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	49	and	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	50	then	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	51	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	52	if	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	53	we	_	_	_	_	_	_	_	_	(14)
+711_allan_quatermain_brat_2	0	54	get	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	55	so	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	56	far	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	57	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	58	right	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	59	on	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	60	into	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	61	the	_	_	_	_	_	_	_	_	(42
+711_allan_quatermain_brat_2	0	62	unknown	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	63	interior	_	_	_	_	_	_	_	_	42)
+711_allan_quatermain_brat_2	0	64	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	What	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	do	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	you	_	_	_	_	_	_	_	_	(5)
+711_allan_quatermain_brat_2	0	3	say	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	that	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	my	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	8	hearties	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	?	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	’	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	It	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	’s	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	a	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	big	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	order	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	’	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	8	said	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	Sir	_	_	_	_	_	_	_	_	(6
+711_allan_quatermain_brat_2	0	10	Henry	_	_	_	_	_	_	_	_	6)
+711_allan_quatermain_brat_2	0	11	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	12	reflectively	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	13	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	You	_	_	_	_	_	_	_	_	(6)
+711_allan_quatermain_brat_2	0	2	are	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	right	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	’	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	I	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	7	answered	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	8	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	it	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	11	is	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	12	;	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	13	but	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	14	I	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	15	take	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	16	it	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	17	that	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	18	we	_	_	_	_	_	_	_	_	(14)
+711_allan_quatermain_brat_2	0	19	are	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	20	all	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	21	three	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	22	of	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	23	us	_	_	_	_	_	_	_	_	(14)
+711_allan_quatermain_brat_2	0	24	in	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	25	search	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	26	of	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	27	a	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	28	big	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	29	order	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	30	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	We	_	_	_	_	_	_	_	_	(14)
+711_allan_quatermain_brat_2	0	1	want	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	a	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	change	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	of	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	scene	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	and	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	8	we	_	_	_	_	_	_	_	_	(14)
+711_allan_quatermain_brat_2	0	9	are	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	likely	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	11	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	12	get	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	13	one	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	14	--	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	15	a	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	16	thorough	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	17	change	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	18	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	All	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	my	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	2	life	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	I	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	4	have	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	longed	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	visit	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	8	those	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	parts	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	11	and	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	12	I	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	13	mean	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	14	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	15	do	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	16	it	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	17	before	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	18	I	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	19	die	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	20	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	My	_	_	_	_	_	_	_	_	(1|(2)
+711_allan_quatermain_brat_2	0	1	poor	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	boy	_	_	_	_	_	_	_	_	1)
+711_allan_quatermain_brat_2	0	3	’s	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	death	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	has	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	broken	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	the	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	8	last	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	link	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	between	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	11	me	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	12	and	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	13	civilization	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	14	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	15	and	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	16	I	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	17	’m	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	18	off	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	19	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	20	my	_	_	_	_	_	_	_	_	(43|(2)
+711_allan_quatermain_brat_2	0	21	native	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	22	wilds	_	_	_	_	_	_	_	_	43)
+711_allan_quatermain_brat_2	0	23	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	And	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	now	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	I	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	3	’ll	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	tell	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	you	_	_	_	_	_	_	_	_	(5)
+711_allan_quatermain_brat_2	0	6	another	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	thing	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	8	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	and	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	that	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	11	is	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	12	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	13	that	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	14	for	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	15	years	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	16	and	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	17	years	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	18	I	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	19	have	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	20	heard	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	21	rumours	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	22	of	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	23	a	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	24	great	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	25	white	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	26	race	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	27	which	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	28	is	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	29	supposed	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	30	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	31	have	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	32	its	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	33	home	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	34	somewhere	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	35	up	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	36	in	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	37	this	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	38	direction	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	39	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	40	and	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	41	I	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	42	have	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	43	a	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	44	mind	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	45	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	46	see	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	47	if	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	48	there	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	49	is	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	50	any	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	51	truth	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	52	in	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	53	them	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	54	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	If	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	you	_	_	_	_	_	_	_	_	(5
+711_allan_quatermain_brat_2	0	2	fellows	_	_	_	_	_	_	_	_	5)
+711_allan_quatermain_brat_2	0	3	like	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	come	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	well	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	8	and	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	good	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	;	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	11	if	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	12	not	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	13	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	14	I	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	15	’ll	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	16	go	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	17	alone	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	18	.	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	19	’	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	I	_	_	_	_	_	_	_	_	(6)
+711_allan_quatermain_brat_2	0	2	’m	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	your	_	_	_	_	_	_	_	_	(45|(2)
+711_allan_quatermain_brat_2	0	4	man	_	_	_	_	_	_	_	_	45)
+711_allan_quatermain_brat_2	0	5	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	though	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	I	_	_	_	_	_	_	_	_	(6)
+711_allan_quatermain_brat_2	0	8	do	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	n’t	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	believe	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	11	in	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	12	your	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	13	white	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	14	race	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	15	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	16	’	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	17	said	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	18	Sir	_	_	_	_	_	_	_	_	(6
+711_allan_quatermain_brat_2	0	19	Henry	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	20	Curtis	_	_	_	_	_	_	_	_	6)
+711_allan_quatermain_brat_2	0	21	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	22	rising	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	23	and	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	24	placing	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	25	his	_	_	_	_	_	_	_	_	(6)
+711_allan_quatermain_brat_2	0	26	arm	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	27	upon	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	28	my	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	29	shoulder	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	30	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	Ditto	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	’	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	remarked	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	Good	_	_	_	_	_	_	_	_	(7)
+711_allan_quatermain_brat_2	0	6	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	I	_	_	_	_	_	_	_	_	(7)
+711_allan_quatermain_brat_2	0	2	’ll	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	go	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	into	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	training	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	at	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	once	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	8	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	By	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	all	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	means	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	let	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	’s	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	go	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	Mt	_	_	_	_	_	_	_	_	(37
+711_allan_quatermain_brat_2	0	8	Kenia	_	_	_	_	_	_	_	_	37)
+711_allan_quatermain_brat_2	0	9	and	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	the	_	_	_	_	_	_	_	_	(40
+711_allan_quatermain_brat_2	0	11	other	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	12	place	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	13	with	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	14	an	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	15	unpronounceable	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	16	name	_	_	_	_	_	_	_	_	40)
+711_allan_quatermain_brat_2	0	17	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	18	and	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	19	look	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	20	for	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	21	a	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	22	white	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	23	race	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	24	that	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	25	does	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	26	not	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	27	exist	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	28	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	It	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	’s	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	all	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	one	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	me	_	_	_	_	_	_	_	_	(7)
+711_allan_quatermain_brat_2	0	6	.	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	’	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	When	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	do	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	you	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	4	propose	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	start	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	?	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	8	’	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	asked	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	Sir	_	_	_	_	_	_	_	_	(6
+711_allan_quatermain_brat_2	0	2	Henry	_	_	_	_	_	_	_	_	6)
+711_allan_quatermain_brat_2	0	3	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	This	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	day	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	month	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	’	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	I	_	_	_	_	_	_	_	_	(2)
+711_allan_quatermain_brat_2	0	7	answered	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	8	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	‘	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	by	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	11	the	_	_	_	_	_	_	_	_	(44
+711_allan_quatermain_brat_2	0	12	British	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	13	India	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	14	steamboat	_	_	_	_	_	_	_	_	44)
+711_allan_quatermain_brat_2	0	15	;	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	16	and	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	17	do	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	18	n’t	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	19	you	_	_	_	_	_	_	_	_	(7)
+711_allan_quatermain_brat_2	0	20	be	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	21	so	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	22	certain	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	23	that	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	24	things	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	25	have	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	26	no	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	27	existence	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	28	because	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	29	you	_	_	_	_	_	_	_	_	(7)
+711_allan_quatermain_brat_2	0	30	do	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	31	not	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	32	happen	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	33	to	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	34	have	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	35	heard	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	36	of	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	37	them	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	38	.	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	Remember	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	King	_	_	_	_	_	_	_	_	(28|(29|(2)
+711_allan_quatermain_brat_2	0	2	Solomon	_	_	_	_	_	_	_	_	28)
+711_allan_quatermain_brat_2	0	3	’s	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	mines	_	_	_	_	_	_	_	_	29)
+711_allan_quatermain_brat_2	0	5	!	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	’	_	_	_	_	_	_	_	_	
+
+711_allan_quatermain_brat_2	0	0	Some	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	1	fourteen	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	2	weeks	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	3	or	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	4	so	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	5	had	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	6	passed	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	7	since	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	8	the	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	9	date	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	10	of	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	11	this	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	12	conversation	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	13	,	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	14	and	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	15	this	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	16	history	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	17	goes	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	18	on	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	19	its	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	20	way	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	21	in	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	22	very	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	23	different	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	24	surroundings	_	_	_	_	_	_	_	_	
+711_allan_quatermain_brat_2	0	25	.	_	_	_	_	_	_	_	_	
+
+#end document

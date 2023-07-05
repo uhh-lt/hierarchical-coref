@@ -189,6 +189,7 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
         print(f"Loading from {path}...")
         state_dicts = torch.load(path, map_location=map_location)
         self.epochs_trained = state_dicts.pop("epochs_trained", 0)
+        #print(f'self.epochs_trained : { self.epochs_trained}')
         for key, state_dict in state_dicts.items():
             if not ignore or key not in ignore:
                 if key.endswith("_optimizer"):
@@ -200,8 +201,7 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
                 print(f"Loaded {key}")
 
     def run(self,  # pylint: disable=too-many-locals
-            doc: Doc,
-            ) -> CorefResult:
+            doc: Doc) -> CorefResult:
         """
         This is a massive method, but it made sense to me to not split it into
         several ones to let one see the data flow.
@@ -224,7 +224,6 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
 
         # Get pairwise features [n_words, n_ants, n_pw_features]
         pw = self.pw(top_indices, doc)
-
         batch_size = self.config.a_scoring_batch_size
         a_scores_lst: List[torch.Tensor] = []
 
@@ -281,7 +280,7 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
         docs = list(self._get_docs(self.config.train_data))
         docs_ids = list(range(len(docs)))
         avg_spans = sum(len(doc["head2span"]) for doc in docs) / len(docs)
-
+        #print(f'self.config.train_epochs: {self.config.train_epochs}')
         for epoch in range(self.epochs_trained, self.config.train_epochs):
             self.training = True
             running_c_loss = 0.0
@@ -324,7 +323,8 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
                 )
 
             self.epochs_trained += 1
-            self.save_weights()
+            if(self.epochs_trained == self.config.train_epochs - 1):
+                self.save_weights()
             self.evaluate()
 
     # ========================================================= Private methods
@@ -413,7 +413,9 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
     def _clusterize(self, doc: Doc, scores: torch.Tensor, top_indices: torch.Tensor):
         antecedents = scores.argmax(dim=1) - 1
         not_dummy = antecedents >= 0
+        not_dummy = not_dummy.to(torch.device('cpu'))
         coref_span_heads = torch.arange(0, len(scores))[not_dummy]
+        
         antecedents = top_indices[coref_span_heads, antecedents[not_dummy]]
 
         nodes = [GraphNode(i) for i in range(len(doc["cased_words"]))]
@@ -433,7 +435,7 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
                     stack.extend(link for link in current_node.links if not link.visited)
                 assert len(cluster) > 1
                 clusters.append(sorted(cluster))
-        return sorted(clusters)
+        return sorted(clusters)  # returns clusters with words
 
     def _get_docs(self, path: str) -> List[Doc]:
         if path not in self._docs:

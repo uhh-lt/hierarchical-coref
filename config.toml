@@ -13,6 +13,8 @@ dev_data = "data/english_development_head.jsonlines"
 test_data = "data/english_test_head.jsonlines"
 
 # The device where everything is to be placed. "cuda:N"/"cpu" are supported.
+#export CUDA_VISIBLE_DEVICES=0
+
 device = "cuda:0"
 
 
@@ -71,10 +73,10 @@ dropout_rate = 0.3
 bert_learning_rate = 1e-5
 
 # Task learning rate
-learning_rate = 3e-4
+learning_rate = 3e-6
 
 # For how many epochs the training is done
-train_epochs = 20
+train_epochs = 40
 
 # Controls the weight of binary cross entropy loss added to nlml loss
 bce_loss_weight = 0.5

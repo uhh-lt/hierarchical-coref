@@ -46,9 +46,13 @@ class AnaphoricityScorer(torch.nn.Module):
                 anaphoricity scores for the pairs + a dummy column
         """
         # [batch_size, n_ants, pair_emb]
+        # print("all mentions shape", all_mentions.shape)
+        # print("mention_batch",mentions_batch.shape )
+        # print("pw_batch", pw_batch.shape)
+        # print("top_indices_batch", top_indices_batch.shape)
         pair_matrix = self._get_pair_matrix(
             all_mentions, mentions_batch, pw_batch, top_indices_batch)
-
+        # print("pair_matrix_shape", pair_matrix.shape)
         # [batch_size, n_ants]
         scores = top_rough_scores_batch + self._ffnn(pair_matrix)
         scores = utils.add_dummy(scores, eps=True)

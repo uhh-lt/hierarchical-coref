@@ -71,7 +71,7 @@ if __name__ == "__main__":
             result = model.run(doc)
             doc["span_clusters"] = result.span_clusters
             doc["word_clusters"] = result.word_clusters
-
+            print(doc["word_clusters"])
             for key in ("word2subword", "subwords", "word_id", "head2span"):
                 del doc[key]
 

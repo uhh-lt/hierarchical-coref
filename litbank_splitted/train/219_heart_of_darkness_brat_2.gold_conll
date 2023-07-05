@@ -1,0 +1,904 @@
+#begin document (litbank_splitted/train/219_heart_of_darkness_brat_2); part 0
+219_heart_of_darkness_brat_2	0	0	He	_	_	_	_	_	_	_	_	(18)
+219_heart_of_darkness_brat_2	0	1	was	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	a	_	_	_	_	_	_	_	_	(125
+219_heart_of_darkness_brat_2	0	3	seaman	_	_	_	_	_	_	_	_	125)
+219_heart_of_darkness_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	but	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	he	_	_	_	_	_	_	_	_	(18)
+219_heart_of_darkness_brat_2	0	7	was	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	a	_	_	_	_	_	_	_	_	(126
+219_heart_of_darkness_brat_2	0	9	wanderer	_	_	_	_	_	_	_	_	126)
+219_heart_of_darkness_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	11	too	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	12	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	13	while	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	most	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	15	seamen	_	_	_	_	_	_	_	_	(74)
+219_heart_of_darkness_brat_2	0	16	lead	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	17	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	18	if	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	19	one	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	20	may	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	21	so	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	22	express	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	23	it	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	24	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	25	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	26	sedentary	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	27	life	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	28	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	Their	_	_	_	_	_	_	_	_	(74)
+219_heart_of_darkness_brat_2	0	1	minds	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	are	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	stay-at-home	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	order	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	and	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	9	their	_	_	_	_	_	_	_	_	(75|(74)
+219_heart_of_darkness_brat_2	0	10	home	_	_	_	_	_	_	_	_	75)
+219_heart_of_darkness_brat_2	0	11	is	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	12	always	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	13	with	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	them	_	_	_	_	_	_	_	_	(74)
+219_heart_of_darkness_brat_2	0	15	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	16	the	_	_	_	_	_	_	_	_	(76
+219_heart_of_darkness_brat_2	0	17	ship	_	_	_	_	_	_	_	_	76)
+219_heart_of_darkness_brat_2	0	18	;	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	19	and	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	20	so	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	21	is	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	22	their	_	_	_	_	_	_	_	_	(74)
+219_heart_of_darkness_brat_2	0	23	country	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	24	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	25	the	_	_	_	_	_	_	_	_	(4
+219_heart_of_darkness_brat_2	0	26	sea	_	_	_	_	_	_	_	_	4)
+219_heart_of_darkness_brat_2	0	27	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	One	_	_	_	_	_	_	_	_	(77
+219_heart_of_darkness_brat_2	0	1	ship	_	_	_	_	_	_	_	_	77)
+219_heart_of_darkness_brat_2	0	2	is	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	very	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	much	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	like	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	another	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	and	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	9	the	_	_	_	_	_	_	_	_	(4
+219_heart_of_darkness_brat_2	0	10	sea	_	_	_	_	_	_	_	_	4)
+219_heart_of_darkness_brat_2	0	11	is	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	12	always	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	13	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	same	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	15	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	In	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	immutability	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	their	_	_	_	_	_	_	_	_	(74)
+219_heart_of_darkness_brat_2	0	5	surroundings	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	the	_	_	_	_	_	_	_	_	(78
+219_heart_of_darkness_brat_2	0	7	foreign	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	shores	_	_	_	_	_	_	_	_	78)
+219_heart_of_darkness_brat_2	0	9	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	10	the	_	_	_	_	_	_	_	_	(79
+219_heart_of_darkness_brat_2	0	11	foreign	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	12	faces	_	_	_	_	_	_	_	_	79)
+219_heart_of_darkness_brat_2	0	13	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	15	changing	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	16	immensity	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	17	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	18	life	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	19	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	20	glide	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	21	past	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	22	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	23	veiled	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	24	not	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	25	by	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	26	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	27	sense	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	28	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	29	mystery	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	30	but	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	31	by	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	32	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	33	slightly	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	34	disdainful	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	35	ignorance	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	36	;	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	37	for	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	38	there	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	39	is	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	40	nothing	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	41	mysterious	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	42	to	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	43	a	_	_	_	_	_	_	_	_	(80
+219_heart_of_darkness_brat_2	0	44	seaman	_	_	_	_	_	_	_	_	80)
+219_heart_of_darkness_brat_2	0	45	unless	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	46	it	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	47	be	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	48	the	_	_	_	_	_	_	_	_	(4
+219_heart_of_darkness_brat_2	0	49	sea	_	_	_	_	_	_	_	_	4)
+219_heart_of_darkness_brat_2	0	50	itself	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	51	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	52	which	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	53	is	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	54	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	55	mistress	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	56	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	57	his	_	_	_	_	_	_	_	_	(80)
+219_heart_of_darkness_brat_2	0	58	existence	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	59	and	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	60	as	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	61	inscrutable	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	62	as	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	63	Destiny	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	64	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	For	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	rest	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	after	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	his	_	_	_	_	_	_	_	_	(80)
+219_heart_of_darkness_brat_2	0	6	hours	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	work	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	9	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	10	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	11	casual	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	12	stroll	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	13	or	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	15	casual	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	16	spree	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	17	on	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	18	shore	_	_	_	_	_	_	_	_	(81)
+219_heart_of_darkness_brat_2	0	19	suffices	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	20	to	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	21	unfold	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	22	for	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	23	him	_	_	_	_	_	_	_	_	(80)
+219_heart_of_darkness_brat_2	0	24	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	25	secret	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	26	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	27	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	28	whole	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	29	continent	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	30	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	31	and	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	32	generally	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	33	he	_	_	_	_	_	_	_	_	(80)
+219_heart_of_darkness_brat_2	0	34	finds	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	35	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	36	secret	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	37	not	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	38	worth	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	39	knowing	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	40	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	The	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	yarns	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	seamen	_	_	_	_	_	_	_	_	(74)
+219_heart_of_darkness_brat_2	0	4	have	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	direct	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	simplicity	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	9	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	10	whole	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	11	meaning	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	12	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	13	which	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	lies	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	15	within	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	16	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	17	shell	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	18	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	19	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	20	cracked	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	21	nut	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	22	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	But	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	Marlow	_	_	_	_	_	_	_	_	(18)
+219_heart_of_darkness_brat_2	0	2	was	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	not	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	typical	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	(	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	if	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	his	_	_	_	_	_	_	_	_	(18)
+219_heart_of_darkness_brat_2	0	8	propensity	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	9	to	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	10	spin	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	11	yarns	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	12	be	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	13	excepted	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	)	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	15	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	16	and	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	17	to	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	18	him	_	_	_	_	_	_	_	_	(18)
+219_heart_of_darkness_brat_2	0	19	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	20	meaning	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	21	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	22	an	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	23	episode	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	24	was	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	25	not	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	26	inside	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	27	like	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	28	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	29	kernel	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	30	but	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	31	outside	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	32	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	33	enveloping	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	34	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	35	tale	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	36	which	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	37	brought	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	38	it	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	39	out	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	40	only	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	41	as	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	42	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	43	glow	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	44	brings	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	45	out	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	46	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	47	haze	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	48	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	49	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	50	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	51	likeness	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	52	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	53	one	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	54	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	55	these	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	56	misty	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	57	halos	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	58	that	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	59	sometimes	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	60	are	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	61	made	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	62	visible	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	63	by	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	64	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	65	spectral	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	66	illumination	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	67	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	68	moonshine	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	69	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	His	_	_	_	_	_	_	_	_	(18)
+219_heart_of_darkness_brat_2	0	1	remark	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	did	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	not	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	seem	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	at	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	all	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	surprising	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	It	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	was	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	just	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	like	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	Marlow	_	_	_	_	_	_	_	_	(18)
+219_heart_of_darkness_brat_2	0	5	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	It	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	was	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	accepted	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	silence	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	No	_	_	_	_	_	_	_	_	(82
+219_heart_of_darkness_brat_2	0	1	one	_	_	_	_	_	_	_	_	82)
+219_heart_of_darkness_brat_2	0	2	took	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	trouble	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	to	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	grunt	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	even	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	;	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	9	and	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	10	presently	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	11	he	_	_	_	_	_	_	_	_	(18)
+219_heart_of_darkness_brat_2	0	12	said	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	13	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	very	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	15	slow	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	16	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	17	“	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	18	I	_	_	_	_	_	_	_	_	(18)
+219_heart_of_darkness_brat_2	0	19	was	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	20	thinking	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	21	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	22	very	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	23	old	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	24	times	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	25	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	26	when	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	27	the	_	_	_	_	_	_	_	_	(83
+219_heart_of_darkness_brat_2	0	28	Romans	_	_	_	_	_	_	_	_	83)
+219_heart_of_darkness_brat_2	0	29	first	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	30	came	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	31	here	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	32	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	33	nineteen	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	34	hundred	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	35	years	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	36	ago	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	37	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	38	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	39	other	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	40	day	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	41	...	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	42	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	Light	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	came	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	out	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	this	_	_	_	_	_	_	_	_	(1
+219_heart_of_darkness_brat_2	0	5	river	_	_	_	_	_	_	_	_	1)
+219_heart_of_darkness_brat_2	0	6	since	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	you	_	_	_	_	_	_	_	_	(84)
+219_heart_of_darkness_brat_2	0	9	say	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	10	Knights	_	_	_	_	_	_	_	_	(85)
+219_heart_of_darkness_brat_2	0	11	?	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	Yes	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	;	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	but	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	it	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	is	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	like	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	running	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	blaze	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	9	on	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	10	a	_	_	_	_	_	_	_	_	(86
+219_heart_of_darkness_brat_2	0	11	plain	_	_	_	_	_	_	_	_	86)
+219_heart_of_darkness_brat_2	0	12	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	13	like	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	15	flash	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	16	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	17	lightning	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	18	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	19	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	20	clouds	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	21	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	We	_	_	_	_	_	_	_	_	(87)
+219_heart_of_darkness_brat_2	0	1	live	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	flicker	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	may	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	it	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	last	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	9	as	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	10	long	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	11	as	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	12	the	_	_	_	_	_	_	_	_	(88
+219_heart_of_darkness_brat_2	0	13	old	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	earth	_	_	_	_	_	_	_	_	88)
+219_heart_of_darkness_brat_2	0	15	keeps	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	16	rolling	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	17	!	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	But	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	darkness	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	was	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	here	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	yesterday	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	Imagine	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	feelings	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	commander	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	fine	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	9	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	10	what	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	11	d'ye	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	12	call	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	13	'em	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	?	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	trireme	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	the	_	_	_	_	_	_	_	_	(89
+219_heart_of_darkness_brat_2	0	4	Mediterranean	_	_	_	_	_	_	_	_	89)
+219_heart_of_darkness_brat_2	0	5	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	ordered	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	suddenly	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	to	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	9	the	_	_	_	_	_	_	_	_	(90
+219_heart_of_darkness_brat_2	0	10	north	_	_	_	_	_	_	_	_	90)
+219_heart_of_darkness_brat_2	0	11	;	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	12	run	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	13	overland	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	across	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	15	the	_	_	_	_	_	_	_	_	(91
+219_heart_of_darkness_brat_2	0	16	Gauls	_	_	_	_	_	_	_	_	91)
+219_heart_of_darkness_brat_2	0	17	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	18	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	19	hurry	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	20	;	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	21	put	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	22	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	23	charge	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	24	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	25	one	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	26	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	27	these	_	_	_	_	_	_	_	_	(92
+219_heart_of_darkness_brat_2	0	28	craft	_	_	_	_	_	_	_	_	92)
+219_heart_of_darkness_brat_2	0	29	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	30	legionaries	_	_	_	_	_	_	_	_	(93)
+219_heart_of_darkness_brat_2	0	31	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	32	a	_	_	_	_	_	_	_	_	(93
+219_heart_of_darkness_brat_2	0	33	wonderful	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	34	lot	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	35	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	36	handy	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	37	men	_	_	_	_	_	_	_	_	93)
+219_heart_of_darkness_brat_2	0	38	they	_	_	_	_	_	_	_	_	(93)
+219_heart_of_darkness_brat_2	0	39	must	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	40	have	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	41	been	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	42	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	43	too	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	44	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	45	used	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	46	to	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	47	build	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	48	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	49	apparently	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	50	by	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	51	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	52	hundred	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	53	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	54	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	55	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	56	month	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	57	or	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	58	two	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	59	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	60	if	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	61	we	_	_	_	_	_	_	_	_	(94)
+219_heart_of_darkness_brat_2	0	62	may	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	63	believe	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	64	what	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	65	we	_	_	_	_	_	_	_	_	(94)
+219_heart_of_darkness_brat_2	0	66	read	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	67	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	Imagine	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	him	_	_	_	_	_	_	_	_	(95)
+219_heart_of_darkness_brat_2	0	2	here	_	_	_	_	_	_	_	_	(96)
+219_heart_of_darkness_brat_2	0	3	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	the	_	_	_	_	_	_	_	_	(96
+219_heart_of_darkness_brat_2	0	5	very	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	end	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	9	world	_	_	_	_	_	_	_	_	96)
+219_heart_of_darkness_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	11	a	_	_	_	_	_	_	_	_	(4
+219_heart_of_darkness_brat_2	0	12	sea	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	13	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	colour	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	15	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	16	lead	_	_	_	_	_	_	_	_	4)
+219_heart_of_darkness_brat_2	0	17	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	18	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	19	sky	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	20	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	21	colour	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	22	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	23	smoke	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	24	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	25	a	_	_	_	_	_	_	_	_	(97
+219_heart_of_darkness_brat_2	0	26	kind	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	27	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	28	ship	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	29	about	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	30	as	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	31	rigid	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	32	as	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	33	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	34	concertina	_	_	_	_	_	_	_	_	97)
+219_heart_of_darkness_brat_2	0	35	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	36	and	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	37	going	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	38	up	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	39	this	_	_	_	_	_	_	_	_	(1
+219_heart_of_darkness_brat_2	0	40	river	_	_	_	_	_	_	_	_	1)
+219_heart_of_darkness_brat_2	0	41	with	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	42	stores	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	43	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	44	or	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	45	orders	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	46	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	47	or	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	48	what	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	49	you	_	_	_	_	_	_	_	_	(2)
+219_heart_of_darkness_brat_2	0	50	like	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	51	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	Sand-banks	_	_	_	_	_	_	_	_	(98)
+219_heart_of_darkness_brat_2	0	1	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	marshes	_	_	_	_	_	_	_	_	(99)
+219_heart_of_darkness_brat_2	0	3	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	forests	_	_	_	_	_	_	_	_	(100)
+219_heart_of_darkness_brat_2	0	5	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	savages	_	_	_	_	_	_	_	_	(101)
+219_heart_of_darkness_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	9	precious	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	10	little	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	11	to	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	12	eat	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	13	fit	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	for	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	15	a	_	_	_	_	_	_	_	_	(102
+219_heart_of_darkness_brat_2	0	16	civilized	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	17	man	_	_	_	_	_	_	_	_	102)
+219_heart_of_darkness_brat_2	0	18	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	19	nothing	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	20	but	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	21	Thames	_	_	_	_	_	_	_	_	(1)
+219_heart_of_darkness_brat_2	0	22	water	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	23	to	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	24	drink	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	25	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	No	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	Falernian	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	wine	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	here	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	no	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	going	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	ashore	_	_	_	_	_	_	_	_	(103)
+219_heart_of_darkness_brat_2	0	8	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	Here	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	and	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	there	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	a	_	_	_	_	_	_	_	_	(104
+219_heart_of_darkness_brat_2	0	4	military	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	camp	_	_	_	_	_	_	_	_	104)
+219_heart_of_darkness_brat_2	0	6	lost	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	a	_	_	_	_	_	_	_	_	(105
+219_heart_of_darkness_brat_2	0	9	wilderness	_	_	_	_	_	_	_	_	105)
+219_heart_of_darkness_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	11	like	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	12	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	13	needle	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	15	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	16	bundle	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	17	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	18	hay	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	19	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	20	cold	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	21	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	22	fog	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	23	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	24	tempests	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	25	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	26	disease	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	27	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	28	exile	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	29	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	30	and	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	31	death	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	32	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	33	death	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	34	skulking	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	35	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	36	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	37	air	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	38	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	39	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	40	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	41	water	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	42	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	43	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	44	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	45	bush	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	46	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	They	_	_	_	_	_	_	_	_	(93)
+219_heart_of_darkness_brat_2	0	1	must	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	have	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	been	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	dying	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	like	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	flies	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	here	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	Oh	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	yes	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	he	_	_	_	_	_	_	_	_	(95)
+219_heart_of_darkness_brat_2	0	5	did	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	it	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	Did	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	it	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	very	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	well	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	too	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	no	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	doubt	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	9	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	10	and	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	11	without	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	12	thinking	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	13	much	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	about	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	15	it	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	16	either	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	17	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	18	except	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	19	afterwards	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	20	to	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	21	brag	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	22	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	23	what	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	24	he	_	_	_	_	_	_	_	_	(95)
+219_heart_of_darkness_brat_2	0	25	had	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	26	gone	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	27	through	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	28	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	29	his	_	_	_	_	_	_	_	_	(95)
+219_heart_of_darkness_brat_2	0	30	time	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	31	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	32	perhaps	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	33	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	They	_	_	_	_	_	_	_	_	(93)
+219_heart_of_darkness_brat_2	0	1	were	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	men	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	enough	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	to	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	face	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	darkness	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	And	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	perhaps	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	he	_	_	_	_	_	_	_	_	(95)
+219_heart_of_darkness_brat_2	0	3	was	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	cheered	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	by	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	keeping	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	his	_	_	_	_	_	_	_	_	(95)
+219_heart_of_darkness_brat_2	0	8	eye	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	9	on	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	10	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	11	chance	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	12	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	13	promotion	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	to	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	15	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	16	fleet	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	17	at	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	18	Ravenna	_	_	_	_	_	_	_	_	(106)
+219_heart_of_darkness_brat_2	0	19	by	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	20	and	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	21	by	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	22	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	23	if	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	24	he	_	_	_	_	_	_	_	_	(95)
+219_heart_of_darkness_brat_2	0	25	had	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	26	good	_	_	_	_	_	_	_	_	(107
+219_heart_of_darkness_brat_2	0	27	friends	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	28	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	29	Rome	_	_	_	_	_	_	_	_	(108)|107)
+219_heart_of_darkness_brat_2	0	30	and	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	31	survived	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	32	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	33	awful	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	34	climate	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	35	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	Or	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	think	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	a	_	_	_	_	_	_	_	_	(109
+219_heart_of_darkness_brat_2	0	4	decent	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	young	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	citizen	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	9	toga	_	_	_	_	_	_	_	_	109)
+219_heart_of_darkness_brat_2	0	10	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	11	perhaps	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	12	too	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	13	much	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	dice	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	15	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	16	you	_	_	_	_	_	_	_	_	(2)
+219_heart_of_darkness_brat_2	0	17	know	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	18	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	19	coming	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	20	out	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	21	here	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	22	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	23	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	24	train	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	25	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	26	some	_	_	_	_	_	_	_	_	(110
+219_heart_of_darkness_brat_2	0	27	prefect	_	_	_	_	_	_	_	_	110)
+219_heart_of_darkness_brat_2	0	28	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	29	or	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	30	tax-gatherer	_	_	_	_	_	_	_	_	(111)
+219_heart_of_darkness_brat_2	0	31	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	32	or	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	33	trader	_	_	_	_	_	_	_	_	(112)
+219_heart_of_darkness_brat_2	0	34	even	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	35	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	36	to	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	37	mend	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	38	his	_	_	_	_	_	_	_	_	(109)
+219_heart_of_darkness_brat_2	0	39	fortunes	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	40	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	Land	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	a	_	_	_	_	_	_	_	_	(113
+219_heart_of_darkness_brat_2	0	3	swamp	_	_	_	_	_	_	_	_	113)
+219_heart_of_darkness_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	march	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	through	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	the	_	_	_	_	_	_	_	_	(114
+219_heart_of_darkness_brat_2	0	8	woods	_	_	_	_	_	_	_	_	114)
+219_heart_of_darkness_brat_2	0	9	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	10	and	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	11	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	12	some	_	_	_	_	_	_	_	_	(115
+219_heart_of_darkness_brat_2	0	13	inland	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	post	_	_	_	_	_	_	_	_	115)
+219_heart_of_darkness_brat_2	0	15	feel	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	16	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	17	savagery	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	18	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	19	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	20	utter	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	21	savagery	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	22	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	23	had	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	24	closed	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	25	round	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	26	him	_	_	_	_	_	_	_	_	(109)
+219_heart_of_darkness_brat_2	0	27	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	28	all	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	29	that	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	30	mysterious	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	31	life	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	32	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	33	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	34	wilderness	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	35	that	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	36	stirs	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	37	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	38	the	_	_	_	_	_	_	_	_	(116
+219_heart_of_darkness_brat_2	0	39	forest	_	_	_	_	_	_	_	_	116)
+219_heart_of_darkness_brat_2	0	40	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	41	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	42	the	_	_	_	_	_	_	_	_	(117
+219_heart_of_darkness_brat_2	0	43	jungles	_	_	_	_	_	_	_	_	117)
+219_heart_of_darkness_brat_2	0	44	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	45	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	46	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	47	hearts	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	48	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	49	wild	_	_	_	_	_	_	_	_	(118
+219_heart_of_darkness_brat_2	0	50	men	_	_	_	_	_	_	_	_	118)
+219_heart_of_darkness_brat_2	0	51	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	There	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	's	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	no	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	initiation	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	either	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	into	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	such	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	mysteries	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	He	_	_	_	_	_	_	_	_	(109)
+219_heart_of_darkness_brat_2	0	1	has	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	to	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	live	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	in	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	midst	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	9	incomprehensible	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	11	which	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	12	is	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	13	also	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	detestable	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	15	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	And	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	it	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	has	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	a	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	fascination	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	too	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	that	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	9	goes	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	10	to	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	11	work	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	12	upon	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	13	him	_	_	_	_	_	_	_	_	(109)
+219_heart_of_darkness_brat_2	0	14	.	_	_	_	_	_	_	_	_	
+
+219_heart_of_darkness_brat_2	0	0	The	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	1	fascination	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	2	of	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	3	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	4	abomination	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	5	--	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	6	you	_	_	_	_	_	_	_	_	(2)
+219_heart_of_darkness_brat_2	0	7	know	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	8	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	9	imagine	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	10	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	11	growing	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	12	regrets	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	13	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	14	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	15	longing	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	16	to	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	17	escape	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	18	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	19	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	20	powerless	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	21	disgust	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	22	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	23	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	24	surrender	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	25	,	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	26	the	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	27	hate	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	28	.	_	_	_	_	_	_	_	_	
+219_heart_of_darkness_brat_2	0	29	”	_	_	_	_	_	_	_	_	
+
+#end document

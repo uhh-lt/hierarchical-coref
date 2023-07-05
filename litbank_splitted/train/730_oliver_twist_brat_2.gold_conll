@@ -1,0 +1,981 @@
+#begin document (litbank_splitted/train/730_oliver_twist_brat_2); part 0
+730_oliver_twist_brat_2	0	0	'	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	1	The	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	old	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	3	story	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	5	'	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	6	he	_	_	_	_	_	_	_	_	(9)
+730_oliver_twist_brat_2	0	7	said	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	8	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	9	shaking	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	10	his	_	_	_	_	_	_	_	_	(9)
+730_oliver_twist_brat_2	0	11	head	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	12	:	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	13	'	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	14	no	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	15	wedding-ring	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	16	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	17	I	_	_	_	_	_	_	_	_	(9)
+730_oliver_twist_brat_2	0	18	see	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	19	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	Ah	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	1	!	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	Good-night	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	1	!	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	'	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	The	_	_	_	_	_	_	_	_	(9
+730_oliver_twist_brat_2	0	1	medical	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	gentleman	_	_	_	_	_	_	_	_	9)
+730_oliver_twist_brat_2	0	3	walked	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	4	away	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	5	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	6	dinner	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	7	;	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	8	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	9	the	_	_	_	_	_	_	_	_	(19
+730_oliver_twist_brat_2	0	10	nurse	_	_	_	_	_	_	_	_	19)
+730_oliver_twist_brat_2	0	11	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	12	having	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	13	once	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	14	more	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	15	applied	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	16	herself	_	_	_	_	_	_	_	_	(19)
+730_oliver_twist_brat_2	0	17	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	18	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	19	green	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	20	bottle	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	21	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	22	sat	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	23	down	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	24	on	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	25	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	26	low	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	27	chair	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	28	before	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	29	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	30	fire	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	31	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	32	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	33	proceeded	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	34	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	35	dress	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	36	the	_	_	_	_	_	_	_	_	(3
+730_oliver_twist_brat_2	0	37	infant	_	_	_	_	_	_	_	_	3)
+730_oliver_twist_brat_2	0	38	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	What	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	1	an	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	excellent	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	3	example	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	4	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	5	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	6	power	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	7	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	8	dress	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	9	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	10	young	_	_	_	_	_	_	_	_	(3
+730_oliver_twist_brat_2	0	11	Oliver	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	12	Twist	_	_	_	_	_	_	_	_	3)
+730_oliver_twist_brat_2	0	13	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	14	!	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	Wrapped	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	1	in	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	3	blanket	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	4	which	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	5	had	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	6	hitherto	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	7	formed	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	8	his	_	_	_	_	_	_	_	_	(3)
+730_oliver_twist_brat_2	0	9	only	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	10	covering	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	11	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	12	he	_	_	_	_	_	_	_	_	(3)
+730_oliver_twist_brat_2	0	13	might	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	14	have	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	15	been	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	16	the	_	_	_	_	_	_	_	_	(50
+730_oliver_twist_brat_2	0	17	child	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	18	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	19	a	_	_	_	_	_	_	_	_	(27
+730_oliver_twist_brat_2	0	20	nobleman	_	_	_	_	_	_	_	_	27)
+730_oliver_twist_brat_2	0	21	or	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	22	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	23	beggar	_	_	_	_	_	_	_	_	(28)|50)
+730_oliver_twist_brat_2	0	24	;	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	25	it	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	26	would	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	27	have	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	28	been	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	29	hard	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	30	for	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	31	the	_	_	_	_	_	_	_	_	(29
+730_oliver_twist_brat_2	0	32	haughtiest	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	33	stranger	_	_	_	_	_	_	_	_	29)
+730_oliver_twist_brat_2	0	34	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	35	have	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	36	assigned	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	37	him	_	_	_	_	_	_	_	_	(3)
+730_oliver_twist_brat_2	0	38	his	_	_	_	_	_	_	_	_	(3)
+730_oliver_twist_brat_2	0	39	proper	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	40	station	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	41	in	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	42	society	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	43	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	But	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	1	now	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	that	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	3	he	_	_	_	_	_	_	_	_	(3)
+730_oliver_twist_brat_2	0	4	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	5	enveloped	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	6	in	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	7	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	8	old	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	9	calico	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	10	robes	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	11	which	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	12	had	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	13	grown	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	14	yellow	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	15	in	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	16	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	17	same	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	18	service	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	19	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	20	he	_	_	_	_	_	_	_	_	(3)
+730_oliver_twist_brat_2	0	21	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	22	badged	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	23	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	24	ticketed	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	25	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	26	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	27	fell	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	28	into	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	29	his	_	_	_	_	_	_	_	_	(3)
+730_oliver_twist_brat_2	0	30	place	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	31	at	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	32	once	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	33	--	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	34	a	_	_	_	_	_	_	_	_	(3|(10
+730_oliver_twist_brat_2	0	35	parish	_	_	_	_	_	_	_	_	10)
+730_oliver_twist_brat_2	0	36	child	_	_	_	_	_	_	_	_	3)
+730_oliver_twist_brat_2	0	37	--	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	38	the	_	_	_	_	_	_	_	_	(56
+730_oliver_twist_brat_2	0	39	orphan	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	40	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	41	a	_	_	_	_	_	_	_	_	(2
+730_oliver_twist_brat_2	0	42	workhouse	_	_	_	_	_	_	_	_	56)|2)
+730_oliver_twist_brat_2	0	43	--	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	44	the	_	_	_	_	_	_	_	_	(52
+730_oliver_twist_brat_2	0	45	humble	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	46	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	47	half-starved	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	48	drudge	_	_	_	_	_	_	_	_	52)
+730_oliver_twist_brat_2	0	49	--	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	50	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	51	be	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	52	cuffed	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	53	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	54	buffeted	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	55	through	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	56	the	_	_	_	_	_	_	_	_	(8
+730_oliver_twist_brat_2	0	57	world	_	_	_	_	_	_	_	_	8)
+730_oliver_twist_brat_2	0	58	--	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	59	despised	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	60	by	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	61	all	_	_	_	_	_	_	_	_	(30)
+730_oliver_twist_brat_2	0	62	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	63	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	64	pitied	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	65	by	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	66	none	_	_	_	_	_	_	_	_	(31)
+730_oliver_twist_brat_2	0	67	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	Oliver	_	_	_	_	_	_	_	_	(3)
+730_oliver_twist_brat_2	0	1	cried	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	lustily	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	3	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	If	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	1	he	_	_	_	_	_	_	_	_	(3)
+730_oliver_twist_brat_2	0	2	could	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	3	have	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	4	known	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	5	that	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	6	he	_	_	_	_	_	_	_	_	(3)
+730_oliver_twist_brat_2	0	7	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	8	an	_	_	_	_	_	_	_	_	(57
+730_oliver_twist_brat_2	0	9	orphan	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	11	left	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	12	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	13	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	14	tender	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	15	mercies	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	16	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	17	church-wardens	_	_	_	_	_	_	_	_	(32)
+730_oliver_twist_brat_2	0	18	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	19	overseers	_	_	_	_	_	_	_	_	(24)|57)
+730_oliver_twist_brat_2	0	20	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	21	perhaps	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	22	he	_	_	_	_	_	_	_	_	(3)
+730_oliver_twist_brat_2	0	23	would	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	24	have	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	25	cried	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	26	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	27	louder	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	28	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	CHAPTER	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	1	II	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	TREATS	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	3	OF	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	4	OLIVER	_	_	_	_	_	_	_	_	(3
+730_oliver_twist_brat_2	0	5	TWIST	_	_	_	_	_	_	_	_	3)
+730_oliver_twist_brat_2	0	6	'S	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	7	GROWTH	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	8	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	9	EDUCATION	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	11	AND	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	12	BOARD	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	13	For	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	14	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	15	next	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	16	eight	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	17	or	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	18	ten	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	19	months	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	20	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	21	Oliver	_	_	_	_	_	_	_	_	(3)
+730_oliver_twist_brat_2	0	22	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	23	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	24	victim	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	25	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	26	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	27	systematic	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	28	course	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	29	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	30	treachery	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	31	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	32	deception	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	33	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	He	_	_	_	_	_	_	_	_	(3)
+730_oliver_twist_brat_2	0	1	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	brought	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	3	up	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	4	by	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	5	hand	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	6	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	The	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	1	hungry	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	3	destitute	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	4	situation	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	5	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	6	the	_	_	_	_	_	_	_	_	(3
+730_oliver_twist_brat_2	0	7	infant	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	8	orphan	_	_	_	_	_	_	_	_	3)
+730_oliver_twist_brat_2	0	9	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	10	duly	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	11	reported	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	12	by	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	13	the	_	_	_	_	_	_	_	_	(2|(33
+730_oliver_twist_brat_2	0	14	workhouse	_	_	_	_	_	_	_	_	2)
+730_oliver_twist_brat_2	0	15	authorities	_	_	_	_	_	_	_	_	33)
+730_oliver_twist_brat_2	0	16	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	17	the	_	_	_	_	_	_	_	_	(34|(10
+730_oliver_twist_brat_2	0	18	parish	_	_	_	_	_	_	_	_	10)
+730_oliver_twist_brat_2	0	19	authorities	_	_	_	_	_	_	_	_	34)
+730_oliver_twist_brat_2	0	20	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	The	_	_	_	_	_	_	_	_	(34|(10
+730_oliver_twist_brat_2	0	1	parish	_	_	_	_	_	_	_	_	10)
+730_oliver_twist_brat_2	0	2	authorities	_	_	_	_	_	_	_	_	34)
+730_oliver_twist_brat_2	0	3	inquired	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	4	with	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	5	dignity	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	6	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	7	the	_	_	_	_	_	_	_	_	(33|(2
+730_oliver_twist_brat_2	0	8	workhouse	_	_	_	_	_	_	_	_	2)
+730_oliver_twist_brat_2	0	9	authorities	_	_	_	_	_	_	_	_	33)
+730_oliver_twist_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	11	whether	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	12	there	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	13	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	14	no	_	_	_	_	_	_	_	_	(51
+730_oliver_twist_brat_2	0	15	female	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	16	then	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	17	domiciled	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	18	in	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	19	'	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	20	the	_	_	_	_	_	_	_	_	(2
+730_oliver_twist_brat_2	0	21	house	_	_	_	_	_	_	_	_	2)
+730_oliver_twist_brat_2	0	22	'	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	23	who	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	24	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	25	in	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	26	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	27	situation	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	28	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	29	impart	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	30	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	31	Oliver	_	_	_	_	_	_	_	_	(3
+730_oliver_twist_brat_2	0	32	Twist	_	_	_	_	_	_	_	_	3)
+730_oliver_twist_brat_2	0	33	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	34	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	35	consolation	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	36	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	37	nourishment	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	38	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	39	which	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	40	he	_	_	_	_	_	_	_	_	(3)
+730_oliver_twist_brat_2	0	41	stood	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	42	in	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	43	need	_	_	_	_	_	_	_	_	51)
+730_oliver_twist_brat_2	0	44	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	The	_	_	_	_	_	_	_	_	(33|(2
+730_oliver_twist_brat_2	0	1	workhouse	_	_	_	_	_	_	_	_	2)
+730_oliver_twist_brat_2	0	2	authorities	_	_	_	_	_	_	_	_	33)
+730_oliver_twist_brat_2	0	3	replied	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	4	with	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	5	humility	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	7	that	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	8	there	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	9	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	10	not	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	11	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	Upon	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	1	this	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	3	the	_	_	_	_	_	_	_	_	(34|(10
+730_oliver_twist_brat_2	0	4	parish	_	_	_	_	_	_	_	_	10)
+730_oliver_twist_brat_2	0	5	authorities	_	_	_	_	_	_	_	_	34)
+730_oliver_twist_brat_2	0	6	magnanimously	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	7	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	8	humanely	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	9	resolved	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	11	that	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	12	Oliver	_	_	_	_	_	_	_	_	(3)
+730_oliver_twist_brat_2	0	13	should	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	14	be	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	15	'	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	16	farmed	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	17	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	18	'	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	19	or	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	20	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	21	in	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	22	other	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	23	words	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	24	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	25	that	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	26	he	_	_	_	_	_	_	_	_	(3)
+730_oliver_twist_brat_2	0	27	should	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	28	be	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	29	dispatched	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	30	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	31	a	_	_	_	_	_	_	_	_	(35
+730_oliver_twist_brat_2	0	32	branch-workhouse	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	33	some	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	34	three	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	35	miles	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	36	off	_	_	_	_	_	_	_	_	35)
+730_oliver_twist_brat_2	0	37	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	38	where	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	39	twenty	_	_	_	_	_	_	_	_	(36
+730_oliver_twist_brat_2	0	40	or	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	41	thirty	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	42	other	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	43	juvenile	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	44	offenders	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	45	against	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	46	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	47	poor-laws	_	_	_	_	_	_	_	_	36)
+730_oliver_twist_brat_2	0	48	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	49	rolled	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	50	about	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	51	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	52	floor	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	53	all	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	54	day	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	55	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	56	without	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	57	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	58	inconvenience	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	59	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	60	too	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	61	much	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	62	food	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	63	or	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	64	too	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	65	much	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	66	clothing	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	67	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	68	under	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	69	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	70	parental	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	71	superintendence	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	72	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	73	an	_	_	_	_	_	_	_	_	(37
+730_oliver_twist_brat_2	0	74	elderly	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	75	female	_	_	_	_	_	_	_	_	37)
+730_oliver_twist_brat_2	0	76	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	77	who	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	78	received	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	79	the	_	_	_	_	_	_	_	_	(36
+730_oliver_twist_brat_2	0	80	culprits	_	_	_	_	_	_	_	_	36)
+730_oliver_twist_brat_2	0	81	at	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	82	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	83	for	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	84	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	85	consideration	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	86	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	87	sevenpence-halfpenny	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	88	per	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	89	small	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	90	head	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	91	per	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	92	week	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	93	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	Sevenpence-halfpenny	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	1	's	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	worth	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	3	per	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	4	week	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	5	is	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	6	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	7	good	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	8	round	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	9	diet	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	10	for	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	11	a	_	_	_	_	_	_	_	_	(38
+730_oliver_twist_brat_2	0	12	child	_	_	_	_	_	_	_	_	38)
+730_oliver_twist_brat_2	0	13	;	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	14	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	15	great	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	16	deal	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	17	may	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	18	be	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	19	got	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	20	for	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	21	sevenpence-halfpenny	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	22	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	23	quite	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	24	enough	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	25	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	26	overload	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	27	its	_	_	_	_	_	_	_	_	(38)
+730_oliver_twist_brat_2	0	28	stomach	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	29	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	30	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	31	make	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	32	it	_	_	_	_	_	_	_	_	(38)
+730_oliver_twist_brat_2	0	33	uncomfortable	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	34	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	The	_	_	_	_	_	_	_	_	(37
+730_oliver_twist_brat_2	0	1	elderly	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	female	_	_	_	_	_	_	_	_	37)
+730_oliver_twist_brat_2	0	3	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	4	a	_	_	_	_	_	_	_	_	(58
+730_oliver_twist_brat_2	0	5	woman	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	6	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	7	wisdom	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	8	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	9	experience	_	_	_	_	_	_	_	_	58)
+730_oliver_twist_brat_2	0	10	;	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	11	she	_	_	_	_	_	_	_	_	(37)
+730_oliver_twist_brat_2	0	12	knew	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	13	what	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	14	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	15	good	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	16	for	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	17	children	_	_	_	_	_	_	_	_	(39)
+730_oliver_twist_brat_2	0	18	;	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	19	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	20	she	_	_	_	_	_	_	_	_	(37)
+730_oliver_twist_brat_2	0	21	had	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	22	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	23	very	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	24	accurate	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	25	perception	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	26	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	27	what	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	28	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	29	good	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	30	for	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	31	herself	_	_	_	_	_	_	_	_	(37)
+730_oliver_twist_brat_2	0	32	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	So	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	1	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	she	_	_	_	_	_	_	_	_	(37)
+730_oliver_twist_brat_2	0	3	appropriated	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	4	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	5	greater	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	6	part	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	7	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	8	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	9	weekly	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	10	stipend	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	11	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	12	her	_	_	_	_	_	_	_	_	(37)
+730_oliver_twist_brat_2	0	13	own	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	14	use	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	15	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	16	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	17	consigned	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	18	the	_	_	_	_	_	_	_	_	(36
+730_oliver_twist_brat_2	0	19	rising	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	20	parochial	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	21	generation	_	_	_	_	_	_	_	_	36)
+730_oliver_twist_brat_2	0	22	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	23	even	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	24	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	25	shorter	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	26	allowance	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	27	than	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	28	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	29	originally	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	30	provided	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	31	for	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	32	them	_	_	_	_	_	_	_	_	(36)
+730_oliver_twist_brat_2	0	33	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	Thereby	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	1	finding	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	in	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	3	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	4	lowest	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	5	depth	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	6	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	7	deeper	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	8	still	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	9	;	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	10	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	11	proving	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	12	herself	_	_	_	_	_	_	_	_	(37)
+730_oliver_twist_brat_2	0	13	a	_	_	_	_	_	_	_	_	(53
+730_oliver_twist_brat_2	0	14	very	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	15	great	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	16	experimental	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	17	philosopher	_	_	_	_	_	_	_	_	53)
+730_oliver_twist_brat_2	0	18	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	Everybody	_	_	_	_	_	_	_	_	(40)
+730_oliver_twist_brat_2	0	1	knows	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	3	story	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	4	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	5	another	_	_	_	_	_	_	_	_	(41
+730_oliver_twist_brat_2	0	6	experimental	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	7	philosopher	_	_	_	_	_	_	_	_	41)
+730_oliver_twist_brat_2	0	8	who	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	9	had	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	10	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	11	great	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	12	theory	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	13	about	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	14	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	15	horse	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	16	being	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	17	able	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	18	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	19	live	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	20	without	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	21	eating	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	22	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	23	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	24	who	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	25	demonstrated	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	26	it	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	27	so	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	28	well	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	29	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	30	that	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	31	he	_	_	_	_	_	_	_	_	(41)
+730_oliver_twist_brat_2	0	32	had	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	33	got	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	34	his	_	_	_	_	_	_	_	_	(41)
+730_oliver_twist_brat_2	0	35	own	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	36	horse	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	37	down	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	38	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	39	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	40	straw	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	41	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	42	day	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	43	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	44	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	45	would	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	46	unquestionably	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	47	have	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	48	rendered	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	49	him	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	50	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	51	very	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	52	spirited	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	53	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	54	rampacious	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	55	animal	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	56	on	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	57	nothing	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	58	at	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	59	all	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	60	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	61	if	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	62	he	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	63	had	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	64	not	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	65	died	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	66	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	67	four-and-twenty	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	68	hours	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	69	before	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	70	he	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	71	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	72	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	73	have	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	74	had	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	75	his	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	76	first	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	77	comfortable	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	78	bait	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	79	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	80	air	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	81	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	Unfortunately	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	1	for	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	3	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	4	experimental	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	5	philosophy	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	6	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	7	the	_	_	_	_	_	_	_	_	(37
+730_oliver_twist_brat_2	0	8	female	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	9	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	10	whose	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	11	protecting	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	12	care	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	13	Oliver	_	_	_	_	_	_	_	_	(3
+730_oliver_twist_brat_2	0	14	Twist	_	_	_	_	_	_	_	_	3)
+730_oliver_twist_brat_2	0	15	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	16	delivered	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	17	over	_	_	_	_	_	_	_	_	37)
+730_oliver_twist_brat_2	0	18	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	19	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	20	similar	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	21	result	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	22	usually	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	23	attended	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	24	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	25	operation	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	26	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	27	_	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	28	her	_	_	_	_	_	_	_	_	(37)
+730_oliver_twist_brat_2	0	29	_	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	30	system	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	31	;	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	32	for	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	33	at	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	34	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	35	very	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	36	moment	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	37	when	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	38	the	_	_	_	_	_	_	_	_	(43
+730_oliver_twist_brat_2	0	39	child	_	_	_	_	_	_	_	_	43)
+730_oliver_twist_brat_2	0	40	had	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	41	contrived	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	42	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	43	exist	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	44	upon	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	45	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	46	smallest	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	47	possible	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	48	portion	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	49	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	50	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	51	weakest	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	52	possible	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	53	food	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	54	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	55	it	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	56	did	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	57	perversely	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	58	happen	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	59	in	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	60	eight	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	61	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	62	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	63	half	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	64	cases	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	65	out	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	66	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	67	ten	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	68	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	69	either	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	70	that	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	71	it	_	_	_	_	_	_	_	_	(43)
+730_oliver_twist_brat_2	0	72	sickened	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	73	from	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	74	want	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	75	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	76	cold	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	77	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	78	or	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	79	fell	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	80	into	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	81	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	82	fire	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	83	from	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	84	neglect	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	85	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	86	or	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	87	got	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	88	half-smothered	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	89	by	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	90	accident	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	91	;	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	92	in	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	93	any	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	94	one	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	95	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	96	which	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	97	cases	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	98	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	99	the	_	_	_	_	_	_	_	_	(43
+730_oliver_twist_brat_2	0	100	miserable	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	101	little	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	102	being	_	_	_	_	_	_	_	_	43)
+730_oliver_twist_brat_2	0	103	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	104	usually	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	105	summoned	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	106	into	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	107	another	_	_	_	_	_	_	_	_	(42
+730_oliver_twist_brat_2	0	108	world	_	_	_	_	_	_	_	_	42)
+730_oliver_twist_brat_2	0	109	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	110	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	111	there	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	112	gathered	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	113	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	114	the	_	_	_	_	_	_	_	_	(44
+730_oliver_twist_brat_2	0	115	fathers	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	116	it	_	_	_	_	_	_	_	_	(43)
+730_oliver_twist_brat_2	0	117	had	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	118	never	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	119	known	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	120	in	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	121	this	_	_	_	_	_	_	_	_	44)
+730_oliver_twist_brat_2	0	122	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	Occasionally	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	1	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	when	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	3	there	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	4	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	5	some	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	6	more	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	7	than	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	8	usually	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	9	interesting	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	10	inquest	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	11	upon	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	12	a	_	_	_	_	_	_	_	_	(10|(43
+730_oliver_twist_brat_2	0	13	parish	_	_	_	_	_	_	_	_	10)
+730_oliver_twist_brat_2	0	14	child	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	15	who	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	16	had	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	17	been	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	18	overlooked	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	19	in	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	20	turning	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	21	up	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	22	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	23	bedstead	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	24	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	25	or	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	26	inadvertently	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	27	scalded	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	28	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	29	death	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	30	when	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	31	there	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	32	happened	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	33	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	34	be	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	35	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	36	washing	_	_	_	_	_	_	_	_	43)
+730_oliver_twist_brat_2	0	37	--	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	38	though	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	39	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	40	latter	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	41	accident	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	42	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	43	very	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	44	scarce	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	45	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	46	anything	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	47	approaching	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	48	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	49	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	50	washing	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	51	being	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	52	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	53	rare	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	54	occurrence	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	55	in	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	56	the	_	_	_	_	_	_	_	_	(45
+730_oliver_twist_brat_2	0	57	farm	_	_	_	_	_	_	_	_	45)
+730_oliver_twist_brat_2	0	58	--	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	59	the	_	_	_	_	_	_	_	_	(46
+730_oliver_twist_brat_2	0	60	jury	_	_	_	_	_	_	_	_	46)
+730_oliver_twist_brat_2	0	61	would	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	62	take	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	63	it	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	64	into	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	65	their	_	_	_	_	_	_	_	_	(46)
+730_oliver_twist_brat_2	0	66	heads	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	67	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	68	ask	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	69	troublesome	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	70	questions	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	71	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	72	or	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	73	the	_	_	_	_	_	_	_	_	(34
+730_oliver_twist_brat_2	0	74	parishioners	_	_	_	_	_	_	_	_	34)
+730_oliver_twist_brat_2	0	75	would	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	76	rebelliously	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	77	affix	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	78	their	_	_	_	_	_	_	_	_	(34)
+730_oliver_twist_brat_2	0	79	signatures	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	80	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	81	a	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	82	remonstrance	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	83	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	But	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	1	these	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	impertinences	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	3	were	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	4	speedily	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	5	checked	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	6	by	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	7	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	8	evidence	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	9	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	10	the	_	_	_	_	_	_	_	_	(9
+730_oliver_twist_brat_2	0	11	surgeon	_	_	_	_	_	_	_	_	9)
+730_oliver_twist_brat_2	0	12	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	13	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	14	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	15	testimony	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	16	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	17	the	_	_	_	_	_	_	_	_	(47
+730_oliver_twist_brat_2	0	18	beadle	_	_	_	_	_	_	_	_	47)
+730_oliver_twist_brat_2	0	19	;	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	20	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	21	former	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	22	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	23	whom	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	24	had	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	25	always	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	26	opened	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	27	the	_	_	_	_	_	_	_	_	(43
+730_oliver_twist_brat_2	0	28	body	_	_	_	_	_	_	_	_	43)
+730_oliver_twist_brat_2	0	29	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	30	found	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	31	nothing	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	32	inside	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	33	(	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	34	which	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	35	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	36	very	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	37	probable	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	38	indeed	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	39	)	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	40	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	41	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	42	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	43	latter	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	44	of	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	45	whom	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	46	invariably	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	47	swore	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	48	whatever	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	49	the	_	_	_	_	_	_	_	_	(10
+730_oliver_twist_brat_2	0	50	parish	_	_	_	_	_	_	_	_	10)
+730_oliver_twist_brat_2	0	51	wanted	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	52	;	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	53	which	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	54	was	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	55	very	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	56	self-devotional	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	57	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	Besides	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	1	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	2	the	_	_	_	_	_	_	_	_	(48
+730_oliver_twist_brat_2	0	3	board	_	_	_	_	_	_	_	_	48)
+730_oliver_twist_brat_2	0	4	made	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	5	periodical	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	6	pilgrimages	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	7	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	8	the	_	_	_	_	_	_	_	_	(45
+730_oliver_twist_brat_2	0	9	farm	_	_	_	_	_	_	_	_	45)
+730_oliver_twist_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	11	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	12	always	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	13	sent	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	14	the	_	_	_	_	_	_	_	_	(47
+730_oliver_twist_brat_2	0	15	beadle	_	_	_	_	_	_	_	_	47)
+730_oliver_twist_brat_2	0	16	the	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	17	day	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	18	before	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	19	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	20	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	21	say	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	22	they	_	_	_	_	_	_	_	_	(48)
+730_oliver_twist_brat_2	0	23	were	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	24	going	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	25	.	_	_	_	_	_	_	_	_	
+
+730_oliver_twist_brat_2	0	0	The	_	_	_	_	_	_	_	_	(36
+730_oliver_twist_brat_2	0	1	children	_	_	_	_	_	_	_	_	36)
+730_oliver_twist_brat_2	0	2	were	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	3	neat	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	4	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	5	clean	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	6	to	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	7	behold	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	8	,	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	9	when	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	10	_	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	11	they	_	_	_	_	_	_	_	_	(36)
+730_oliver_twist_brat_2	0	12	_	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	13	went	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	14	;	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	15	and	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	16	what	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	17	more	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	18	would	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	19	the	_	_	_	_	_	_	_	_	(49
+730_oliver_twist_brat_2	0	20	people	_	_	_	_	_	_	_	_	49)
+730_oliver_twist_brat_2	0	21	have	_	_	_	_	_	_	_	_	
+730_oliver_twist_brat_2	0	22	!	_	_	_	_	_	_	_	_	
+
+#end document

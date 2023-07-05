@@ -1,0 +1,589 @@
+#begin document (litbank_splitted/train/766_david_copperfield_brat_2); part 0
+766_david_copperfield_brat_2	0	0	My	_	_	_	_	_	_	_	_	(35|(0)
+766_david_copperfield_brat_2	0	1	mother	_	_	_	_	_	_	_	_	35)
+766_david_copperfield_brat_2	0	2	had	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	a	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	4	sure	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	foreboding	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	6	at	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	7	the	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	8	second	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	9	glance	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	11	that	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	12	it	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	13	was	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	14	Miss	_	_	_	_	_	_	_	_	(32
+766_david_copperfield_brat_2	0	15	Betsey	_	_	_	_	_	_	_	_	32)
+766_david_copperfield_brat_2	0	16	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	The	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	1	setting	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	2	sun	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	was	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	4	glowing	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	on	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	6	the	_	_	_	_	_	_	_	_	(32
+766_david_copperfield_brat_2	0	7	strange	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	8	lady	_	_	_	_	_	_	_	_	32)
+766_david_copperfield_brat_2	0	9	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	10	over	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	11	the	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	12	garden-fence	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	13	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	14	and	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	15	she	_	_	_	_	_	_	_	_	(32)
+766_david_copperfield_brat_2	0	16	came	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	17	walking	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	18	up	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	19	to	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	20	the	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	21	door	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	22	with	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	23	a	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	24	fell	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	25	rigidity	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	26	of	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	27	figure	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	28	and	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	29	composure	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	30	of	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	31	countenance	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	32	that	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	33	could	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	34	have	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	35	belonged	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	36	to	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	37	nobody	_	_	_	_	_	_	_	_	(47)
+766_david_copperfield_brat_2	0	38	else	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	39	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	When	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	1	she	_	_	_	_	_	_	_	_	(32)
+766_david_copperfield_brat_2	0	2	reached	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	the	_	_	_	_	_	_	_	_	(31
+766_david_copperfield_brat_2	0	4	house	_	_	_	_	_	_	_	_	31)
+766_david_copperfield_brat_2	0	5	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	6	she	_	_	_	_	_	_	_	_	(32)
+766_david_copperfield_brat_2	0	7	gave	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	8	another	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	9	proof	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	10	of	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	11	her	_	_	_	_	_	_	_	_	(32)
+766_david_copperfield_brat_2	0	12	identity	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	13	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	My	_	_	_	_	_	_	_	_	(27|(0)
+766_david_copperfield_brat_2	0	1	father	_	_	_	_	_	_	_	_	27)
+766_david_copperfield_brat_2	0	2	had	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	often	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	4	hinted	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	that	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	6	she	_	_	_	_	_	_	_	_	(32)
+766_david_copperfield_brat_2	0	7	seldom	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	8	conducted	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	9	herself	_	_	_	_	_	_	_	_	(32)
+766_david_copperfield_brat_2	0	10	like	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	11	any	_	_	_	_	_	_	_	_	(48
+766_david_copperfield_brat_2	0	12	ordinary	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	13	Christian	_	_	_	_	_	_	_	_	48)
+766_david_copperfield_brat_2	0	14	;	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	15	and	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	16	now	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	17	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	18	instead	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	19	of	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	20	ringing	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	21	the	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	22	bell	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	23	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	24	she	_	_	_	_	_	_	_	_	(32)
+766_david_copperfield_brat_2	0	25	came	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	26	and	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	27	looked	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	28	in	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	29	at	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	30	that	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	31	identical	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	32	window	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	33	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	34	pressing	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	35	the	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	36	end	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	37	of	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	38	her	_	_	_	_	_	_	_	_	(32)
+766_david_copperfield_brat_2	0	39	nose	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	40	against	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	41	the	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	42	glass	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	43	to	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	44	that	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	45	extent	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	46	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	47	that	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	48	my	_	_	_	_	_	_	_	_	(35|(0)
+766_david_copperfield_brat_2	0	49	poor	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	50	dear	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	51	mother	_	_	_	_	_	_	_	_	35)
+766_david_copperfield_brat_2	0	52	used	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	53	to	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	54	say	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	55	it	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	56	became	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	57	perfectly	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	58	flat	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	59	and	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	60	white	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	61	in	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	62	a	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	63	moment	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	64	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	She	_	_	_	_	_	_	_	_	(32)
+766_david_copperfield_brat_2	0	1	gave	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	2	my	_	_	_	_	_	_	_	_	(35|(0)
+766_david_copperfield_brat_2	0	3	mother	_	_	_	_	_	_	_	_	35)
+766_david_copperfield_brat_2	0	4	such	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	a	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	6	turn	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	8	that	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	9	I	_	_	_	_	_	_	_	_	(0)
+766_david_copperfield_brat_2	0	10	have	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	11	always	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	12	been	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	13	convinced	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	14	I	_	_	_	_	_	_	_	_	(0)
+766_david_copperfield_brat_2	0	15	am	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	16	indebted	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	17	to	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	18	Miss	_	_	_	_	_	_	_	_	(32
+766_david_copperfield_brat_2	0	19	Betsey	_	_	_	_	_	_	_	_	32)
+766_david_copperfield_brat_2	0	20	for	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	21	having	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	22	been	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	23	born	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	24	on	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	25	a	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	26	Friday	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	27	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	My	_	_	_	_	_	_	_	_	(35|(0)
+766_david_copperfield_brat_2	0	1	mother	_	_	_	_	_	_	_	_	35)
+766_david_copperfield_brat_2	0	2	had	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	left	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	4	her	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	5	chair	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	6	in	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	7	her	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	8	agitation	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	9	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	10	and	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	11	gone	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	12	behind	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	13	it	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	14	in	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	15	the	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	16	corner	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	17	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	Miss	_	_	_	_	_	_	_	_	(32
+766_david_copperfield_brat_2	0	1	Betsey	_	_	_	_	_	_	_	_	32)
+766_david_copperfield_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	looking	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	4	round	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	the	_	_	_	_	_	_	_	_	(49
+766_david_copperfield_brat_2	0	6	room	_	_	_	_	_	_	_	_	49)
+766_david_copperfield_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	8	slowly	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	9	and	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	10	inquiringly	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	11	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	12	began	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	13	on	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	14	the	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	15	other	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	16	side	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	17	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	18	and	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	19	carried	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	20	her	_	_	_	_	_	_	_	_	(32)
+766_david_copperfield_brat_2	0	21	eyes	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	22	on	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	23	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	24	like	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	25	a	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	26	Saracen	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	27	’s	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	28	Head	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	29	in	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	30	a	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	31	Dutch	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	32	clock	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	33	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	34	until	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	35	they	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	36	reached	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	37	my	_	_	_	_	_	_	_	_	(35|(0)
+766_david_copperfield_brat_2	0	38	mother	_	_	_	_	_	_	_	_	35)
+766_david_copperfield_brat_2	0	39	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	Then	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	1	she	_	_	_	_	_	_	_	_	(32)
+766_david_copperfield_brat_2	0	2	made	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	a	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	4	frown	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	and	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	6	a	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	7	gesture	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	8	to	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	9	my	_	_	_	_	_	_	_	_	(35|(0)
+766_david_copperfield_brat_2	0	10	mother	_	_	_	_	_	_	_	_	35)
+766_david_copperfield_brat_2	0	11	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	12	like	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	13	one	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	14	who	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	15	was	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	16	accustomed	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	17	to	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	18	be	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	19	obeyed	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	20	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	21	to	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	22	come	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	23	and	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	24	open	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	25	the	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	26	door	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	27	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	My	_	_	_	_	_	_	_	_	(35|(0)
+766_david_copperfield_brat_2	0	1	mother	_	_	_	_	_	_	_	_	35)
+766_david_copperfield_brat_2	0	2	went	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	1	Mrs.	_	_	_	_	_	_	_	_	(35
+766_david_copperfield_brat_2	0	2	David	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	Copperfield	_	_	_	_	_	_	_	_	35)
+766_david_copperfield_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	I	_	_	_	_	_	_	_	_	(32)
+766_david_copperfield_brat_2	0	6	think	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	8	’	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	9	said	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	10	Miss	_	_	_	_	_	_	_	_	(32
+766_david_copperfield_brat_2	0	11	Betsey	_	_	_	_	_	_	_	_	32)
+766_david_copperfield_brat_2	0	12	;	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	13	the	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	14	emphasis	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	15	referring	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	16	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	17	perhaps	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	18	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	19	to	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	20	my	_	_	_	_	_	_	_	_	(35|(0)
+766_david_copperfield_brat_2	0	21	mother	_	_	_	_	_	_	_	_	35)
+766_david_copperfield_brat_2	0	22	’s	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	23	mourning	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	24	weeds	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	25	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	26	and	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	27	her	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	28	condition	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	29	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	1	Yes	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	’	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	4	said	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	my	_	_	_	_	_	_	_	_	(35|(0)
+766_david_copperfield_brat_2	0	6	mother	_	_	_	_	_	_	_	_	35)
+766_david_copperfield_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	8	faintly	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	9	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	1	Miss	_	_	_	_	_	_	_	_	(32
+766_david_copperfield_brat_2	0	2	Trotwood	_	_	_	_	_	_	_	_	32)
+766_david_copperfield_brat_2	0	3	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	4	’	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	said	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	6	the	_	_	_	_	_	_	_	_	(32
+766_david_copperfield_brat_2	0	7	visitor	_	_	_	_	_	_	_	_	32)
+766_david_copperfield_brat_2	0	8	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	1	You	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	2	have	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	heard	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	4	of	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	her	_	_	_	_	_	_	_	_	(32)
+766_david_copperfield_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	7	I	_	_	_	_	_	_	_	_	(32)
+766_david_copperfield_brat_2	0	8	dare	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	9	say	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	10	?	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	11	’	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	My	_	_	_	_	_	_	_	_	(35|(0)
+766_david_copperfield_brat_2	0	1	mother	_	_	_	_	_	_	_	_	35)
+766_david_copperfield_brat_2	0	2	answered	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	she	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	4	had	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	had	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	6	that	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	7	pleasure	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	8	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	And	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	1	she	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	2	had	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	a	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	4	disagreeable	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	consciousness	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	6	of	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	7	not	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	8	appearing	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	9	to	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	10	imply	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	11	that	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	12	it	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	13	had	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	14	been	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	15	an	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	16	overpowering	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	17	pleasure	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	18	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	1	Now	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	2	you	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	3	see	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	4	her	_	_	_	_	_	_	_	_	(32)
+766_david_copperfield_brat_2	0	5	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	6	’	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	7	said	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	8	Miss	_	_	_	_	_	_	_	_	(32
+766_david_copperfield_brat_2	0	9	Betsey	_	_	_	_	_	_	_	_	32)
+766_david_copperfield_brat_2	0	10	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	My	_	_	_	_	_	_	_	_	(35|(0)
+766_david_copperfield_brat_2	0	1	mother	_	_	_	_	_	_	_	_	35)
+766_david_copperfield_brat_2	0	2	bent	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	her	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	4	head	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	6	and	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	7	begged	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	8	her	_	_	_	_	_	_	_	_	(32)
+766_david_copperfield_brat_2	0	9	to	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	10	walk	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	11	in	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	12	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	They	_	_	_	_	_	_	_	_	(50)
+766_david_copperfield_brat_2	0	1	went	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	2	into	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	the	_	_	_	_	_	_	_	_	(29
+766_david_copperfield_brat_2	0	4	parlour	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	my	_	_	_	_	_	_	_	_	(35|(0)
+766_david_copperfield_brat_2	0	6	mother	_	_	_	_	_	_	_	_	35)
+766_david_copperfield_brat_2	0	7	had	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	8	come	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	9	from	_	_	_	_	_	_	_	_	29)
+766_david_copperfield_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	11	the	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	12	fire	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	13	in	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	14	the	_	_	_	_	_	_	_	_	(51
+766_david_copperfield_brat_2	0	15	best	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	16	room	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	17	on	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	18	the	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	19	other	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	20	side	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	21	of	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	22	the	_	_	_	_	_	_	_	_	(52
+766_david_copperfield_brat_2	0	23	passage	_	_	_	_	_	_	_	_	51)|52)
+766_david_copperfield_brat_2	0	24	not	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	25	being	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	26	lighted	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	27	--	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	28	not	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	29	having	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	30	been	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	31	lighted	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	32	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	33	indeed	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	34	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	35	since	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	36	my	_	_	_	_	_	_	_	_	(27|(0)
+766_david_copperfield_brat_2	0	37	father	_	_	_	_	_	_	_	_	27)
+766_david_copperfield_brat_2	0	38	’s	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	39	funeral	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	40	;	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	41	and	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	42	when	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	43	they	_	_	_	_	_	_	_	_	(50)
+766_david_copperfield_brat_2	0	44	were	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	45	both	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	46	seated	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	47	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	48	and	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	49	Miss	_	_	_	_	_	_	_	_	(32
+766_david_copperfield_brat_2	0	50	Betsey	_	_	_	_	_	_	_	_	32)
+766_david_copperfield_brat_2	0	51	said	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	52	nothing	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	53	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	54	my	_	_	_	_	_	_	_	_	(35|(0)
+766_david_copperfield_brat_2	0	55	mother	_	_	_	_	_	_	_	_	35)
+766_david_copperfield_brat_2	0	56	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	57	after	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	58	vainly	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	59	trying	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	60	to	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	61	restrain	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	62	herself	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	63	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	64	began	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	65	to	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	66	cry	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	67	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	1	Oh	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	2	tut	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	4	tut	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	6	tut	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	7	!	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	8	’	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	said	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	1	Miss	_	_	_	_	_	_	_	_	(32
+766_david_copperfield_brat_2	0	2	Betsey	_	_	_	_	_	_	_	_	32)
+766_david_copperfield_brat_2	0	3	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	4	in	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	a	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	6	hurry	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	7	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	1	Do	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	2	n’t	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	do	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	4	that	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	!	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	Come	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	1	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	2	come	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	!	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	4	’	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	My	_	_	_	_	_	_	_	_	(35|(0)
+766_david_copperfield_brat_2	0	1	mother	_	_	_	_	_	_	_	_	35)
+766_david_copperfield_brat_2	0	2	could	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	n’t	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	4	help	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	it	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	6	notwithstanding	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	8	so	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	9	she	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	10	cried	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	11	until	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	12	she	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	13	had	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	14	had	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	15	her	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	16	cry	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	17	out	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	18	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	1	Take	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	2	off	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	your	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	4	cap	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	6	child	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	8	’	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	9	said	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	10	Miss	_	_	_	_	_	_	_	_	(32
+766_david_copperfield_brat_2	0	11	Betsey	_	_	_	_	_	_	_	_	32)
+766_david_copperfield_brat_2	0	12	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	13	‘	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	14	and	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	15	let	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	16	me	_	_	_	_	_	_	_	_	(32)
+766_david_copperfield_brat_2	0	17	see	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	18	you	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	19	.	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	20	’	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	My	_	_	_	_	_	_	_	_	(35|(0)
+766_david_copperfield_brat_2	0	1	mother	_	_	_	_	_	_	_	_	35)
+766_david_copperfield_brat_2	0	2	was	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	too	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	4	much	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	5	afraid	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	6	of	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	7	her	_	_	_	_	_	_	_	_	(32)
+766_david_copperfield_brat_2	0	8	to	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	9	refuse	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	10	compliance	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	11	with	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	12	this	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	13	odd	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	14	request	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	15	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	16	if	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	17	she	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	18	had	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	19	any	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	20	disposition	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	21	to	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	22	do	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	23	so	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	24	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	Therefore	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	1	she	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	2	did	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	3	as	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	4	she	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	5	was	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	6	told	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	8	and	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	9	did	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	10	it	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	11	with	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	12	such	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	13	nervous	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	14	hands	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	15	that	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	16	her	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	17	hair	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	18	(	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	19	which	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	20	was	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	21	luxuriant	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	22	and	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	23	beautiful	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	24	)	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	25	fell	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	26	all	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	27	about	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	28	her	_	_	_	_	_	_	_	_	(35)
+766_david_copperfield_brat_2	0	29	face	_	_	_	_	_	_	_	_	
+766_david_copperfield_brat_2	0	30	.	_	_	_	_	_	_	_	_	
+
+766_david_copperfield_brat_2	0	0	‘	_	_	_	_	_	_	_	_	
+
+#end document

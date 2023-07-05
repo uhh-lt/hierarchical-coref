@@ -1,0 +1,894 @@
+#begin document (litbank_splitted/train/1342_pride_and_prejudice_brat_2); part 0
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	But	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	you	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	3	forget	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	mamma	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	”	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	said	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	Elizabeth	_	_	_	_	_	_	_	_	(26)
+1342_pride_and_prejudice_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	that	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	we	_	_	_	_	_	_	_	_	(33)
+1342_pride_and_prejudice_brat_2	0	14	shall	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	15	meet	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	16	him	_	_	_	_	_	_	_	_	(10)
+1342_pride_and_prejudice_brat_2	0	17	at	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	18	the	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	19	assemblies	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	20	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	21	and	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	22	that	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	23	Mrs.	_	_	_	_	_	_	_	_	(8
+1342_pride_and_prejudice_brat_2	0	24	Long	_	_	_	_	_	_	_	_	8)
+1342_pride_and_prejudice_brat_2	0	25	promised	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	26	to	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	27	introduce	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	28	him	_	_	_	_	_	_	_	_	(10)
+1342_pride_and_prejudice_brat_2	0	29	.	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	30	”	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	I	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	2	do	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	not	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	believe	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	Mrs.	_	_	_	_	_	_	_	_	(8
+1342_pride_and_prejudice_brat_2	0	6	Long	_	_	_	_	_	_	_	_	8)
+1342_pride_and_prejudice_brat_2	0	7	will	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	do	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	any	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	such	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	thing	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	She	_	_	_	_	_	_	_	_	(8)
+1342_pride_and_prejudice_brat_2	0	1	has	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	two	_	_	_	_	_	_	_	_	(34
+1342_pride_and_prejudice_brat_2	0	3	nieces	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	of	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	her	_	_	_	_	_	_	_	_	(8)
+1342_pride_and_prejudice_brat_2	0	6	own	_	_	_	_	_	_	_	_	34)
+1342_pride_and_prejudice_brat_2	0	7	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	She	_	_	_	_	_	_	_	_	(8)
+1342_pride_and_prejudice_brat_2	0	1	is	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	a	_	_	_	_	_	_	_	_	(45
+1342_pride_and_prejudice_brat_2	0	3	selfish	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	hypocritical	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	woman	_	_	_	_	_	_	_	_	45)
+1342_pride_and_prejudice_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	and	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	I	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	10	have	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	no	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	opinion	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	of	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	14	her	_	_	_	_	_	_	_	_	(8)
+1342_pride_and_prejudice_brat_2	0	15	.	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	16	”	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	No	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	more	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	have	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	I	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	5	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	”	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	said	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	Mr.	_	_	_	_	_	_	_	_	(5
+1342_pride_and_prejudice_brat_2	0	9	Bennet	_	_	_	_	_	_	_	_	5)
+1342_pride_and_prejudice_brat_2	0	10	;	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	and	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	I	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	14	am	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	15	glad	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	16	to	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	17	find	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	18	that	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	19	you	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	20	do	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	21	not	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	22	depend	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	23	on	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	24	her	_	_	_	_	_	_	_	_	(8)
+1342_pride_and_prejudice_brat_2	0	25	serving	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	26	you	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	27	.	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	28	”	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	Mrs.	_	_	_	_	_	_	_	_	(6
+1342_pride_and_prejudice_brat_2	0	1	Bennet	_	_	_	_	_	_	_	_	6)
+1342_pride_and_prejudice_brat_2	0	2	deigned	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	not	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	to	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	make	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	any	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	reply	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	but	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	unable	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	to	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	contain	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	14	herself	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	15	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	16	began	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	17	scolding	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	18	one	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	19	of	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	20	her	_	_	_	_	_	_	_	_	(15|(6)
+1342_pride_and_prejudice_brat_2	0	21	daughters	_	_	_	_	_	_	_	_	15)
+1342_pride_and_prejudice_brat_2	0	22	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	Do	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	n't	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	keep	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	coughing	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	so	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	Kitty	_	_	_	_	_	_	_	_	(35)
+1342_pride_and_prejudice_brat_2	0	8	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	for	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	Heaven	_	_	_	_	_	_	_	_	(36)
+1342_pride_and_prejudice_brat_2	0	11	's	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	sake	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	!	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	Have	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	a	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	little	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	compassion	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	on	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	my	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	6	nerves	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	You	_	_	_	_	_	_	_	_	(35)
+1342_pride_and_prejudice_brat_2	0	1	tear	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	them	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	to	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	pieces	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	.	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	”	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	Kitty	_	_	_	_	_	_	_	_	(35)
+1342_pride_and_prejudice_brat_2	0	2	has	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	no	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	discretion	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	in	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	her	_	_	_	_	_	_	_	_	(35)
+1342_pride_and_prejudice_brat_2	0	7	coughs	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	”	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	said	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	her	_	_	_	_	_	_	_	_	(5|(35)
+1342_pride_and_prejudice_brat_2	0	12	father	_	_	_	_	_	_	_	_	5)
+1342_pride_and_prejudice_brat_2	0	13	;	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	14	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	15	she	_	_	_	_	_	_	_	_	(35)
+1342_pride_and_prejudice_brat_2	0	16	times	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	17	them	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	18	ill	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	19	.	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	20	”	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	I	_	_	_	_	_	_	_	_	(35)
+1342_pride_and_prejudice_brat_2	0	2	do	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	not	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	cough	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	for	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	my	_	_	_	_	_	_	_	_	(35)
+1342_pride_and_prejudice_brat_2	0	7	own	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	amusement	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	”	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	replied	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	Kitty	_	_	_	_	_	_	_	_	(35)
+1342_pride_and_prejudice_brat_2	0	13	fretfully	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	14	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	When	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	is	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	your	_	_	_	_	_	_	_	_	(26)
+1342_pride_and_prejudice_brat_2	0	4	next	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	ball	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	to	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	be	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	Lizzy	_	_	_	_	_	_	_	_	(26)
+1342_pride_and_prejudice_brat_2	0	10	?	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	”	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	To-morrow	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	fortnight	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	.	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	”	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	Aye	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	so	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	it	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	is	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	”	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	cried	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	her	_	_	_	_	_	_	_	_	(6|(26)
+1342_pride_and_prejudice_brat_2	0	10	mother	_	_	_	_	_	_	_	_	6)
+1342_pride_and_prejudice_brat_2	0	11	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	and	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	14	Mrs.	_	_	_	_	_	_	_	_	(8
+1342_pride_and_prejudice_brat_2	0	15	Long	_	_	_	_	_	_	_	_	8)
+1342_pride_and_prejudice_brat_2	0	16	does	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	17	not	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	18	come	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	19	back	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	20	till	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	21	the	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	22	day	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	23	before	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	24	;	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	25	so	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	26	it	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	27	will	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	28	be	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	29	impossible	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	30	for	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	31	her	_	_	_	_	_	_	_	_	(8)
+1342_pride_and_prejudice_brat_2	0	32	to	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	33	introduce	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	34	him	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	35	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	36	for	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	37	she	_	_	_	_	_	_	_	_	(8)
+1342_pride_and_prejudice_brat_2	0	38	will	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	39	not	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	40	know	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	41	him	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	42	herself	_	_	_	_	_	_	_	_	(8)
+1342_pride_and_prejudice_brat_2	0	43	.	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	44	”	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	Then	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	my	_	_	_	_	_	_	_	_	(6|(5)
+1342_pride_and_prejudice_brat_2	0	4	dear	_	_	_	_	_	_	_	_	6)
+1342_pride_and_prejudice_brat_2	0	5	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	you	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	7	may	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	have	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	the	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	advantage	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	of	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	your	_	_	_	_	_	_	_	_	(8|(6)
+1342_pride_and_prejudice_brat_2	0	13	friend	_	_	_	_	_	_	_	_	8)
+1342_pride_and_prejudice_brat_2	0	14	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	15	and	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	16	introduce	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	17	Mr.	_	_	_	_	_	_	_	_	(10
+1342_pride_and_prejudice_brat_2	0	18	Bingley	_	_	_	_	_	_	_	_	10)
+1342_pride_and_prejudice_brat_2	0	19	to	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	20	_	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	21	her	_	_	_	_	_	_	_	_	(8)
+1342_pride_and_prejudice_brat_2	0	22	_	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	23	.	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	24	”	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	Impossible	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	Mr.	_	_	_	_	_	_	_	_	(5
+1342_pride_and_prejudice_brat_2	0	4	Bennet	_	_	_	_	_	_	_	_	5)
+1342_pride_and_prejudice_brat_2	0	5	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	impossible	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	when	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	I	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	10	am	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	not	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	acquainted	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	with	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	14	him	_	_	_	_	_	_	_	_	(10)
+1342_pride_and_prejudice_brat_2	0	15	myself	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	16	;	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	17	how	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	18	can	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	19	you	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	20	be	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	21	so	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	22	teasing	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	23	?	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	24	”	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	I	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	2	honour	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	your	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	4	circumspection	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	A	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	fortnight	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	's	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	acquaintance	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	is	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	certainly	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	very	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	little	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	One	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	can	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	not	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	know	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	what	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	a	_	_	_	_	_	_	_	_	(37
+1342_pride_and_prejudice_brat_2	0	6	man	_	_	_	_	_	_	_	_	37)
+1342_pride_and_prejudice_brat_2	0	7	really	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	is	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	by	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	the	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	end	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	of	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	a	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	14	fortnight	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	15	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	But	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	if	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	_	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	we	_	_	_	_	_	_	_	_	(34)
+1342_pride_and_prejudice_brat_2	0	4	_	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	do	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	not	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	venture	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	somebody	_	_	_	_	_	_	_	_	(42
+1342_pride_and_prejudice_brat_2	0	9	else	_	_	_	_	_	_	_	_	42)
+1342_pride_and_prejudice_brat_2	0	10	will	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	;	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	and	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	after	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	14	all	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	15	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	16	Mrs.	_	_	_	_	_	_	_	_	(8
+1342_pride_and_prejudice_brat_2	0	17	Long	_	_	_	_	_	_	_	_	8)
+1342_pride_and_prejudice_brat_2	0	18	and	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	19	her	_	_	_	_	_	_	_	_	(34|(8)
+1342_pride_and_prejudice_brat_2	0	20	neices	_	_	_	_	_	_	_	_	34)
+1342_pride_and_prejudice_brat_2	0	21	must	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	22	stand	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	23	their	_	_	_	_	_	_	_	_	(38)
+1342_pride_and_prejudice_brat_2	0	24	chance	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	25	;	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	26	and	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	27	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	28	therefore	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	29	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	30	as	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	31	she	_	_	_	_	_	_	_	_	(8)
+1342_pride_and_prejudice_brat_2	0	32	will	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	33	think	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	34	it	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	35	an	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	36	act	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	37	of	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	38	kindness	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	39	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	40	if	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	41	you	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	42	decline	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	43	the	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	44	office	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	45	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	46	I	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	47	will	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	48	take	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	49	it	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	50	on	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	51	myself	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	52	.	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	53	”	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	The	_	_	_	_	_	_	_	_	(15
+1342_pride_and_prejudice_brat_2	0	1	girls	_	_	_	_	_	_	_	_	15)
+1342_pride_and_prejudice_brat_2	0	2	stared	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	at	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	their	_	_	_	_	_	_	_	_	(5|(15)
+1342_pride_and_prejudice_brat_2	0	5	father	_	_	_	_	_	_	_	_	5)
+1342_pride_and_prejudice_brat_2	0	6	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	Mrs.	_	_	_	_	_	_	_	_	(6
+1342_pride_and_prejudice_brat_2	0	1	Bennet	_	_	_	_	_	_	_	_	6)
+1342_pride_and_prejudice_brat_2	0	2	said	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	only	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	Nonsense	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	nonsense	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	!	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	”	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	What	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	can	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	be	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	the	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	meaning	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	of	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	that	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	emphatic	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	exclamation	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	?	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	”	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	cried	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	he	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	2	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	Do	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	you	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	3	consider	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	the	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	forms	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	of	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	introduction	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	and	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	the	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	stress	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	that	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	is	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	14	laid	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	15	on	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	16	them	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	17	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	18	as	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	19	nonsense	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	20	?	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	I	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	1	can	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	not	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	quite	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	agree	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	with	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	you	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	7	_	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	there	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	_	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	What	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	say	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	you	_	_	_	_	_	_	_	_	(39)
+1342_pride_and_prejudice_brat_2	0	3	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	Mary	_	_	_	_	_	_	_	_	(39)
+1342_pride_and_prejudice_brat_2	0	5	?	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	For	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	you	_	_	_	_	_	_	_	_	(39)
+1342_pride_and_prejudice_brat_2	0	2	are	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	a	_	_	_	_	_	_	_	_	(46
+1342_pride_and_prejudice_brat_2	0	4	young	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	lady	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	of	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	deep	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	reflection	_	_	_	_	_	_	_	_	46)
+1342_pride_and_prejudice_brat_2	0	9	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	I	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	11	know	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	and	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	14	read	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	15	great	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	16	books	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	17	and	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	18	make	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	19	extracts	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	20	.	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	21	”	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	Mary	_	_	_	_	_	_	_	_	(39)
+1342_pride_and_prejudice_brat_2	0	1	wished	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	to	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	say	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	something	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	sensible	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	but	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	knew	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	not	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	how	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	While	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	Mary	_	_	_	_	_	_	_	_	(39)
+1342_pride_and_prejudice_brat_2	0	3	is	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	adjusting	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	her	_	_	_	_	_	_	_	_	(39)
+1342_pride_and_prejudice_brat_2	0	6	ideas	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	”	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	he	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	10	continued	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	let	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	14	us	_	_	_	_	_	_	_	_	(34)
+1342_pride_and_prejudice_brat_2	0	15	return	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	16	to	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	17	Mr.	_	_	_	_	_	_	_	_	(10
+1342_pride_and_prejudice_brat_2	0	18	Bingley	_	_	_	_	_	_	_	_	10)
+1342_pride_and_prejudice_brat_2	0	19	.	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	20	”	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	I	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	2	am	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	sick	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	of	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	Mr.	_	_	_	_	_	_	_	_	(10
+1342_pride_and_prejudice_brat_2	0	6	Bingley	_	_	_	_	_	_	_	_	10)
+1342_pride_and_prejudice_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	”	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	cried	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	his	_	_	_	_	_	_	_	_	(6|(5)
+1342_pride_and_prejudice_brat_2	0	11	wife	_	_	_	_	_	_	_	_	6)
+1342_pride_and_prejudice_brat_2	0	12	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	I	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	2	am	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	sorry	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	to	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	hear	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	_	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	that	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	_	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	;	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	but	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	why	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	did	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	not	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	14	you	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	15	tell	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	16	me	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	17	that	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	18	before	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	19	?	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	If	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	I	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	2	had	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	known	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	as	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	much	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	this	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	morning	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	I	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	9	certainly	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	would	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	not	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	have	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	called	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	14	on	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	15	him	_	_	_	_	_	_	_	_	(10)
+1342_pride_and_prejudice_brat_2	0	16	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	It	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	is	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	very	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	unlucky	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	;	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	but	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	as	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	I	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	8	have	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	actually	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	paid	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	the	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	visit	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	14	we	_	_	_	_	_	_	_	_	(34)
+1342_pride_and_prejudice_brat_2	0	15	can	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	16	not	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	17	escape	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	18	the	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	19	acquaintance	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	20	now	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	21	.	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	22	”	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	The	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	astonishment	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	of	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	the	_	_	_	_	_	_	_	_	(17
+1342_pride_and_prejudice_brat_2	0	4	ladies	_	_	_	_	_	_	_	_	17)
+1342_pride_and_prejudice_brat_2	0	5	was	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	just	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	what	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	he	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	9	wished	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	;	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	that	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	of	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	Mrs.	_	_	_	_	_	_	_	_	(6
+1342_pride_and_prejudice_brat_2	0	14	Bennet	_	_	_	_	_	_	_	_	6)
+1342_pride_and_prejudice_brat_2	0	15	perhaps	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	16	surpassing	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	17	the	_	_	_	_	_	_	_	_	(15
+1342_pride_and_prejudice_brat_2	0	18	rest	_	_	_	_	_	_	_	_	15)
+1342_pride_and_prejudice_brat_2	0	19	;	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	20	though	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	21	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	22	when	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	23	the	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	24	first	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	25	tumult	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	26	of	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	27	joy	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	28	was	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	29	over	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	30	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	31	she	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	32	began	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	33	to	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	34	declare	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	35	that	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	36	it	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	37	was	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	38	what	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	39	she	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	40	had	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	41	expected	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	42	all	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	43	the	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	44	while	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	45	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	How	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	good	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	it	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	was	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	in	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	you	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	my	_	_	_	_	_	_	_	_	(5|(6)
+1342_pride_and_prejudice_brat_2	0	9	dear	_	_	_	_	_	_	_	_	5)
+1342_pride_and_prejudice_brat_2	0	10	Mr.	_	_	_	_	_	_	_	_	(5
+1342_pride_and_prejudice_brat_2	0	11	Bennet	_	_	_	_	_	_	_	_	5)
+1342_pride_and_prejudice_brat_2	0	12	!	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	But	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	I	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	2	knew	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	I	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	4	should	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	persuade	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	you	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	7	at	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	last	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	I	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	1	was	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	sure	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	you	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	4	loved	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	your	_	_	_	_	_	_	_	_	(15|(5)
+1342_pride_and_prejudice_brat_2	0	6	girls	_	_	_	_	_	_	_	_	15)
+1342_pride_and_prejudice_brat_2	0	7	too	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	well	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	to	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	neglect	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	such	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	an	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	acquaintance	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	14	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	Well	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	how	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	pleased	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	I	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	5	am	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	!	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	and	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	it	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	is	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	such	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	a	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	good	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	joke	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	too	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	that	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	you	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	12	should	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	have	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	14	gone	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	15	this	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	16	morning	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	17	and	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	18	never	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	19	said	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	20	a	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	21	word	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	22	about	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	23	it	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	24	till	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	25	now	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	26	.	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	27	”	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	Now	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	Kitty	_	_	_	_	_	_	_	_	(35)
+1342_pride_and_prejudice_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	you	_	_	_	_	_	_	_	_	(35)
+1342_pride_and_prejudice_brat_2	0	6	may	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	cough	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	as	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	much	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	as	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	you	_	_	_	_	_	_	_	_	(35)
+1342_pride_and_prejudice_brat_2	0	12	choose	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	14	”	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	15	said	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	16	Mr.	_	_	_	_	_	_	_	_	(5
+1342_pride_and_prejudice_brat_2	0	17	Bennet	_	_	_	_	_	_	_	_	5)
+1342_pride_and_prejudice_brat_2	0	18	;	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	19	and	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	20	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	21	as	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	22	he	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	23	spoke	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	24	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	25	he	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	26	left	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	27	the	_	_	_	_	_	_	_	_	(40
+1342_pride_and_prejudice_brat_2	0	28	room	_	_	_	_	_	_	_	_	40)
+1342_pride_and_prejudice_brat_2	0	29	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	30	fatigued	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	31	with	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	32	the	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	33	raptures	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	34	of	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	35	his	_	_	_	_	_	_	_	_	(6|(5)
+1342_pride_and_prejudice_brat_2	0	36	wife	_	_	_	_	_	_	_	_	6)
+1342_pride_and_prejudice_brat_2	0	37	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	What	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	an	_	_	_	_	_	_	_	_	(5
+1342_pride_and_prejudice_brat_2	0	3	excellent	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	father	_	_	_	_	_	_	_	_	5)
+1342_pride_and_prejudice_brat_2	0	5	you	_	_	_	_	_	_	_	_	(15)
+1342_pride_and_prejudice_brat_2	0	6	have	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	girls	_	_	_	_	_	_	_	_	(15)
+1342_pride_and_prejudice_brat_2	0	9	!	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	”	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	said	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	she	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	when	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	the	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	door	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	was	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	shut	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	I	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	2	do	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	not	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	know	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	how	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	you	_	_	_	_	_	_	_	_	(15)
+1342_pride_and_prejudice_brat_2	0	7	will	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	ever	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	make	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	him	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	11	amends	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	12	for	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	his	_	_	_	_	_	_	_	_	(5)
+1342_pride_and_prejudice_brat_2	0	14	kindness	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	15	;	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	16	or	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	17	me	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	18	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	19	either	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	20	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	21	for	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	22	that	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	23	matter	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	24	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	At	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	1	our	_	_	_	_	_	_	_	_	(34)
+1342_pride_and_prejudice_brat_2	0	2	time	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	3	of	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	life	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	it	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	is	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	7	not	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	so	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	pleasant	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	11	I	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	12	can	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	tell	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	14	you	_	_	_	_	_	_	_	_	(15)
+1342_pride_and_prejudice_brat_2	0	15	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	16	to	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	17	be	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	18	making	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	19	new	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	20	acquaintances	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	21	every	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	22	day	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	23	;	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	24	but	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	25	for	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	26	your	_	_	_	_	_	_	_	_	(15)
+1342_pride_and_prejudice_brat_2	0	27	sakes	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	28	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	29	we	_	_	_	_	_	_	_	_	(34)
+1342_pride_and_prejudice_brat_2	0	30	would	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	31	do	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	32	anything	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	33	.	_	_	_	_	_	_	_	_	
+
+1342_pride_and_prejudice_brat_2	0	0	Lydia	_	_	_	_	_	_	_	_	(28)
+1342_pride_and_prejudice_brat_2	0	1	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	2	my	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	3	love	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	5	though	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	6	you	_	_	_	_	_	_	_	_	(28)
+1342_pride_and_prejudice_brat_2	0	7	_	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	8	are	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	9	_	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	10	the	_	_	_	_	_	_	_	_	(47
+1342_pride_and_prejudice_brat_2	0	11	youngest	_	_	_	_	_	_	_	_	47)
+1342_pride_and_prejudice_brat_2	0	12	,	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	13	I	_	_	_	_	_	_	_	_	(6)
+1342_pride_and_prejudice_brat_2	0	14	dare	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	15	say	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	16	Mr.	_	_	_	_	_	_	_	_	(10
+1342_pride_and_prejudice_brat_2	0	17	Bingley	_	_	_	_	_	_	_	_	10)
+1342_pride_and_prejudice_brat_2	0	18	will	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	19	dance	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	20	with	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	21	you	_	_	_	_	_	_	_	_	(28)
+1342_pride_and_prejudice_brat_2	0	22	at	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	23	the	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	24	next	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	25	ball	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	26	.	_	_	_	_	_	_	_	_	
+1342_pride_and_prejudice_brat_2	0	27	”	_	_	_	_	_	_	_	_	
+
+#end document

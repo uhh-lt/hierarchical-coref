@@ -69,7 +69,7 @@ def load_bert(config: Config) -> Tuple[AutoModel, AutoTokenizer]:
                                               **tokenizer_kwargs)
 
     model = AutoModel.from_pretrained(config.bert_model).to(config.device)
-
+    
     print("Bert successfully loaded.")
 
     return model, tokenizer

@@ -116,6 +116,8 @@ def build_one_jsonline(filename: str,
     """
     with open(filename, mode="r", encoding="utf8") as f:
         sents = re.findall(SENT_PATTERN, f.read())
+        # print(f'sents is {sents}') # const from the gold_conll file
+        # print(f'parsed sents are {parsed_sents}') # constructed from the dep file
         assert len(sents) == len(parsed_sents)
 
     data = {

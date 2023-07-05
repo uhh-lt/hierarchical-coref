@@ -1,0 +1,852 @@
+#begin document (litbank_splitted/train/233_sister_carrie_a_novel_brat_2); part 0
+233_sister_carrie_a_novel_brat_2	0	0	He	_	_	_	_	_	_	_	_	(26)
+233_sister_carrie_a_novel_brat_2	0	1	was	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	for	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	order	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	intellect	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	represented	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	attractive	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	and	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	whatever	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	he	_	_	_	_	_	_	_	_	(26)
+233_sister_carrie_a_novel_brat_2	0	15	had	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	to	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	17	recommend	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	18	him	_	_	_	_	_	_	_	_	(26)
+233_sister_carrie_a_novel_brat_2	0	19	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	20	you	_	_	_	_	_	_	_	_	(38)
+233_sister_carrie_a_novel_brat_2	0	21	may	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	22	be	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	23	sure	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	24	was	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	25	not	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	26	lost	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	27	upon	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	28	Carrie	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	29	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	30	in	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	31	this	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	32	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	33	her	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	34	first	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	35	glance	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	36	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	Lest	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	this	_	_	_	_	_	_	_	_	(40
+233_sister_carrie_a_novel_brat_2	0	2	order	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	individual	_	_	_	_	_	_	_	_	40)
+233_sister_carrie_a_novel_brat_2	0	5	should	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	permanently	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	pass	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	let	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	me	_	_	_	_	_	_	_	_	(39)
+233_sister_carrie_a_novel_brat_2	0	11	put	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	down	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	some	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	most	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	17	striking	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	18	characteristics	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	19	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	20	his	_	_	_	_	_	_	_	_	(40)
+233_sister_carrie_a_novel_brat_2	0	21	most	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	22	successful	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	23	manner	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	24	and	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	25	method	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	26	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	Good	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	clothes	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	course	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	were	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	first	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	essential	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	things	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	without	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	which	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	he	_	_	_	_	_	_	_	_	(40)
+233_sister_carrie_a_novel_brat_2	0	16	was	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	17	nothing	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	18	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	A	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	strong	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	physical	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	nature	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	actuated	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	by	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	a	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	keen	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	desire	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	for	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	feminine	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	was	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	next	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	17	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	A	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	mind	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	free	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	any	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	consideration	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	problems	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	or	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	forces	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	the	_	_	_	_	_	_	_	_	(41
+233_sister_carrie_a_novel_brat_2	0	13	world	_	_	_	_	_	_	_	_	41)
+233_sister_carrie_a_novel_brat_2	0	14	and	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	actuated	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	not	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	17	by	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	18	greed	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	19	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	20	but	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	21	an	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	22	insatiable	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	23	love	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	24	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	25	variable	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	26	pleasure	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	27	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	His	_	_	_	_	_	_	_	_	(40)
+233_sister_carrie_a_novel_brat_2	0	1	method	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	was	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	always	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	simple	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	Its	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	principal	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	element	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	was	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	daring	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	backed	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	course	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	by	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	an	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	intense	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	desire	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	and	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	admiration	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	17	for	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	18	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	19	sex	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	20	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	Let	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	him	_	_	_	_	_	_	_	_	(40)
+233_sister_carrie_a_novel_brat_2	0	2	meet	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	with	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	a	_	_	_	_	_	_	_	_	(42
+233_sister_carrie_a_novel_brat_2	0	5	young	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	woman	_	_	_	_	_	_	_	_	42)
+233_sister_carrie_a_novel_brat_2	0	7	once	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	and	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	he	_	_	_	_	_	_	_	_	(40)
+233_sister_carrie_a_novel_brat_2	0	10	would	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	approach	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	her	_	_	_	_	_	_	_	_	(42)
+233_sister_carrie_a_novel_brat_2	0	13	with	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	an	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	air	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	17	kindly	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	18	familiarity	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	19	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	20	not	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	21	unmixed	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	22	with	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	23	pleading	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	24	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	25	which	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	26	would	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	27	result	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	28	in	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	29	most	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	30	cases	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	31	in	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	32	a	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	33	tolerant	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	34	acceptance	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	35	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	If	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	she	_	_	_	_	_	_	_	_	(42)
+233_sister_carrie_a_novel_brat_2	0	2	showed	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	any	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	tendency	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	to	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	coquetry	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	he	_	_	_	_	_	_	_	_	(40)
+233_sister_carrie_a_novel_brat_2	0	8	would	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	be	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	apt	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	to	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	straighten	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	her	_	_	_	_	_	_	_	_	(42)
+233_sister_carrie_a_novel_brat_2	0	14	tie	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	or	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	17	if	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	18	she	_	_	_	_	_	_	_	_	(42)
+233_sister_carrie_a_novel_brat_2	0	19	“	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	20	took	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	21	up	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	22	”	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	23	with	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	24	him	_	_	_	_	_	_	_	_	(40)
+233_sister_carrie_a_novel_brat_2	0	25	at	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	26	all	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	27	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	28	to	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	29	call	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	30	her	_	_	_	_	_	_	_	_	(42)
+233_sister_carrie_a_novel_brat_2	0	31	by	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	32	her	_	_	_	_	_	_	_	_	(42)
+233_sister_carrie_a_novel_brat_2	0	33	first	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	34	name	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	35	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	If	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	he	_	_	_	_	_	_	_	_	(40)
+233_sister_carrie_a_novel_brat_2	0	2	visited	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	a	_	_	_	_	_	_	_	_	(43
+233_sister_carrie_a_novel_brat_2	0	4	department	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	store	_	_	_	_	_	_	_	_	43)
+233_sister_carrie_a_novel_brat_2	0	6	it	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	was	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	to	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	lounge	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	familiarly	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	over	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	counter	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	and	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	ask	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	some	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	17	leading	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	18	questions	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	19	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	In	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	more	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	exclusive	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	circles	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	on	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	the	_	_	_	_	_	_	_	_	(44
+233_sister_carrie_a_novel_brat_2	0	7	train	_	_	_	_	_	_	_	_	44)
+233_sister_carrie_a_novel_brat_2	0	8	or	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	in	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	waiting	_	_	_	_	_	_	_	_	(45
+233_sister_carrie_a_novel_brat_2	0	11	stations	_	_	_	_	_	_	_	_	45)
+233_sister_carrie_a_novel_brat_2	0	12	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	he	_	_	_	_	_	_	_	_	(40)
+233_sister_carrie_a_novel_brat_2	0	14	went	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	slower	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	If	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	some	_	_	_	_	_	_	_	_	(47
+233_sister_carrie_a_novel_brat_2	0	2	seemingly	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	vulnerable	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	object	_	_	_	_	_	_	_	_	47)
+233_sister_carrie_a_novel_brat_2	0	5	appeared	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	he	_	_	_	_	_	_	_	_	(40)
+233_sister_carrie_a_novel_brat_2	0	7	was	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	all	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	attention	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	--	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	to	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	pass	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	compliments	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	17	day	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	18	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	19	to	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	20	lead	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	21	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	22	way	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	23	to	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	24	the	_	_	_	_	_	_	_	_	(46
+233_sister_carrie_a_novel_brat_2	0	25	parlor	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	26	car	_	_	_	_	_	_	_	_	46)
+233_sister_carrie_a_novel_brat_2	0	27	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	28	carrying	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	29	her	_	_	_	_	_	_	_	_	(47)
+233_sister_carrie_a_novel_brat_2	0	30	grip	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	31	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	32	or	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	33	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	34	failing	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	35	that	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	36	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	37	to	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	38	take	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	39	a	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	40	seat	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	41	next	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	42	her	_	_	_	_	_	_	_	_	(47)
+233_sister_carrie_a_novel_brat_2	0	43	with	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	44	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	45	hope	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	46	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	47	being	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	48	able	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	49	to	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	50	court	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	51	her	_	_	_	_	_	_	_	_	(47)
+233_sister_carrie_a_novel_brat_2	0	52	to	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	53	her	_	_	_	_	_	_	_	_	(47)
+233_sister_carrie_a_novel_brat_2	0	54	destination	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	55	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	Pillows	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	books	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	a	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	footstool	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	shade	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	lowered	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	;	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	all	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	these	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	figured	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	in	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	things	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	17	which	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	18	he	_	_	_	_	_	_	_	_	(40)
+233_sister_carrie_a_novel_brat_2	0	19	could	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	20	do	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	21	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	If	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	when	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	she	_	_	_	_	_	_	_	_	(47)
+233_sister_carrie_a_novel_brat_2	0	4	reached	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	her	_	_	_	_	_	_	_	_	(47)
+233_sister_carrie_a_novel_brat_2	0	6	destination	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	he	_	_	_	_	_	_	_	_	(40)
+233_sister_carrie_a_novel_brat_2	0	8	did	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	not	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	alight	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	and	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	attend	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	her	_	_	_	_	_	_	_	_	(47)
+233_sister_carrie_a_novel_brat_2	0	14	baggage	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	for	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	her	_	_	_	_	_	_	_	_	(47)
+233_sister_carrie_a_novel_brat_2	0	17	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	18	it	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	19	was	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	20	because	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	21	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	22	in	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	23	his	_	_	_	_	_	_	_	_	(40)
+233_sister_carrie_a_novel_brat_2	0	24	own	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	25	estimation	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	26	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	27	he	_	_	_	_	_	_	_	_	(40)
+233_sister_carrie_a_novel_brat_2	0	28	had	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	29	signally	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	30	failed	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	31	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	A	_	_	_	_	_	_	_	_	(48
+233_sister_carrie_a_novel_brat_2	0	1	woman	_	_	_	_	_	_	_	_	48)
+233_sister_carrie_a_novel_brat_2	0	2	should	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	some	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	day	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	write	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	complete	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	philosophy	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	clothes	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	No	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	matter	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	how	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	young	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	it	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	is	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	one	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	things	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	she	_	_	_	_	_	_	_	_	(48)
+233_sister_carrie_a_novel_brat_2	0	12	wholly	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	comprehends	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	There	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	is	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	an	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	indescribably	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	faint	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	line	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	in	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	matter	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	man	_	_	_	_	_	_	_	_	(49)
+233_sister_carrie_a_novel_brat_2	0	11	's	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	apparel	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	which	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	somehow	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	divides	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	for	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	17	her	_	_	_	_	_	_	_	_	(48)
+233_sister_carrie_a_novel_brat_2	0	18	those	_	_	_	_	_	_	_	_	(50
+233_sister_carrie_a_novel_brat_2	0	19	who	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	20	are	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	21	worth	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	22	glancing	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	23	at	_	_	_	_	_	_	_	_	50)
+233_sister_carrie_a_novel_brat_2	0	24	and	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	25	those	_	_	_	_	_	_	_	_	(51
+233_sister_carrie_a_novel_brat_2	0	26	who	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	27	are	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	28	not	_	_	_	_	_	_	_	_	51)
+233_sister_carrie_a_novel_brat_2	0	29	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	Once	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	an	_	_	_	_	_	_	_	_	(52
+233_sister_carrie_a_novel_brat_2	0	2	individual	_	_	_	_	_	_	_	_	52)
+233_sister_carrie_a_novel_brat_2	0	3	has	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	passed	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	this	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	faint	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	line	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	on	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	way	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	downward	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	he	_	_	_	_	_	_	_	_	(52)
+233_sister_carrie_a_novel_brat_2	0	13	will	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	get	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	no	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	glance	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	17	from	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	18	her	_	_	_	_	_	_	_	_	(48)
+233_sister_carrie_a_novel_brat_2	0	19	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	There	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	is	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	another	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	line	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	at	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	which	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	dress	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	a	_	_	_	_	_	_	_	_	(53
+233_sister_carrie_a_novel_brat_2	0	10	man	_	_	_	_	_	_	_	_	53)
+233_sister_carrie_a_novel_brat_2	0	11	will	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	cause	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	her	_	_	_	_	_	_	_	_	(48)
+233_sister_carrie_a_novel_brat_2	0	14	to	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	study	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	her	_	_	_	_	_	_	_	_	(48)
+233_sister_carrie_a_novel_brat_2	0	17	own	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	18	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	This	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	line	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	the	_	_	_	_	_	_	_	_	(26
+233_sister_carrie_a_novel_brat_2	0	3	individual	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	at	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	her	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	6	elbow	_	_	_	_	_	_	_	_	26)
+233_sister_carrie_a_novel_brat_2	0	7	now	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	marked	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	for	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	Carrie	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	11	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	She	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	1	became	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	conscious	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	an	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	inequality	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	Her	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	1	own	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	plain	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	blue	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	dress	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	with	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	its	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	black	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	cotton	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	tape	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	trimmings	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	now	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	seemed	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	to	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	her	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	17	shabby	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	18	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	She	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	1	felt	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	worn	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	state	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	her	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	7	shoes	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	Let	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	's	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	see	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	”	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	he	_	_	_	_	_	_	_	_	(26)
+233_sister_carrie_a_novel_brat_2	0	7	went	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	on	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	“	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	I	_	_	_	_	_	_	_	_	(26)
+233_sister_carrie_a_novel_brat_2	0	12	know	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	quite	_	_	_	_	_	_	_	_	(54
+233_sister_carrie_a_novel_brat_2	0	14	a	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	number	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	17	people	_	_	_	_	_	_	_	_	54)
+233_sister_carrie_a_novel_brat_2	0	18	in	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	19	your	_	_	_	_	_	_	_	_	(13|(0)
+233_sister_carrie_a_novel_brat_2	0	20	town	_	_	_	_	_	_	_	_	13)
+233_sister_carrie_a_novel_brat_2	0	21	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	Morgenroth	_	_	_	_	_	_	_	_	(55)
+233_sister_carrie_a_novel_brat_2	0	1	the	_	_	_	_	_	_	_	_	(72
+233_sister_carrie_a_novel_brat_2	0	2	clothier	_	_	_	_	_	_	_	_	72)
+233_sister_carrie_a_novel_brat_2	0	3	and	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	Gibson	_	_	_	_	_	_	_	_	(56)
+233_sister_carrie_a_novel_brat_2	0	5	the	_	_	_	_	_	_	_	_	(71
+233_sister_carrie_a_novel_brat_2	0	6	dry	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	goods	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	man	_	_	_	_	_	_	_	_	71)
+233_sister_carrie_a_novel_brat_2	0	9	.	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	”	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	Oh	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	do	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	you	_	_	_	_	_	_	_	_	(26)
+233_sister_carrie_a_novel_brat_2	0	5	?	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	”	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	she	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	1	interrupted	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	aroused	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	by	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	memories	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	longings	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	their	_	_	_	_	_	_	_	_	(57)
+233_sister_carrie_a_novel_brat_2	0	9	show	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	windows	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	had	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	cost	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	her	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	14	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	At	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	last	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	he	_	_	_	_	_	_	_	_	(26)
+233_sister_carrie_a_novel_brat_2	0	3	had	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	a	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	clew	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	to	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	her	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	8	interest	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	and	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	followed	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	it	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	deftly	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	In	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	a	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	few	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	minutes	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	he	_	_	_	_	_	_	_	_	(26)
+233_sister_carrie_a_novel_brat_2	0	5	had	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	come	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	about	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	into	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	her	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	10	seat	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	He	_	_	_	_	_	_	_	_	(26)
+233_sister_carrie_a_novel_brat_2	0	1	talked	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	sales	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	clothing	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	his	_	_	_	_	_	_	_	_	(26)
+233_sister_carrie_a_novel_brat_2	0	8	travels	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	Chicago	_	_	_	_	_	_	_	_	(2)
+233_sister_carrie_a_novel_brat_2	0	11	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	and	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	amusements	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	that	_	_	_	_	_	_	_	_	(2
+233_sister_carrie_a_novel_brat_2	0	17	city	_	_	_	_	_	_	_	_	2)
+233_sister_carrie_a_novel_brat_2	0	18	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	If	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	you	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	3	are	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	going	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	there	_	_	_	_	_	_	_	_	(2)
+233_sister_carrie_a_novel_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	you	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	8	will	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	enjoy	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	it	_	_	_	_	_	_	_	_	(2)
+233_sister_carrie_a_novel_brat_2	0	11	immensely	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	Have	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	you	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	2	relatives	_	_	_	_	_	_	_	_	(58)
+233_sister_carrie_a_novel_brat_2	0	3	?	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	”	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	I	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	2	am	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	going	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	to	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	visit	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	my	_	_	_	_	_	_	_	_	(3|(0)
+233_sister_carrie_a_novel_brat_2	0	7	sister	_	_	_	_	_	_	_	_	3)
+233_sister_carrie_a_novel_brat_2	0	8	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	”	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	she	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	11	explained	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	“	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	You	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	2	want	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	to	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	see	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	Lincoln	_	_	_	_	_	_	_	_	(59
+233_sister_carrie_a_novel_brat_2	0	6	Park	_	_	_	_	_	_	_	_	59)
+233_sister_carrie_a_novel_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	”	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	he	_	_	_	_	_	_	_	_	(26)
+233_sister_carrie_a_novel_brat_2	0	10	said	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	“	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	and	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	Michigan	_	_	_	_	_	_	_	_	(60
+233_sister_carrie_a_novel_brat_2	0	15	Boulevard	_	_	_	_	_	_	_	_	60)
+233_sister_carrie_a_novel_brat_2	0	16	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	They	_	_	_	_	_	_	_	_	(61)
+233_sister_carrie_a_novel_brat_2	0	1	are	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	putting	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	up	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	great	_	_	_	_	_	_	_	_	(62
+233_sister_carrie_a_novel_brat_2	0	5	buildings	_	_	_	_	_	_	_	_	62)
+233_sister_carrie_a_novel_brat_2	0	6	there	_	_	_	_	_	_	_	_	(60)
+233_sister_carrie_a_novel_brat_2	0	7	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	It	_	_	_	_	_	_	_	_	(2)
+233_sister_carrie_a_novel_brat_2	0	1	's	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	a	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	second	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	New	_	_	_	_	_	_	_	_	(63
+233_sister_carrie_a_novel_brat_2	0	5	York	_	_	_	_	_	_	_	_	63)
+233_sister_carrie_a_novel_brat_2	0	6	--	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	great	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	So	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	much	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	to	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	see	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	--	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	theatres	_	_	_	_	_	_	_	_	(64)
+233_sister_carrie_a_novel_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	crowds	_	_	_	_	_	_	_	_	(65)
+233_sister_carrie_a_novel_brat_2	0	8	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	fine	_	_	_	_	_	_	_	_	(66
+233_sister_carrie_a_novel_brat_2	0	10	houses	_	_	_	_	_	_	_	_	66)
+233_sister_carrie_a_novel_brat_2	0	11	--	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	oh	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	you	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	15	'll	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	like	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	17	that	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	18	.	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	19	”	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	There	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	was	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	a	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	little	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	ache	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	in	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	her	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	7	fancy	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	all	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	he	_	_	_	_	_	_	_	_	(26)
+233_sister_carrie_a_novel_brat_2	0	11	described	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	Her	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	1	insignificance	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	in	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	presence	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	so	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	much	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	magnificence	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	faintly	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	affected	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	her	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	12	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	She	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	1	realised	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	that	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	hers	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	was	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	not	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	to	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	be	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	a	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	round	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	pleasure	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	and	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	yet	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	there	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	16	was	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	17	something	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	18	promising	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	19	in	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	20	all	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	21	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	22	material	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	23	prospect	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	24	he	_	_	_	_	_	_	_	_	(26)
+233_sister_carrie_a_novel_brat_2	0	25	set	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	26	forth	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	27	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	There	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	1	was	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	something	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	satisfactory	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	in	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	the	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	attention	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	this	_	_	_	_	_	_	_	_	(26
+233_sister_carrie_a_novel_brat_2	0	9	individual	_	_	_	_	_	_	_	_	26)
+233_sister_carrie_a_novel_brat_2	0	10	with	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	his	_	_	_	_	_	_	_	_	(26)
+233_sister_carrie_a_novel_brat_2	0	12	good	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	clothes	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	She	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	1	could	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	not	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	help	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	smiling	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	as	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	he	_	_	_	_	_	_	_	_	(26)
+233_sister_carrie_a_novel_brat_2	0	7	told	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	her	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	9	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	some	_	_	_	_	_	_	_	_	(67
+233_sister_carrie_a_novel_brat_2	0	11	popular	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	actress	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	whom	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	15	she	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	16	reminded	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	17	him	_	_	_	_	_	_	_	_	67)|(26)
+233_sister_carrie_a_novel_brat_2	0	18	.	_	_	_	_	_	_	_	_	
+
+233_sister_carrie_a_novel_brat_2	0	0	She	_	_	_	_	_	_	_	_	(0)
+233_sister_carrie_a_novel_brat_2	0	1	was	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	2	not	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	3	silly	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	5	and	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	6	yet	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	7	attention	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	8	of	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	9	this	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	10	sort	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	11	had	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	12	its	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	13	weight	_	_	_	_	_	_	_	_	
+233_sister_carrie_a_novel_brat_2	0	14	.	_	_	_	_	_	_	_	_	
+
+#end document
