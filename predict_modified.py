@@ -116,14 +116,12 @@ if __name__ == "__main__":
         for doc1, doc2 in list(zip(docs,docs[1:]))[::2]:
             span_clusters_mapping = {}
             cluster_emb1 = doc1['cluster_emb']
-            print("sup",doc1['document_id'])
-            print("sup",doc2['document_id'])
             clusters1 = doc1['span_clusters_res']
             cluster_emb2 = doc2['cluster_emb']
             clusters2 = doc2['span_clusters_res']
             offset = len(doc1['cased_words'])
-            # print("hi1", clusters1)
-            # print("hi2", clusters2)
+            
+            
 
             clusters2 = [[(start + offset, end + offset) for start, end in tuple_list] for tuple_list in clusters2]
 
@@ -161,8 +159,7 @@ if __name__ == "__main__":
             as (gold_f, pred_f):
         pbar = tqdm(docs, unit="docs", ncols=0)
         for doc in pbar:
-            print(doc['document_id'])
-
+            
             doc_id = doc['document_id']
             pred_span_clusters = docs_new[doc_id]
 

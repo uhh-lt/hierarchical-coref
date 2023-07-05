@@ -127,7 +127,7 @@ if __name__ == "__main__":
             docs_new[doc_id] = combined_span_clusters
 
     data_split = 'test'
-    docs = model._get_docs(model.config.__dict__[f"{data_split}_data"])  # in the data/ dir put the unsplitted jsonlines file!
+    docs = model._get_docs(model.config.__dict__[f"{data_split}_data"])  # in the data/ dir [you can change this is the config file] put the unsplitted jsonlines file!
     
     with conll.open_(model.config, model.epochs_trained, data_split) \
             as (gold_f, pred_f):
