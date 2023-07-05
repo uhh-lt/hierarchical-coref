@@ -33,7 +33,7 @@ if __name__ == "__main__":
     kwargs = {"capture_output": True, "check": True, "text": True}
 
     results = []
-    for metric in "muc", "ceafe", "bcub":
+    for metric in "muc", "ceafe", "bcub", "lea":
         results.append(
             extract_f1(subprocess.run(part_a + [metric] + part_b, **kwargs)))
         print(metric, results[-1])
