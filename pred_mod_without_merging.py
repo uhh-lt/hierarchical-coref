@@ -126,7 +126,6 @@ if __name__ == "__main__":
             doc_id = doc1["document_id"][:-2]
             docs_new[doc_id] = combined_span_clusters
 
-    
     data_split = 'test'
     docs = model._get_docs(model.config.__dict__[f"{data_split}_data"])  # in the data/ dir put the unsplitted jsonlines file!
     
