@@ -99,8 +99,6 @@ if __name__ == "__main__":
                     span_embedding /= (end - start)
                     cluster_i.append(span_embedding)
                     
-                    
-                #mean = torch.mean(torch.stack(cluster_embedding_list))
                 cluster_i = torch.stack(cluster_i)
                 cluster_i = torch.mean(cluster_i, dim=0)
                 doc['cluster_emb'].append(cluster_i)
@@ -153,7 +151,8 @@ if __name__ == "__main__":
     
     
     data_split = 'test'
-    docs = model._get_docs(model.config.__dict__[f"{data_split}_data"])
+    docs = model._get_docs(model.config.__dict__[f"{data_split}_data"])   # from the head.jsonlines, because they contain 'span_clusters' not the other .jsonlines which contains the 'clusters'
+    # span clusters are formed after you run the convert_to_heads.py -- which are : clusters - some deleted clusters
     
     with conll.open_(model.config, model.epochs_trained, data_split) \
             as (gold_f, pred_f):
@@ -165,5 +164,6 @@ if __name__ == "__main__":
 
             conll.write_conll(doc, doc["span_clusters"], gold_f)
             # remove singletons using ./coref-toolkit mod --strip-singletons data/conll_logs/roberta_test_e30.gold.conll > data/conll_logs/roberta_test_e30_x.gold.conll
+            # then rename it back
             conll.write_conll(doc, pred_span_clusters, pred_f) # will be written in data/conll_logs/ dir
             # to eval : python calculate_conll.py roberta test 30[no of epochs]
