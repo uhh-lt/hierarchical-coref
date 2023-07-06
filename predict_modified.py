@@ -9,9 +9,10 @@ from coref.tokenizer_customization import *
 from coref import bert, conll, utils
 
 
-# usage : python predict_modified.py roberta data_splitted_newest/english_test_head.jsonlines output.jsonlines
+# usage : python predict_modified.py roberta litbank_splitted/jsonlines/english_test_head.jsonlines output.jsonlines
 # output.jsonlines [output path] redundant right now
 # pred.conll and gold.conll files written in the data/conll_logs dir, model wts loaded from data/
+# the unsplitted doc .jsonlines should be in the data/ dir
 
 def build_doc(doc: dict, model: CorefModel) -> dict:
     filter_func = TOKENIZER_FILTERS.get(model.config.bert_model,

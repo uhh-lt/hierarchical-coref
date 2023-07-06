@@ -9,7 +9,7 @@ from coref.tokenizer_customization import *
 from coref import bert, conll, utils
 
 
-# usage : python pred_mod_without_merging.py roberta data_splitted_newest/english_test_head.jsonlines output.jsonlines
+# usage : python pred_mod_without_merging.py roberta litbank_splitted/jsonlines/english_test_head.jsonlines output.jsonlines
 # output.jsonlines [output path] redundant right now
 # pred.conll and gold.conll files written in the data/conll_logs dir, model wts loaded from data/
 
@@ -98,8 +98,6 @@ if __name__ == "__main__":
                     span_embedding /= (end - start)
                     cluster_i.append(span_embedding)
                     
-                    
-                #mean = torch.mean(torch.stack(cluster_embedding_list))
                 cluster_i = torch.stack(cluster_i)
                 cluster_i = torch.mean(cluster_i, dim=0)
                 doc['cluster_emb'].append(cluster_i)

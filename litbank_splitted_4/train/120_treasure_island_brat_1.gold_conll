@@ -1,0 +1,471 @@
+#begin document (120_treasure_island_brat_1); part 0
+120_treasure_island_brat_1	0	0	PART	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	1	ONE	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	2	--	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	3	The	_	_	_	_	_	_	_	_	(0
+120_treasure_island_brat_1	0	4	Old	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	5	Buccaneer	_	_	_	_	_	_	_	_	0)
+120_treasure_island_brat_1	0	6	1	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	7	The	_	_	_	_	_	_	_	_	(1
+120_treasure_island_brat_1	0	8	Old	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	9	Sea-dog	_	_	_	_	_	_	_	_	1)
+120_treasure_island_brat_1	0	10	at	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	11	the	_	_	_	_	_	_	_	_	(2
+120_treasure_island_brat_1	0	12	Admiral	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	13	Benbow	_	_	_	_	_	_	_	_	2)
+120_treasure_island_brat_1	0	14	SQUIRE	_	_	_	_	_	_	_	_	(3
+120_treasure_island_brat_1	0	15	TRELAWNEY	_	_	_	_	_	_	_	_	3)
+120_treasure_island_brat_1	0	16	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	17	Dr.	_	_	_	_	_	_	_	_	(4
+120_treasure_island_brat_1	0	18	Livesey	_	_	_	_	_	_	_	_	4)
+120_treasure_island_brat_1	0	19	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	20	and	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	21	the	_	_	_	_	_	_	_	_	(5
+120_treasure_island_brat_1	0	22	rest	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	23	of	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	24	these	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	25	gentlemen	_	_	_	_	_	_	_	_	5)
+120_treasure_island_brat_1	0	26	having	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	27	asked	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	28	me	_	_	_	_	_	_	_	_	(6)
+120_treasure_island_brat_1	0	29	to	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	30	write	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	31	down	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	32	the	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	33	whole	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	34	particulars	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	35	about	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	36	Treasure	_	_	_	_	_	_	_	_	(7
+120_treasure_island_brat_1	0	37	Island	_	_	_	_	_	_	_	_	7)
+120_treasure_island_brat_1	0	38	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	39	from	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	40	the	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	41	beginning	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	42	to	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	43	the	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	44	end	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	45	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	46	keeping	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	47	nothing	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	48	back	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	49	but	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	50	the	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	51	bearings	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	52	of	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	53	the	_	_	_	_	_	_	_	_	(7
+120_treasure_island_brat_1	0	54	island	_	_	_	_	_	_	_	_	7)
+120_treasure_island_brat_1	0	55	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	56	and	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	57	that	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	58	only	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	59	because	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	60	there	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	61	is	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	62	still	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	63	treasure	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	64	not	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	65	yet	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	66	lifted	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	67	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	68	I	_	_	_	_	_	_	_	_	(6)
+120_treasure_island_brat_1	0	69	take	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	70	up	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	71	my	_	_	_	_	_	_	_	_	(6)
+120_treasure_island_brat_1	0	72	pen	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	73	in	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	74	the	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	75	year	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	76	of	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	77	grace	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	78	17	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	79	__	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	80	and	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	81	go	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	82	back	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	83	to	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	84	the	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	85	time	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	86	when	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	87	my	_	_	_	_	_	_	_	_	(8|(6)
+120_treasure_island_brat_1	0	88	father	_	_	_	_	_	_	_	_	8)
+120_treasure_island_brat_1	0	89	kept	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	90	the	_	_	_	_	_	_	_	_	(2
+120_treasure_island_brat_1	0	91	Admiral	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	92	Benbow	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	93	inn	_	_	_	_	_	_	_	_	2)
+120_treasure_island_brat_1	0	94	and	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	95	the	_	_	_	_	_	_	_	_	(1
+120_treasure_island_brat_1	0	96	brown	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	97	old	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	98	seaman	_	_	_	_	_	_	_	_	1)
+120_treasure_island_brat_1	0	99	with	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	100	the	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	101	sabre	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	102	cut	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	103	first	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	104	took	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	105	up	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	106	his	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	107	lodging	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	108	under	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	109	our	_	_	_	_	_	_	_	_	(2|(9)
+120_treasure_island_brat_1	0	110	roof	_	_	_	_	_	_	_	_	2)
+120_treasure_island_brat_1	0	111	.	_	_	_	_	_	_	_	_	
+
+120_treasure_island_brat_1	0	0	I	_	_	_	_	_	_	_	_	(6)
+120_treasure_island_brat_1	0	1	remember	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	2	him	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	3	as	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	4	if	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	5	it	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	6	were	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	7	yesterday	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	8	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	9	as	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	10	he	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	11	came	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	12	plodding	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	13	to	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	14	the	_	_	_	_	_	_	_	_	(2
+120_treasure_island_brat_1	0	15	inn	_	_	_	_	_	_	_	_	2)
+120_treasure_island_brat_1	0	16	door	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	17	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	18	his	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	19	sea-chest	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	20	following	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	21	behind	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	22	him	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	23	in	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	24	a	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	25	hand-barrow	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	26	--	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	27	a	_	_	_	_	_	_	_	_	(1
+120_treasure_island_brat_1	0	28	tall	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	29	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	30	strong	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	31	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	32	heavy	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	33	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	34	nut-brown	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	35	man	_	_	_	_	_	_	_	_	1)
+120_treasure_island_brat_1	0	36	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	37	his	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	38	tarry	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	39	pigtail	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	40	falling	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	41	over	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	42	the	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	43	shoulder	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	44	of	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	45	his	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	46	soiled	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	47	blue	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	48	coat	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	49	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	50	his	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	51	hands	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	52	ragged	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	53	and	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	54	scarred	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	55	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	56	with	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	57	black	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	58	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	59	broken	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	60	nails	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	61	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	62	and	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	63	the	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	64	sabre	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	65	cut	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	66	across	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	67	one	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	68	cheek	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	69	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	70	a	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	71	dirty	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	72	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	73	livid	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	74	white	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	75	.	_	_	_	_	_	_	_	_	
+
+120_treasure_island_brat_1	0	0	I	_	_	_	_	_	_	_	_	(6)
+120_treasure_island_brat_1	0	1	remember	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	2	him	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	3	looking	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	4	round	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	5	the	_	_	_	_	_	_	_	_	(10
+120_treasure_island_brat_1	0	6	cover	_	_	_	_	_	_	_	_	10)
+120_treasure_island_brat_1	0	7	and	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	8	whistling	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	9	to	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	10	himself	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	11	as	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	12	he	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	13	did	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	14	so	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	15	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	16	and	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	17	then	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	18	breaking	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	19	out	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	20	in	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	21	that	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	22	old	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	23	sea-song	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	24	that	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	25	he	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	26	sang	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	27	so	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	28	often	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	29	afterwards	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	30	:	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	31	"	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	32	Fifteen	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	33	men	_	_	_	_	_	_	_	_	(11)
+120_treasure_island_brat_1	0	34	on	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	35	the	_	_	_	_	_	_	_	_	(12
+120_treasure_island_brat_1	0	36	dead	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	37	man	_	_	_	_	_	_	_	_	12)
+120_treasure_island_brat_1	0	38	's	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	39	chest	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	40	--	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	41	Yo-ho-ho	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	42	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	43	and	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	44	a	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	45	bottle	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	46	of	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	47	rum	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	48	!	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	49	"	_	_	_	_	_	_	_	_	
+
+120_treasure_island_brat_1	0	0	in	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	1	the	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	2	high	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	3	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	4	old	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	5	tottering	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	6	voice	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	7	that	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	8	seemed	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	9	to	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	10	have	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	11	been	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	12	tuned	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	13	and	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	14	broken	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	15	at	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	16	the	_	_	_	_	_	_	_	_	(13
+120_treasure_island_brat_1	0	17	capstan	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	18	bars	_	_	_	_	_	_	_	_	13)
+120_treasure_island_brat_1	0	19	.	_	_	_	_	_	_	_	_	
+
+120_treasure_island_brat_1	0	0	Then	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	1	he	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	2	rapped	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	3	on	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	4	the	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	5	door	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	6	with	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	7	a	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	8	bit	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	9	of	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	10	stick	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	11	like	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	12	a	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	13	handspike	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	14	that	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	15	he	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	16	carried	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	17	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	18	and	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	19	when	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	20	my	_	_	_	_	_	_	_	_	(8|(6)
+120_treasure_island_brat_1	0	21	father	_	_	_	_	_	_	_	_	8)
+120_treasure_island_brat_1	0	22	appeared	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	23	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	24	called	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	25	roughly	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	26	for	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	27	a	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	28	glass	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	29	of	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	30	rum	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	31	.	_	_	_	_	_	_	_	_	
+
+120_treasure_island_brat_1	0	0	This	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	1	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	2	when	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	3	it	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	4	was	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	5	brought	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	6	to	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	7	him	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	8	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	9	he	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	10	drank	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	11	slowly	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	12	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	13	like	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	14	a	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	15	connoisseur	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	16	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	17	lingering	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	18	on	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	19	the	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	20	taste	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	21	and	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	22	still	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	23	looking	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	24	about	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	25	him	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	26	at	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	27	the	_	_	_	_	_	_	_	_	(14
+120_treasure_island_brat_1	0	28	cliffs	_	_	_	_	_	_	_	_	14)
+120_treasure_island_brat_1	0	29	and	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	30	up	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	31	at	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	32	our	_	_	_	_	_	_	_	_	(9)
+120_treasure_island_brat_1	0	33	signboard	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	34	.	_	_	_	_	_	_	_	_	
+
+120_treasure_island_brat_1	0	0	"	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	1	This	_	_	_	_	_	_	_	_	(15)
+120_treasure_island_brat_1	0	2	is	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	3	a	_	_	_	_	_	_	_	_	(71
+120_treasure_island_brat_1	0	4	handy	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	5	cove	_	_	_	_	_	_	_	_	71)
+120_treasure_island_brat_1	0	6	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	7	"	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	8	says	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	9	he	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	10	at	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	11	length	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	12	;	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	13	"	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	14	and	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	15	a	_	_	_	_	_	_	_	_	(64
+120_treasure_island_brat_1	0	16	pleasant	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	17	sittyated	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	18	grog-shop	_	_	_	_	_	_	_	_	64)
+120_treasure_island_brat_1	0	19	.	_	_	_	_	_	_	_	_	
+
+120_treasure_island_brat_1	0	0	Much	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	1	company	_	_	_	_	_	_	_	_	(16)
+120_treasure_island_brat_1	0	2	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	3	mate	_	_	_	_	_	_	_	_	(8)
+120_treasure_island_brat_1	0	4	?	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	5	"	_	_	_	_	_	_	_	_	
+
+120_treasure_island_brat_1	0	0	My	_	_	_	_	_	_	_	_	(8|(6)
+120_treasure_island_brat_1	0	1	father	_	_	_	_	_	_	_	_	8)
+120_treasure_island_brat_1	0	2	told	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	3	him	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	4	no	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	5	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	6	very	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	7	little	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	8	company	_	_	_	_	_	_	_	_	(17)
+120_treasure_island_brat_1	0	9	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	10	the	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	11	more	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	12	was	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	13	the	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	14	pity	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	15	.	_	_	_	_	_	_	_	_	
+
+120_treasure_island_brat_1	0	0	"	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	1	Well	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	2	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	3	then	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	4	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	5	"	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	6	said	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	7	he	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	8	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	9	"	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	10	this	_	_	_	_	_	_	_	_	(2)
+120_treasure_island_brat_1	0	11	is	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	12	the	_	_	_	_	_	_	_	_	(70
+120_treasure_island_brat_1	0	13	berth	_	_	_	_	_	_	_	_	70)
+120_treasure_island_brat_1	0	14	for	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	15	me	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	16	.	_	_	_	_	_	_	_	_	
+
+120_treasure_island_brat_1	0	0	Here	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	1	you	_	_	_	_	_	_	_	_	(18)
+120_treasure_island_brat_1	0	2	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	3	matey	_	_	_	_	_	_	_	_	(18)
+120_treasure_island_brat_1	0	4	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	5	"	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	6	he	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	7	cried	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	8	to	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	9	the	_	_	_	_	_	_	_	_	(18
+120_treasure_island_brat_1	0	10	man	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	11	who	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	12	trundled	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	13	the	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	14	barrow	_	_	_	_	_	_	_	_	18)
+120_treasure_island_brat_1	0	15	;	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	16	"	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	17	bring	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	18	up	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	19	alongside	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	20	and	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	21	help	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	22	up	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	23	my	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	24	chest	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	25	.	_	_	_	_	_	_	_	_	
+
+120_treasure_island_brat_1	0	0	I	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	1	'll	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	2	stay	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	3	here	_	_	_	_	_	_	_	_	(2)
+120_treasure_island_brat_1	0	4	a	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	5	bit	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	6	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	7	"	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	8	he	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	9	continued	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	10	.	_	_	_	_	_	_	_	_	
+
+120_treasure_island_brat_1	0	0	"	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	1	I	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	2	'm	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	3	a	_	_	_	_	_	_	_	_	(74
+120_treasure_island_brat_1	0	4	plain	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	5	man	_	_	_	_	_	_	_	_	74)
+120_treasure_island_brat_1	0	6	;	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	7	rum	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	8	and	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	9	bacon	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	10	and	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	11	eggs	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	12	is	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	13	what	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	14	I	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	15	want	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	16	,	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	17	and	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	18	that	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	19	head	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	20	up	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	21	there	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	22	for	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	23	to	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	24	watch	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	25	ships	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	26	off	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	27	.	_	_	_	_	_	_	_	_	
+
+120_treasure_island_brat_1	0	0	What	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	1	you	_	_	_	_	_	_	_	_	(9)
+120_treasure_island_brat_1	0	2	mought	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	3	call	_	_	_	_	_	_	_	_	
+120_treasure_island_brat_1	0	4	me	_	_	_	_	_	_	_	_	(1)
+120_treasure_island_brat_1	0	5	?	_	_	_	_	_	_	_	_	
+
+#end document

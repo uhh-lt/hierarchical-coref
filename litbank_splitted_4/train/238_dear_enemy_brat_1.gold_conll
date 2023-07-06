@@ -1,0 +1,503 @@
+#begin document (238_dear_enemy_brat_1); part 0
+238_dear_enemy_brat_1	0	0	STONE	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	1	GATE	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	2	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	3	WORCESTER	_	_	_	_	_	_	_	_	(0)
+238_dear_enemy_brat_1	0	4	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	5	MASSACHUSETTS	_	_	_	_	_	_	_	_	(1)
+238_dear_enemy_brat_1	0	6	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	7	December	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	8	27	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	9	.	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	Dear	_	_	_	_	_	_	_	_	(2
+238_dear_enemy_brat_1	0	1	Judy	_	_	_	_	_	_	_	_	2)
+238_dear_enemy_brat_1	0	2	:	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	3	Your	_	_	_	_	_	_	_	_	(2)
+238_dear_enemy_brat_1	0	4	letter	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	5	is	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	6	here	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	7	.	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	I	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	1	have	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	2	read	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	3	it	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	4	twice	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	5	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	6	and	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	7	with	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	8	amazement	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	9	.	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	Do	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	1	I	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	2	understand	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	3	that	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	4	Jervis	_	_	_	_	_	_	_	_	(4)
+238_dear_enemy_brat_1	0	5	has	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	6	given	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	7	you	_	_	_	_	_	_	_	_	(2)
+238_dear_enemy_brat_1	0	8	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	9	for	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	10	a	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	11	Christmas	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	12	present	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	13	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	14	the	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	15	making	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	16	over	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	17	of	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	18	the	_	_	_	_	_	_	_	_	(5
+238_dear_enemy_brat_1	0	19	John	_	_	_	_	_	_	_	_	(6
+238_dear_enemy_brat_1	0	20	Grier	_	_	_	_	_	_	_	_	6)
+238_dear_enemy_brat_1	0	21	Home	_	_	_	_	_	_	_	_	5)
+238_dear_enemy_brat_1	0	22	into	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	23	a	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	24	model	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	25	institution	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	26	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	27	and	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	28	that	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	29	you	_	_	_	_	_	_	_	_	(2)
+238_dear_enemy_brat_1	0	30	have	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	31	chosen	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	32	me	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	33	to	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	34	disburse	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	35	the	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	36	money	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	37	?	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	Me	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	1	--	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	2	I	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	3	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	4	Sallie	_	_	_	_	_	_	_	_	(3
+238_dear_enemy_brat_1	0	5	McBride	_	_	_	_	_	_	_	_	3)
+238_dear_enemy_brat_1	0	6	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	7	the	_	_	_	_	_	_	_	_	(79
+238_dear_enemy_brat_1	0	8	head	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	9	of	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	10	an	_	_	_	_	_	_	_	_	(7
+238_dear_enemy_brat_1	0	11	orphan	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	12	asylum	_	_	_	_	_	_	_	_	7)|79)
+238_dear_enemy_brat_1	0	13	!	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	My	_	_	_	_	_	_	_	_	(8|(3)
+238_dear_enemy_brat_1	0	1	poor	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	2	people	_	_	_	_	_	_	_	_	8)
+238_dear_enemy_brat_1	0	3	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	4	have	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	5	you	_	_	_	_	_	_	_	_	(8)
+238_dear_enemy_brat_1	0	6	lost	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	7	your	_	_	_	_	_	_	_	_	(8)
+238_dear_enemy_brat_1	0	8	senses	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	9	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	10	or	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	11	have	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	12	you	_	_	_	_	_	_	_	_	(8)
+238_dear_enemy_brat_1	0	13	become	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	14	addicted	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	15	to	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	16	the	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	17	use	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	18	of	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	19	opium	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	20	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	21	and	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	22	is	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	23	this	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	24	the	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	25	raving	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	26	of	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	27	two	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	28	fevered	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	29	imaginations	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	30	?	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	I	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	1	am	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	2	exactly	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	3	as	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	4	well	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	5	fitted	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	6	to	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	7	take	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	8	care	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	9	of	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	10	one	_	_	_	_	_	_	_	_	(9
+238_dear_enemy_brat_1	0	11	hundred	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	12	children	_	_	_	_	_	_	_	_	9)
+238_dear_enemy_brat_1	0	13	as	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	14	to	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	15	become	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	16	the	_	_	_	_	_	_	_	_	(10
+238_dear_enemy_brat_1	0	17	curator	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	18	of	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	19	a	_	_	_	_	_	_	_	_	(11
+238_dear_enemy_brat_1	0	20	zoo	_	_	_	_	_	_	_	_	11)|10)
+238_dear_enemy_brat_1	0	21	.	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	And	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	1	you	_	_	_	_	_	_	_	_	(2)
+238_dear_enemy_brat_1	0	2	offer	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	3	as	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	4	bait	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	5	an	_	_	_	_	_	_	_	_	(12
+238_dear_enemy_brat_1	0	6	interesting	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	7	Scotch	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	8	doctor	_	_	_	_	_	_	_	_	12)
+238_dear_enemy_brat_1	0	9	?	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	My	_	_	_	_	_	_	_	_	(2|(3)
+238_dear_enemy_brat_1	0	1	dear	_	_	_	_	_	_	_	_	2)
+238_dear_enemy_brat_1	0	2	Judy	_	_	_	_	_	_	_	_	(2)
+238_dear_enemy_brat_1	0	3	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	4	--	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	5	likewise	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	6	my	_	_	_	_	_	_	_	_	(4|(3)
+238_dear_enemy_brat_1	0	7	dear	_	_	_	_	_	_	_	_	4)
+238_dear_enemy_brat_1	0	8	Jervis	_	_	_	_	_	_	_	_	(4)
+238_dear_enemy_brat_1	0	9	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	10	--	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	11	I	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	12	see	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	13	through	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	14	you	_	_	_	_	_	_	_	_	(8)
+238_dear_enemy_brat_1	0	15	!	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	I	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	1	know	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	2	exactly	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	3	the	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	4	kind	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	5	of	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	6	family	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	7	conference	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	8	that	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	9	has	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	10	been	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	11	held	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	12	about	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	13	the	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	14	Pendleton	_	_	_	_	_	_	_	_	(13)
+238_dear_enemy_brat_1	0	15	fireside	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	16	.	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	"	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	1	Is	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	2	n't	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	3	it	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	4	a	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	5	pity	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	6	that	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	7	Sallie	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	8	has	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	9	n't	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	10	amounted	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	11	to	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	12	more	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	13	since	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	14	she	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	15	left	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	16	college	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	17	?	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	She	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	1	ought	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	2	to	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	3	be	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	4	doing	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	5	something	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	6	useful	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	7	instead	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	8	of	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	9	frittering	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	10	her	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	11	time	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	12	away	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	13	in	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	14	the	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	15	petty	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	16	social	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	17	life	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	18	of	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	19	Worcester	_	_	_	_	_	_	_	_	(0)
+238_dear_enemy_brat_1	0	20	.	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	Also	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	1	[	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	2	Jervis	_	_	_	_	_	_	_	_	(4)
+238_dear_enemy_brat_1	0	3	speaks	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	4	]	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	5	she	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	6	is	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	7	getting	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	8	interested	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	9	in	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	10	that	_	_	_	_	_	_	_	_	(14
+238_dear_enemy_brat_1	0	11	confounded	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	12	young	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	13	Hallock	_	_	_	_	_	_	_	_	14)
+238_dear_enemy_brat_1	0	14	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	15	too	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	16	good-looking	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	17	and	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	18	fascinating	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	19	and	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	20	erratic	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	21	;	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	22	I	_	_	_	_	_	_	_	_	(4)
+238_dear_enemy_brat_1	0	23	never	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	24	did	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	25	like	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	26	politicians	_	_	_	_	_	_	_	_	(15)
+238_dear_enemy_brat_1	0	27	.	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	We	_	_	_	_	_	_	_	_	(8)
+238_dear_enemy_brat_1	0	1	must	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	2	deflect	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	3	her	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	4	mind	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	5	with	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	6	some	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	7	uplifting	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	8	and	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	9	absorbing	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	10	occupation	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	11	until	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	12	the	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	13	danger	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	14	is	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	15	past	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	16	.	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	Ha	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	1	!	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	I	_	_	_	_	_	_	_	_	(4)
+238_dear_enemy_brat_1	0	1	have	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	2	it	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	3	!	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	We	_	_	_	_	_	_	_	_	(8)
+238_dear_enemy_brat_1	0	1	will	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	2	put	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	3	her	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	4	in	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	5	charge	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	6	of	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	7	the	_	_	_	_	_	_	_	_	(5
+238_dear_enemy_brat_1	0	8	John	_	_	_	_	_	_	_	_	(6
+238_dear_enemy_brat_1	0	9	Grier	_	_	_	_	_	_	_	_	6)
+238_dear_enemy_brat_1	0	10	Home	_	_	_	_	_	_	_	_	5)
+238_dear_enemy_brat_1	0	11	.	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	12	"	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	Oh	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	1	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	2	I	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	3	can	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	4	hear	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	5	him	_	_	_	_	_	_	_	_	(4)
+238_dear_enemy_brat_1	0	6	as	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	7	clearly	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	8	as	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	9	if	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	10	I	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	11	were	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	12	there	_	_	_	_	_	_	_	_	(16)
+238_dear_enemy_brat_1	0	13	!	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	On	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	1	the	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	2	occasion	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	3	of	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	4	my	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	5	last	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	6	visit	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	7	in	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	8	your	_	_	_	_	_	_	_	_	(17|(8)
+238_dear_enemy_brat_1	0	9	delectable	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	10	household	_	_	_	_	_	_	_	_	17)
+238_dear_enemy_brat_1	0	11	Jervis	_	_	_	_	_	_	_	_	(4)
+238_dear_enemy_brat_1	0	12	and	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	13	I	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	14	had	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	15	a	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	16	very	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	17	solemn	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	18	conversation	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	19	in	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	20	regard	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	21	to	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	22	(	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	23	1	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	24	)	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	25	marriage	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	26	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	27	(	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	28	2	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	29	)	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	30	the	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	31	low	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	32	ideals	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	33	of	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	34	politicians	_	_	_	_	_	_	_	_	(18)
+238_dear_enemy_brat_1	0	35	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	36	(	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	37	3	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	38	)	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	39	the	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	40	frivolous	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	41	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	42	useless	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	43	lives	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	44	that	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	45	society	_	_	_	_	_	_	_	_	(19
+238_dear_enemy_brat_1	0	46	women	_	_	_	_	_	_	_	_	19)
+238_dear_enemy_brat_1	0	47	lead	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	48	.	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	Please	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	1	tell	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	2	your	_	_	_	_	_	_	_	_	(4|(2)
+238_dear_enemy_brat_1	0	3	moral	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	4	husband	_	_	_	_	_	_	_	_	4)
+238_dear_enemy_brat_1	0	5	that	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	6	I	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	7	took	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	8	his	_	_	_	_	_	_	_	_	(4)
+238_dear_enemy_brat_1	0	9	words	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	10	deeply	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	11	to	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	12	heart	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	13	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	14	and	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	15	that	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	16	ever	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	17	since	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	18	my	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	19	return	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	20	to	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	21	Worcester	_	_	_	_	_	_	_	_	(0)
+238_dear_enemy_brat_1	0	22	I	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	23	have	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	24	been	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	25	spending	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	26	one	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	27	afternoon	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	28	a	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	29	week	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	30	reading	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	31	poetry	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	32	with	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	33	the	_	_	_	_	_	_	_	_	(20
+238_dear_enemy_brat_1	0	34	inmates	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	35	of	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	36	the	_	_	_	_	_	_	_	_	(21
+238_dear_enemy_brat_1	0	37	Female	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	38	Inebriate	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	39	Asylum	_	_	_	_	_	_	_	_	21)|20)
+238_dear_enemy_brat_1	0	40	.	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	My	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	1	life	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	2	is	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	3	not	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	4	so	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	5	purposeless	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	6	as	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	7	it	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	8	appears	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	9	.	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	Also	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	1	let	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	2	me	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	3	assure	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	4	you	_	_	_	_	_	_	_	_	(8)
+238_dear_enemy_brat_1	0	5	that	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	6	the	_	_	_	_	_	_	_	_	(14
+238_dear_enemy_brat_1	0	7	politician	_	_	_	_	_	_	_	_	14)
+238_dear_enemy_brat_1	0	8	is	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	9	not	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	10	dangerously	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	11	imminent	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	12	;	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	13	and	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	14	that	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	15	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	16	anyway	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	17	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	18	he	_	_	_	_	_	_	_	_	(14)
+238_dear_enemy_brat_1	0	19	is	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	20	a	_	_	_	_	_	_	_	_	(80
+238_dear_enemy_brat_1	0	21	very	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	22	desirable	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	23	politician	_	_	_	_	_	_	_	_	80)
+238_dear_enemy_brat_1	0	24	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	25	even	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	26	though	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	27	his	_	_	_	_	_	_	_	_	(14)
+238_dear_enemy_brat_1	0	28	views	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	29	on	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	30	tariff	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	31	and	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	32	single	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	33	tax	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	34	and	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	35	trade-unionism	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	36	do	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	37	not	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	38	exactly	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	39	coincide	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	40	with	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	41	Jervis	_	_	_	_	_	_	_	_	(4)
+238_dear_enemy_brat_1	0	42	's	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	43	.	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	Your	_	_	_	_	_	_	_	_	(2)
+238_dear_enemy_brat_1	0	1	desire	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	2	to	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	3	dedicate	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	4	my	_	_	_	_	_	_	_	_	(3)
+238_dear_enemy_brat_1	0	5	life	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	6	to	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	7	the	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	8	public	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	9	good	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	10	is	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	11	very	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	12	sweet	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	13	,	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	14	but	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	15	you	_	_	_	_	_	_	_	_	(2)
+238_dear_enemy_brat_1	0	16	should	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	17	look	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	18	at	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	19	it	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	20	from	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	21	the	_	_	_	_	_	_	_	_	(5
+238_dear_enemy_brat_1	0	22	asylum	_	_	_	_	_	_	_	_	5)
+238_dear_enemy_brat_1	0	23	's	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	24	point	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	25	of	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	26	view	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	27	.	_	_	_	_	_	_	_	_	
+
+238_dear_enemy_brat_1	0	0	Have	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	1	you	_	_	_	_	_	_	_	_	(2)
+238_dear_enemy_brat_1	0	2	no	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	3	pity	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	4	for	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	5	those	_	_	_	_	_	_	_	_	(22
+238_dear_enemy_brat_1	0	6	poor	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	7	defenseless	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	8	little	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	9	orphan	_	_	_	_	_	_	_	_	
+238_dear_enemy_brat_1	0	10	children	_	_	_	_	_	_	_	_	22)
+238_dear_enemy_brat_1	0	11	?	_	_	_	_	_	_	_	_	
+
+#end document

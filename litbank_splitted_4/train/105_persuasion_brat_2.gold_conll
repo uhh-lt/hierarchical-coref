@@ -1,0 +1,476 @@
+#begin document (105_persuasion_brat_2); part 0
+105_persuasion_brat_2	0	0	Lady	_	_	_	_	_	_	_	_	(3
+105_persuasion_brat_2	0	1	Elliot	_	_	_	_	_	_	_	_	3)
+105_persuasion_brat_2	0	2	had	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	3	been	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	4	an	_	_	_	_	_	_	_	_	(64
+105_persuasion_brat_2	0	5	excellent	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	6	woman	_	_	_	_	_	_	_	_	64)
+105_persuasion_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	8	sensible	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	9	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	10	amiable	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	11	;	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	12	whose	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	13	judgement	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	14	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	15	conduct	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	16	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	17	if	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	18	they	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	19	might	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	20	be	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	21	pardoned	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	22	the	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	23	youthful	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	24	infatuation	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	25	which	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	26	made	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	27	her	_	_	_	_	_	_	_	_	(3)
+105_persuasion_brat_2	0	28	Lady	_	_	_	_	_	_	_	_	(3
+105_persuasion_brat_2	0	29	Elliot	_	_	_	_	_	_	_	_	3)
+105_persuasion_brat_2	0	30	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	31	had	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	32	never	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	33	required	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	34	indulgence	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	35	afterwards	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	36	.	_	_	_	_	_	_	_	_	
+
+105_persuasion_brat_2	0	0	--	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	1	She	_	_	_	_	_	_	_	_	(3)
+105_persuasion_brat_2	0	2	had	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	3	humoured	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	5	or	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	6	softened	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	7	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	8	or	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	9	concealed	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	10	his	_	_	_	_	_	_	_	_	(0)
+105_persuasion_brat_2	0	11	failings	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	12	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	13	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	14	promoted	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	15	his	_	_	_	_	_	_	_	_	(0)
+105_persuasion_brat_2	0	16	real	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	17	respectability	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	18	for	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	19	seventeen	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	20	years	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	21	;	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	22	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	23	though	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	24	not	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	25	the	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	26	very	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	27	happiest	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	28	being	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	29	in	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	30	the	_	_	_	_	_	_	_	_	(27
+105_persuasion_brat_2	0	31	world	_	_	_	_	_	_	_	_	27)
+105_persuasion_brat_2	0	32	herself	_	_	_	_	_	_	_	_	(3)
+105_persuasion_brat_2	0	33	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	34	had	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	35	found	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	36	enough	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	37	in	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	38	her	_	_	_	_	_	_	_	_	(3)
+105_persuasion_brat_2	0	39	duties	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	40	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	41	her	_	_	_	_	_	_	_	_	(28|(3)
+105_persuasion_brat_2	0	42	friends	_	_	_	_	_	_	_	_	28)
+105_persuasion_brat_2	0	43	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	44	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	45	her	_	_	_	_	_	_	_	_	(29|(3)
+105_persuasion_brat_2	0	46	children	_	_	_	_	_	_	_	_	29)
+105_persuasion_brat_2	0	47	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	48	to	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	49	attach	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	50	her	_	_	_	_	_	_	_	_	(3)
+105_persuasion_brat_2	0	51	to	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	52	life	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	53	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	54	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	55	make	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	56	it	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	57	no	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	58	matter	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	59	of	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	60	indifference	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	61	to	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	62	her	_	_	_	_	_	_	_	_	(3)
+105_persuasion_brat_2	0	63	when	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	64	she	_	_	_	_	_	_	_	_	(3)
+105_persuasion_brat_2	0	65	was	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	66	called	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	67	on	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	68	to	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	69	quit	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	70	them	_	_	_	_	_	_	_	_	(30)
+105_persuasion_brat_2	0	71	.	_	_	_	_	_	_	_	_	
+
+105_persuasion_brat_2	0	0	--	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	1	Three	_	_	_	_	_	_	_	_	(31
+105_persuasion_brat_2	0	2	girls	_	_	_	_	_	_	_	_	31)
+105_persuasion_brat_2	0	3	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	4	the	_	_	_	_	_	_	_	_	(32
+105_persuasion_brat_2	0	5	two	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	6	eldest	_	_	_	_	_	_	_	_	32)
+105_persuasion_brat_2	0	7	sixteen	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	8	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	9	fourteen	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	11	was	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	12	an	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	13	awful	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	14	legacy	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	15	for	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	16	a	_	_	_	_	_	_	_	_	(3
+105_persuasion_brat_2	0	17	mother	_	_	_	_	_	_	_	_	3)
+105_persuasion_brat_2	0	18	to	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	19	bequeath	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	20	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	21	an	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	22	awful	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	23	charge	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	24	rather	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	25	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	26	to	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	27	confide	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	28	to	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	29	the	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	30	authority	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	31	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	32	guidance	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	33	of	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	34	a	_	_	_	_	_	_	_	_	(0
+105_persuasion_brat_2	0	35	conceited	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	36	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	37	silly	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	38	father	_	_	_	_	_	_	_	_	0)
+105_persuasion_brat_2	0	39	.	_	_	_	_	_	_	_	_	
+
+105_persuasion_brat_2	0	0	She	_	_	_	_	_	_	_	_	(3)
+105_persuasion_brat_2	0	1	had	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	3	however	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	5	one	_	_	_	_	_	_	_	_	(33
+105_persuasion_brat_2	0	6	very	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	7	intimate	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	8	friend	_	_	_	_	_	_	_	_	33)
+105_persuasion_brat_2	0	9	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	10	a	_	_	_	_	_	_	_	_	(65
+105_persuasion_brat_2	0	11	sensible	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	12	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	13	deserving	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	14	woman	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	15	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	16	who	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	17	had	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	18	been	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	19	brought	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	20	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	21	by	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	22	strong	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	23	attachment	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	24	to	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	25	herself	_	_	_	_	_	_	_	_	(3)
+105_persuasion_brat_2	0	26	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	27	to	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	28	settle	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	29	close	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	30	by	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	31	her	_	_	_	_	_	_	_	_	(3)
+105_persuasion_brat_2	0	32	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	33	in	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	34	the	_	_	_	_	_	_	_	_	(34
+105_persuasion_brat_2	0	35	village	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	36	of	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	37	Kellynch	_	_	_	_	_	_	_	_	65)|34)
+105_persuasion_brat_2	0	38	;	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	39	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	40	on	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	41	her	_	_	_	_	_	_	_	_	(3)
+105_persuasion_brat_2	0	42	kindness	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	43	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	44	advice	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	45	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	46	Lady	_	_	_	_	_	_	_	_	(3
+105_persuasion_brat_2	0	47	Elliot	_	_	_	_	_	_	_	_	3)
+105_persuasion_brat_2	0	48	mainly	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	49	relied	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	50	for	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	51	the	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	52	best	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	53	help	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	54	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	55	maintenance	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	56	of	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	57	the	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	58	good	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	59	principles	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	60	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	61	instruction	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	62	which	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	63	she	_	_	_	_	_	_	_	_	(3)
+105_persuasion_brat_2	0	64	had	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	65	been	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	66	anxiously	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	67	giving	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	68	her	_	_	_	_	_	_	_	_	(31|(3)
+105_persuasion_brat_2	0	69	daughters	_	_	_	_	_	_	_	_	31)
+105_persuasion_brat_2	0	70	.	_	_	_	_	_	_	_	_	
+
+105_persuasion_brat_2	0	0	This	_	_	_	_	_	_	_	_	(33
+105_persuasion_brat_2	0	1	friend	_	_	_	_	_	_	_	_	33)
+105_persuasion_brat_2	0	2	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	3	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	4	Sir	_	_	_	_	_	_	_	_	(0
+105_persuasion_brat_2	0	5	Walter	_	_	_	_	_	_	_	_	0)
+105_persuasion_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	7	did	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	8	not	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	9	marry	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	11	whatever	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	12	might	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	13	have	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	14	been	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	15	anticipated	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	16	on	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	17	that	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	18	head	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	19	by	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	20	their	_	_	_	_	_	_	_	_	(35)
+105_persuasion_brat_2	0	21	acquaintance	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	22	.	_	_	_	_	_	_	_	_	
+
+105_persuasion_brat_2	0	0	Thirteen	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	1	years	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	2	had	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	3	passed	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	4	away	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	5	since	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	6	Lady	_	_	_	_	_	_	_	_	(3
+105_persuasion_brat_2	0	7	Elliot	_	_	_	_	_	_	_	_	3)
+105_persuasion_brat_2	0	8	's	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	9	death	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	10	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	11	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	12	they	_	_	_	_	_	_	_	_	(35)
+105_persuasion_brat_2	0	13	were	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	14	still	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	15	near	_	_	_	_	_	_	_	_	(66
+105_persuasion_brat_2	0	16	neighbours	_	_	_	_	_	_	_	_	66)
+105_persuasion_brat_2	0	17	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	18	intimate	_	_	_	_	_	_	_	_	(35
+105_persuasion_brat_2	0	19	friends	_	_	_	_	_	_	_	_	35)
+105_persuasion_brat_2	0	20	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	21	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	22	one	_	_	_	_	_	_	_	_	(0)
+105_persuasion_brat_2	0	23	remained	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	24	a	_	_	_	_	_	_	_	_	(0
+105_persuasion_brat_2	0	25	widower	_	_	_	_	_	_	_	_	0)
+105_persuasion_brat_2	0	26	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	27	the	_	_	_	_	_	_	_	_	(33
+105_persuasion_brat_2	0	28	other	_	_	_	_	_	_	_	_	33)
+105_persuasion_brat_2	0	29	a	_	_	_	_	_	_	_	_	(33
+105_persuasion_brat_2	0	30	widow	_	_	_	_	_	_	_	_	33)
+105_persuasion_brat_2	0	31	.	_	_	_	_	_	_	_	_	
+
+105_persuasion_brat_2	0	0	That	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	1	Lady	_	_	_	_	_	_	_	_	(33
+105_persuasion_brat_2	0	2	Russell	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	3	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	4	of	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	5	steady	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	6	age	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	7	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	8	character	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	9	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	10	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	11	extremely	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	12	well	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	13	provided	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	14	for	_	_	_	_	_	_	_	_	33)
+105_persuasion_brat_2	0	15	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	16	should	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	17	have	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	18	no	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	19	thought	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	20	of	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	21	a	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	22	second	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	23	marriage	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	24	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	25	needs	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	26	no	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	27	apology	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	28	to	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	29	the	_	_	_	_	_	_	_	_	(36
+105_persuasion_brat_2	0	30	public	_	_	_	_	_	_	_	_	36)
+105_persuasion_brat_2	0	31	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	32	which	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	33	is	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	34	rather	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	35	apt	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	36	to	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	37	be	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	38	unreasonably	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	39	discontented	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	40	when	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	41	a	_	_	_	_	_	_	_	_	(37
+105_persuasion_brat_2	0	42	woman	_	_	_	_	_	_	_	_	37)
+105_persuasion_brat_2	0	43	does	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	44	marry	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	45	again	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	46	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	47	than	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	48	when	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	49	she	_	_	_	_	_	_	_	_	(37)
+105_persuasion_brat_2	0	50	does	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	51	not	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	52	;	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	53	but	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	54	Sir	_	_	_	_	_	_	_	_	(0
+105_persuasion_brat_2	0	55	Walter	_	_	_	_	_	_	_	_	0)
+105_persuasion_brat_2	0	56	's	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	57	continuing	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	58	in	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	59	singleness	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	60	requires	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	61	explanation	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	62	.	_	_	_	_	_	_	_	_	
+
+105_persuasion_brat_2	0	0	Be	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	1	it	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	2	known	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	3	then	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	4	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	5	that	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	6	Sir	_	_	_	_	_	_	_	_	(0
+105_persuasion_brat_2	0	7	Walter	_	_	_	_	_	_	_	_	0)
+105_persuasion_brat_2	0	8	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	9	like	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	10	a	_	_	_	_	_	_	_	_	(38
+105_persuasion_brat_2	0	11	good	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	12	father	_	_	_	_	_	_	_	_	38)
+105_persuasion_brat_2	0	13	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	14	(	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	15	having	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	16	met	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	17	with	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	18	one	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	19	or	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	20	two	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	21	private	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	22	disappointments	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	23	in	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	24	very	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	25	unreasonable	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	26	applications	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	27	)	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	28	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	29	prided	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	30	himself	_	_	_	_	_	_	_	_	(0)
+105_persuasion_brat_2	0	31	on	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	32	remaining	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	33	single	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	34	for	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	35	his	_	_	_	_	_	_	_	_	(31|(0)
+105_persuasion_brat_2	0	36	dear	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	37	daughters	_	_	_	_	_	_	_	_	31)
+105_persuasion_brat_2	0	38	'	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	39	sake	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	40	.	_	_	_	_	_	_	_	_	
+
+105_persuasion_brat_2	0	0	For	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	1	one	_	_	_	_	_	_	_	_	(7
+105_persuasion_brat_2	0	2	daughter	_	_	_	_	_	_	_	_	7)
+105_persuasion_brat_2	0	3	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	4	his	_	_	_	_	_	_	_	_	(67|(0)
+105_persuasion_brat_2	0	5	eldest	_	_	_	_	_	_	_	_	67)
+105_persuasion_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	7	he	_	_	_	_	_	_	_	_	(0)
+105_persuasion_brat_2	0	8	would	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	9	really	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	10	have	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	11	given	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	12	up	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	13	any	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	14	thing	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	15	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	16	which	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	17	he	_	_	_	_	_	_	_	_	(0)
+105_persuasion_brat_2	0	18	had	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	19	not	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	20	been	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	21	very	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	22	much	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	23	tempted	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	24	to	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	25	do	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	26	.	_	_	_	_	_	_	_	_	
+
+105_persuasion_brat_2	0	0	Elizabeth	_	_	_	_	_	_	_	_	(7)
+105_persuasion_brat_2	0	1	had	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	2	succeeded	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	3	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	4	at	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	5	sixteen	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	6	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	7	to	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	8	all	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	9	that	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	10	was	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	11	possible	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	12	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	13	of	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	14	her	_	_	_	_	_	_	_	_	(3|(7)
+105_persuasion_brat_2	0	15	mother	_	_	_	_	_	_	_	_	3)
+105_persuasion_brat_2	0	16	's	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	17	rights	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	18	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	19	consequence	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	20	;	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	21	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	22	being	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	23	very	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	24	handsome	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	25	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	26	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	27	very	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	28	like	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	29	himself	_	_	_	_	_	_	_	_	(0)
+105_persuasion_brat_2	0	30	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	31	her	_	_	_	_	_	_	_	_	(7)
+105_persuasion_brat_2	0	32	influence	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	33	had	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	34	always	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	35	been	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	36	great	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	37	,	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	38	and	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	39	they	_	_	_	_	_	_	_	_	(39)
+105_persuasion_brat_2	0	40	had	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	41	gone	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	42	on	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	43	together	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	44	most	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	45	happily	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	46	.	_	_	_	_	_	_	_	_	
+
+105_persuasion_brat_2	0	0	His	_	_	_	_	_	_	_	_	(40|(0)
+105_persuasion_brat_2	0	1	two	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	2	other	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	3	children	_	_	_	_	_	_	_	_	40)
+105_persuasion_brat_2	0	4	were	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	5	of	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	6	very	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	7	inferior	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	8	value	_	_	_	_	_	_	_	_	
+105_persuasion_brat_2	0	9	.	_	_	_	_	_	_	_	_	
+
+#end document

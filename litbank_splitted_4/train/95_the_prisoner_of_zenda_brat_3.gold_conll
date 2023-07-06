@@ -1,0 +1,942 @@
+#begin document (95_the_prisoner_of_zenda_brat_3); part 0
+95_the_prisoner_of_zenda_brat_3	0	0	For	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	1	what	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	2	relationship	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	3	is	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	4	there	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	5	between	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	6	Ruritania	_	_	_	_	_	_	_	_	(12)
+95_the_prisoner_of_zenda_brat_3	0	7	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	Burlesdon	_	_	_	_	_	_	_	_	(13)
+95_the_prisoner_of_zenda_brat_3	0	9	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	10	between	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	11	the	_	_	_	_	_	_	_	_	(14
+95_the_prisoner_of_zenda_brat_3	0	12	Palace	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	13	at	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	14	Strelsau	_	_	_	_	_	_	_	_	14)|(15)
+95_the_prisoner_of_zenda_brat_3	0	15	or	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	16	the	_	_	_	_	_	_	_	_	(16
+95_the_prisoner_of_zenda_brat_3	0	17	Castle	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	18	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	19	Zenda	_	_	_	_	_	_	_	_	16)|(17)
+95_the_prisoner_of_zenda_brat_3	0	20	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	21	Number	_	_	_	_	_	_	_	_	(18
+95_the_prisoner_of_zenda_brat_3	0	22	305	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	23	Park	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	24	Lane	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	25	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	26	W.	_	_	_	_	_	_	_	_	18)
+95_the_prisoner_of_zenda_brat_3	0	27	?	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	Well	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	1	then	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	2	--	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	3	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	4	I	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	5	must	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	6	premise	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	7	that	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	I	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	9	am	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	10	going	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	11	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	12	perforce	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	13	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	14	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	15	rake	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	16	up	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	17	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	18	very	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	19	scandal	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	20	which	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	21	my	_	_	_	_	_	_	_	_	(2|(4)
+95_the_prisoner_of_zenda_brat_3	0	22	dear	_	_	_	_	_	_	_	_	2)
+95_the_prisoner_of_zenda_brat_3	0	23	Lady	_	_	_	_	_	_	_	_	(2
+95_the_prisoner_of_zenda_brat_3	0	24	Burlesdon	_	_	_	_	_	_	_	_	2)
+95_the_prisoner_of_zenda_brat_3	0	25	wishes	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	26	forgotten	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	27	--	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	28	in	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	29	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	30	year	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	31	1733	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	32	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	33	George	_	_	_	_	_	_	_	_	(19
+95_the_prisoner_of_zenda_brat_3	0	34	II	_	_	_	_	_	_	_	_	19)
+95_the_prisoner_of_zenda_brat_3	0	35	.	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	sitting	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	1	then	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	2	on	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	3	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	4	throne	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	5	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	6	peace	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	7	reigning	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	for	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	9	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	10	moment	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	11	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	12	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	13	the	_	_	_	_	_	_	_	_	(19
+95_the_prisoner_of_zenda_brat_3	0	14	King	_	_	_	_	_	_	_	_	19)
+95_the_prisoner_of_zenda_brat_3	0	15	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	16	the	_	_	_	_	_	_	_	_	(20
+95_the_prisoner_of_zenda_brat_3	0	17	Prince	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	18	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	19	Wales	_	_	_	_	_	_	_	_	20)
+95_the_prisoner_of_zenda_brat_3	0	20	being	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	21	not	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	22	yet	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	23	at	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	24	loggerheads	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	25	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	26	there	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	27	came	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	28	on	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	29	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	30	visit	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	31	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	32	the	_	_	_	_	_	_	_	_	(21
+95_the_prisoner_of_zenda_brat_3	0	33	English	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	34	Court	_	_	_	_	_	_	_	_	21)
+95_the_prisoner_of_zenda_brat_3	0	35	a	_	_	_	_	_	_	_	_	(22
+95_the_prisoner_of_zenda_brat_3	0	36	certain	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	37	prince	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	38	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	39	who	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	40	was	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	41	afterwards	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	42	known	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	43	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	44	history	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	45	as	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	46	Rudolf	_	_	_	_	_	_	_	_	(22
+95_the_prisoner_of_zenda_brat_3	0	47	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	48	Third	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	49	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	50	Ruritania	_	_	_	_	_	_	_	_	22)|22)|(12)
+95_the_prisoner_of_zenda_brat_3	0	51	.	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	The	_	_	_	_	_	_	_	_	(22
+95_the_prisoner_of_zenda_brat_3	0	1	prince	_	_	_	_	_	_	_	_	22)
+95_the_prisoner_of_zenda_brat_3	0	2	was	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	3	a	_	_	_	_	_	_	_	_	(67
+95_the_prisoner_of_zenda_brat_3	0	4	tall	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	5	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	6	handsome	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	7	young	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	fellow	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	9	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	10	marked	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	11	(	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	12	maybe	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	13	marred	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	14	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	15	it	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	16	is	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	17	not	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	18	for	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	19	me	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	20	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	21	say	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	22	)	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	23	by	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	24	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	25	somewhat	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	26	unusually	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	27	long	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	28	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	29	sharp	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	30	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	31	straight	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	32	nose	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	33	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	34	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	35	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	36	mass	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	37	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	38	dark-red	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	39	hair	_	_	_	_	_	_	_	_	67)
+95_the_prisoner_of_zenda_brat_3	0	40	--	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	41	in	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	42	fact	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	43	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	44	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	45	nose	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	46	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	47	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	48	hair	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	49	which	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	50	have	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	51	stamped	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	52	the	_	_	_	_	_	_	_	_	(1
+95_the_prisoner_of_zenda_brat_3	0	53	Elphbergs	_	_	_	_	_	_	_	_	1)
+95_the_prisoner_of_zenda_brat_3	0	54	time	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	55	out	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	56	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	57	mind	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	58	.	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	He	_	_	_	_	_	_	_	_	(22)
+95_the_prisoner_of_zenda_brat_3	0	1	stayed	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	2	some	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	3	months	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	4	in	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	5	England	_	_	_	_	_	_	_	_	(23
+95_the_prisoner_of_zenda_brat_3	0	6	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	7	where	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	he	_	_	_	_	_	_	_	_	(22)
+95_the_prisoner_of_zenda_brat_3	0	9	was	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	10	most	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	11	courteously	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	12	received	_	_	_	_	_	_	_	_	23)
+95_the_prisoner_of_zenda_brat_3	0	13	;	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	14	yet	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	15	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	16	in	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	17	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	18	end	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	19	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	20	he	_	_	_	_	_	_	_	_	(22)
+95_the_prisoner_of_zenda_brat_3	0	21	left	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	22	rather	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	23	under	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	24	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	25	cloud	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	26	.	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	For	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	1	he	_	_	_	_	_	_	_	_	(22)
+95_the_prisoner_of_zenda_brat_3	0	2	fought	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	3	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	4	duel	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	5	(	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	6	it	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	7	was	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	considered	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	9	highly	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	10	well	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	11	bred	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	12	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	13	him	_	_	_	_	_	_	_	_	(22)
+95_the_prisoner_of_zenda_brat_3	0	14	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	15	waive	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	16	all	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	17	question	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	18	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	19	his	_	_	_	_	_	_	_	_	(22)
+95_the_prisoner_of_zenda_brat_3	0	20	rank	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	21	)	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	22	with	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	23	a	_	_	_	_	_	_	_	_	(24
+95_the_prisoner_of_zenda_brat_3	0	24	nobleman	_	_	_	_	_	_	_	_	24)
+95_the_prisoner_of_zenda_brat_3	0	25	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	26	well	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	27	known	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	28	in	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	29	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	30	society	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	31	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	32	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	33	day	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	34	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	35	not	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	36	only	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	37	for	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	38	his	_	_	_	_	_	_	_	_	(24)
+95_the_prisoner_of_zenda_brat_3	0	39	own	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	40	merits	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	41	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	42	but	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	43	as	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	44	the	_	_	_	_	_	_	_	_	(24
+95_the_prisoner_of_zenda_brat_3	0	45	husband	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	46	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	47	a	_	_	_	_	_	_	_	_	(11
+95_the_prisoner_of_zenda_brat_3	0	48	very	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	49	beautiful	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	50	wife	_	_	_	_	_	_	_	_	24)|11)
+95_the_prisoner_of_zenda_brat_3	0	51	.	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	In	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	1	that	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	2	duel	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	3	Prince	_	_	_	_	_	_	_	_	(22
+95_the_prisoner_of_zenda_brat_3	0	4	Rudolf	_	_	_	_	_	_	_	_	22)
+95_the_prisoner_of_zenda_brat_3	0	5	received	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	6	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	7	severe	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	wound	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	9	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	10	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	11	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	12	recovering	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	13	therefrom	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	14	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	15	was	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	16	adroitly	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	17	smuggled	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	18	off	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	19	by	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	20	the	_	_	_	_	_	_	_	_	(25
+95_the_prisoner_of_zenda_brat_3	0	21	Ruritanian	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	22	ambassador	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	23	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	24	who	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	25	had	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	26	found	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	27	him	_	_	_	_	_	_	_	_	(22)
+95_the_prisoner_of_zenda_brat_3	0	28	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	29	pretty	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	30	handful	_	_	_	_	_	_	_	_	25)
+95_the_prisoner_of_zenda_brat_3	0	31	.	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	The	_	_	_	_	_	_	_	_	(24
+95_the_prisoner_of_zenda_brat_3	0	1	nobleman	_	_	_	_	_	_	_	_	24)
+95_the_prisoner_of_zenda_brat_3	0	2	was	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	3	not	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	4	wounded	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	5	in	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	6	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	7	duel	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	;	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	9	but	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	10	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	11	morning	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	12	being	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	13	raw	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	14	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	15	damp	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	16	on	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	17	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	18	occasion	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	19	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	20	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	21	meeting	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	22	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	23	he	_	_	_	_	_	_	_	_	(24)
+95_the_prisoner_of_zenda_brat_3	0	24	contracted	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	25	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	26	severe	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	27	chill	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	28	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	29	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	30	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	31	failing	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	32	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	33	throw	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	34	it	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	35	off	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	36	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	37	he	_	_	_	_	_	_	_	_	(24)
+95_the_prisoner_of_zenda_brat_3	0	38	died	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	39	some	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	40	six	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	41	months	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	42	after	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	43	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	44	departure	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	45	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	46	Prince	_	_	_	_	_	_	_	_	(22
+95_the_prisoner_of_zenda_brat_3	0	47	Rudolf	_	_	_	_	_	_	_	_	22)
+95_the_prisoner_of_zenda_brat_3	0	48	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	49	without	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	50	having	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	51	found	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	52	leisure	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	53	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	54	adjust	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	55	his	_	_	_	_	_	_	_	_	(24)
+95_the_prisoner_of_zenda_brat_3	0	56	relations	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	57	with	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	58	his	_	_	_	_	_	_	_	_	(11|(24)
+95_the_prisoner_of_zenda_brat_3	0	59	wife	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	60	--	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	61	who	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	62	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	63	after	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	64	another	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	65	two	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	66	months	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	67	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	68	bore	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	69	an	_	_	_	_	_	_	_	_	(26
+95_the_prisoner_of_zenda_brat_3	0	70	heir	_	_	_	_	_	_	_	_	26)
+95_the_prisoner_of_zenda_brat_3	0	71	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	72	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	73	title	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	74	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	75	estates	_	_	_	_	_	_	_	_	(27
+95_the_prisoner_of_zenda_brat_3	0	76	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	77	the	_	_	_	_	_	_	_	_	(28
+95_the_prisoner_of_zenda_brat_3	0	78	family	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	79	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	80	Burlesdon	_	_	_	_	_	_	_	_	11)|27)|28)|(13)
+95_the_prisoner_of_zenda_brat_3	0	81	.	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	This	_	_	_	_	_	_	_	_	(11
+95_the_prisoner_of_zenda_brat_3	0	1	lady	_	_	_	_	_	_	_	_	11)
+95_the_prisoner_of_zenda_brat_3	0	2	was	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	3	the	_	_	_	_	_	_	_	_	(62
+95_the_prisoner_of_zenda_brat_3	0	4	Countess	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	5	Amelia	_	_	_	_	_	_	_	_	62)
+95_the_prisoner_of_zenda_brat_3	0	6	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	7	whose	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	picture	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	9	my	_	_	_	_	_	_	_	_	(2|(4)
+95_the_prisoner_of_zenda_brat_3	0	10	sister-in-law	_	_	_	_	_	_	_	_	2)
+95_the_prisoner_of_zenda_brat_3	0	11	wished	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	12	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	13	remove	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	14	from	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	15	the	_	_	_	_	_	_	_	_	(29
+95_the_prisoner_of_zenda_brat_3	0	16	drawing-room	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	17	in	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	18	Park	_	_	_	_	_	_	_	_	(30
+95_the_prisoner_of_zenda_brat_3	0	19	Lane	_	_	_	_	_	_	_	_	30)|29)
+95_the_prisoner_of_zenda_brat_3	0	20	;	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	21	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	22	her	_	_	_	_	_	_	_	_	(24|(11)
+95_the_prisoner_of_zenda_brat_3	0	23	husband	_	_	_	_	_	_	_	_	24)
+95_the_prisoner_of_zenda_brat_3	0	24	was	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	25	James	_	_	_	_	_	_	_	_	(24)
+95_the_prisoner_of_zenda_brat_3	0	26	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	27	fifth	_	_	_	_	_	_	_	_	(60
+95_the_prisoner_of_zenda_brat_3	0	28	Earl	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	29	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	30	Burlesdon	_	_	_	_	_	_	_	_	60)|(13)
+95_the_prisoner_of_zenda_brat_3	0	31	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	32	twenty-second	_	_	_	_	_	_	_	_	(61
+95_the_prisoner_of_zenda_brat_3	0	33	Baron	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	34	Rassendyll	_	_	_	_	_	_	_	_	61)
+95_the_prisoner_of_zenda_brat_3	0	35	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	36	both	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	37	in	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	38	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	39	peerage	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	40	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	41	England	_	_	_	_	_	_	_	_	(23)
+95_the_prisoner_of_zenda_brat_3	0	42	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	43	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	44	a	_	_	_	_	_	_	_	_	(59
+95_the_prisoner_of_zenda_brat_3	0	45	Knight	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	46	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	47	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	48	Garter	_	_	_	_	_	_	_	_	59)
+95_the_prisoner_of_zenda_brat_3	0	49	.	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	As	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	1	for	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	2	Rudolf	_	_	_	_	_	_	_	_	(22)
+95_the_prisoner_of_zenda_brat_3	0	3	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	4	he	_	_	_	_	_	_	_	_	(22)
+95_the_prisoner_of_zenda_brat_3	0	5	went	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	6	back	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	7	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	Ruritania	_	_	_	_	_	_	_	_	(12)
+95_the_prisoner_of_zenda_brat_3	0	9	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	10	married	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	11	a	_	_	_	_	_	_	_	_	(31
+95_the_prisoner_of_zenda_brat_3	0	12	wife	_	_	_	_	_	_	_	_	31)
+95_the_prisoner_of_zenda_brat_3	0	13	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	14	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	15	ascended	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	16	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	17	throne	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	18	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	19	whereon	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	20	his	_	_	_	_	_	_	_	_	(32|(22)
+95_the_prisoner_of_zenda_brat_3	0	21	progeny	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	22	in	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	23	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	24	direct	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	25	line	_	_	_	_	_	_	_	_	32)
+95_the_prisoner_of_zenda_brat_3	0	26	have	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	27	sat	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	28	from	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	29	then	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	30	till	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	31	this	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	32	very	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	33	hour	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	34	--	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	35	with	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	36	one	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	37	short	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	38	interval	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	39	.	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	And	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	1	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	2	finally	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	3	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	4	if	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	5	you	_	_	_	_	_	_	_	_	(33)
+95_the_prisoner_of_zenda_brat_3	0	6	walk	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	7	through	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	9	picture	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	10	galleries	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	11	at	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	12	Burlesdon	_	_	_	_	_	_	_	_	(13)
+95_the_prisoner_of_zenda_brat_3	0	13	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	14	among	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	15	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	16	fifty	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	17	portraits	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	18	or	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	19	so	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	20	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	21	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	22	last	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	23	century	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	24	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	25	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	26	half	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	27	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	28	you	_	_	_	_	_	_	_	_	(34)
+95_the_prisoner_of_zenda_brat_3	0	29	will	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	30	find	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	31	five	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	32	or	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	33	six	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	34	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	35	including	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	36	that	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	37	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	38	the	_	_	_	_	_	_	_	_	(35
+95_the_prisoner_of_zenda_brat_3	0	39	sixth	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	40	earl	_	_	_	_	_	_	_	_	35)
+95_the_prisoner_of_zenda_brat_3	0	41	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	42	distinguished	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	43	by	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	44	long	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	45	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	46	sharp	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	47	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	48	straight	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	49	noses	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	50	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	51	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	52	quantity	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	53	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	54	dark-red	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	55	hair	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	56	;	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	57	these	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	58	five	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	59	or	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	60	six	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	61	have	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	62	also	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	63	blue	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	64	eyes	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	65	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	66	whereas	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	67	among	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	68	the	_	_	_	_	_	_	_	_	(0
+95_the_prisoner_of_zenda_brat_3	0	69	Rassendylls	_	_	_	_	_	_	_	_	0)
+95_the_prisoner_of_zenda_brat_3	0	70	dark	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	71	eyes	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	72	are	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	73	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	74	commoner	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	75	.	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	That	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	1	is	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	2	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	3	explanation	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	4	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	5	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	6	I	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	7	am	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	glad	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	9	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	10	have	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	11	finished	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	12	it	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	13	:	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	14	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	15	blemishes	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	16	on	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	17	honourable	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	18	lineage	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	19	are	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	20	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	21	delicate	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	22	subject	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	23	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	24	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	25	certainly	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	26	this	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	27	heredity	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	28	we	_	_	_	_	_	_	_	_	(36)
+95_the_prisoner_of_zenda_brat_3	0	29	hear	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	30	so	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	31	much	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	32	about	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	33	is	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	34	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	35	finest	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	36	scandalmonger	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	37	in	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	38	the	_	_	_	_	_	_	_	_	(3
+95_the_prisoner_of_zenda_brat_3	0	39	world	_	_	_	_	_	_	_	_	3)
+95_the_prisoner_of_zenda_brat_3	0	40	;	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	41	it	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	42	laughs	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	43	at	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	44	discretion	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	45	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	46	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	47	writes	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	48	strange	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	49	entries	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	50	between	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	51	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	52	lines	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	53	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	54	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	55	“	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	56	Peerages	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	57	”	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	58	.	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	It	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	1	will	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	2	be	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	3	observed	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	4	that	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	5	my	_	_	_	_	_	_	_	_	(2|(4)
+95_the_prisoner_of_zenda_brat_3	0	6	sister-in-law	_	_	_	_	_	_	_	_	2)
+95_the_prisoner_of_zenda_brat_3	0	7	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	with	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	9	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	10	want	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	11	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	12	logic	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	13	that	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	14	must	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	15	have	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	16	been	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	17	peculiar	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	18	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	19	herself	_	_	_	_	_	_	_	_	(2)
+95_the_prisoner_of_zenda_brat_3	0	20	(	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	21	since	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	22	we	_	_	_	_	_	_	_	_	(37)
+95_the_prisoner_of_zenda_brat_3	0	23	are	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	24	no	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	25	longer	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	26	allowed	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	27	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	28	lay	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	29	it	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	30	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	31	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	32	charge	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	33	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	34	her	_	_	_	_	_	_	_	_	(2)
+95_the_prisoner_of_zenda_brat_3	0	35	sex	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	36	)	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	37	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	38	treated	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	39	my	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	40	complexion	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	41	almost	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	42	as	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	43	an	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	44	offence	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	45	for	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	46	which	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	47	I	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	48	was	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	49	responsible	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	50	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	51	hastening	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	52	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	53	assume	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	54	from	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	55	that	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	56	external	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	57	sign	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	58	inward	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	59	qualities	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	60	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	61	which	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	62	I	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	63	protest	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	64	my	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	65	entire	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	66	innocence	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	67	;	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	68	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	69	this	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	70	unjust	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	71	inference	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	72	she	_	_	_	_	_	_	_	_	(2)
+95_the_prisoner_of_zenda_brat_3	0	73	sought	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	74	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	75	buttress	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	76	by	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	77	pointing	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	78	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	79	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	80	uselessness	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	81	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	82	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	83	life	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	84	I	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	85	had	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	86	led	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	87	.	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	Well	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	1	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	2	be	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	3	that	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	4	as	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	5	it	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	6	may	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	7	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	I	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	9	had	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	10	picked	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	11	up	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	12	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	13	good	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	14	deal	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	15	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	16	pleasure	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	17	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	18	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	19	good	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	20	deal	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	21	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	22	knowledge	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	23	.	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	I	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	1	had	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	2	been	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	3	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	4	a	_	_	_	_	_	_	_	_	(38
+95_the_prisoner_of_zenda_brat_3	0	5	German	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	6	school	_	_	_	_	_	_	_	_	38)
+95_the_prisoner_of_zenda_brat_3	0	7	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	a	_	_	_	_	_	_	_	_	(39
+95_the_prisoner_of_zenda_brat_3	0	9	German	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	10	university	_	_	_	_	_	_	_	_	39)
+95_the_prisoner_of_zenda_brat_3	0	11	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	12	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	13	spoke	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	14	German	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	15	as	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	16	readily	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	17	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	18	perfectly	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	19	as	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	20	English	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	21	;	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	22	I	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	23	was	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	24	thoroughly	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	25	at	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	26	home	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	27	in	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	28	French	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	29	;	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	30	I	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	31	had	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	32	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	33	smattering	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	34	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	35	Italian	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	36	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	37	enough	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	38	Spanish	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	39	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	40	swear	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	41	by	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	42	.	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	I	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	1	was	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	2	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	3	I	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	4	believe	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	5	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	6	a	_	_	_	_	_	_	_	_	(68
+95_the_prisoner_of_zenda_brat_3	0	7	strong	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	9	though	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	10	hardly	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	11	fine	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	12	swordsman	_	_	_	_	_	_	_	_	68)
+95_the_prisoner_of_zenda_brat_3	0	13	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	14	a	_	_	_	_	_	_	_	_	(69
+95_the_prisoner_of_zenda_brat_3	0	15	good	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	16	shot	_	_	_	_	_	_	_	_	69)
+95_the_prisoner_of_zenda_brat_3	0	17	.	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	I	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	1	could	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	2	ride	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	3	anything	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	4	that	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	5	had	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	6	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	7	back	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	9	sit	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	10	on	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	11	;	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	12	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	13	my	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	14	head	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	15	was	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	16	as	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	17	cool	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	18	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	19	one	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	20	as	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	21	you	_	_	_	_	_	_	_	_	(40)
+95_the_prisoner_of_zenda_brat_3	0	22	could	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	23	find	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	24	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	25	for	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	26	all	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	27	its	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	28	flaming	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	29	cover	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	30	.	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	If	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	1	you	_	_	_	_	_	_	_	_	(41)
+95_the_prisoner_of_zenda_brat_3	0	2	say	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	3	that	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	4	I	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	5	ought	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	6	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	7	have	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	spent	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	9	my	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	10	time	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	11	in	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	12	useful	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	13	labour	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	14	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	15	I	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	16	am	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	17	out	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	18	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	19	Court	_	_	_	_	_	_	_	_	(42)
+95_the_prisoner_of_zenda_brat_3	0	20	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	21	have	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	22	nothing	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	23	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	24	say	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	25	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	26	save	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	27	that	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	28	my	_	_	_	_	_	_	_	_	(43|(4)
+95_the_prisoner_of_zenda_brat_3	0	29	parents	_	_	_	_	_	_	_	_	43)
+95_the_prisoner_of_zenda_brat_3	0	30	had	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	31	no	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	32	business	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	33	to	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	34	leave	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	35	me	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	36	two	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	37	thousand	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	38	pounds	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	39	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	40	year	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	41	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	42	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	43	roving	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	44	disposition	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	45	.	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	“	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	1	The	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	2	difference	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	3	between	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	4	you	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	5	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	6	Robert	_	_	_	_	_	_	_	_	(5)
+95_the_prisoner_of_zenda_brat_3	0	7	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	”	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	9	said	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	10	my	_	_	_	_	_	_	_	_	(4)|(2
+95_the_prisoner_of_zenda_brat_3	0	11	sister-in-law	_	_	_	_	_	_	_	_	2)
+95_the_prisoner_of_zenda_brat_3	0	12	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	13	who	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	14	often	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	15	(	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	16	bless	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	17	her	_	_	_	_	_	_	_	_	(2)
+95_the_prisoner_of_zenda_brat_3	0	18	!	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	19	)	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	speaks	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	1	on	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	2	a	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	3	platform	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	4	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	5	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	6	oftener	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	7	still	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	8	as	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	9	if	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	10	she	_	_	_	_	_	_	_	_	(2)
+95_the_prisoner_of_zenda_brat_3	0	11	were	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	12	on	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	13	one	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	14	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	15	“	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	16	is	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	17	that	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	18	he	_	_	_	_	_	_	_	_	(5)
+95_the_prisoner_of_zenda_brat_3	0	19	recognizes	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	20	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	21	duties	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	22	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	23	his	_	_	_	_	_	_	_	_	(5)
+95_the_prisoner_of_zenda_brat_3	0	24	position	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	25	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	26	and	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	27	you	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	28	see	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	29	the	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	30	opportunities	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	31	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	32	yours	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	33	.	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	34	”	_	_	_	_	_	_	_	_	
+
+95_the_prisoner_of_zenda_brat_3	0	0	“	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	1	To	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	2	a	_	_	_	_	_	_	_	_	(44
+95_the_prisoner_of_zenda_brat_3	0	3	man	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	4	of	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	5	spirit	_	_	_	_	_	_	_	_	44)
+95_the_prisoner_of_zenda_brat_3	0	6	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	7	my	_	_	_	_	_	_	_	_	(2|(4)
+95_the_prisoner_of_zenda_brat_3	0	8	dear	_	_	_	_	_	_	_	_	2)
+95_the_prisoner_of_zenda_brat_3	0	9	Rose	_	_	_	_	_	_	_	_	(2)
+95_the_prisoner_of_zenda_brat_3	0	10	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	11	”	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	12	I	_	_	_	_	_	_	_	_	(4)
+95_the_prisoner_of_zenda_brat_3	0	13	answered	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	14	,	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	15	“	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	16	opportunities	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	17	are	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	18	duties	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	19	.	_	_	_	_	_	_	_	_	
+95_the_prisoner_of_zenda_brat_3	0	20	”	_	_	_	_	_	_	_	_	
+
+#end document
