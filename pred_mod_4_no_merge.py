@@ -1,4 +1,4 @@
-# predict.py for a 4-way split of the doc along with merging
+# predict.py for a 4-way split of the doc with no merging
 
 import argparse
 
@@ -9,14 +9,6 @@ from tqdm import tqdm
 from coref.coref_model2 import CorefModel
 from coref.tokenizer_customization import *
 from coref import bert, conll, utils
-
-
-# usage : python pred_mod_4.py roberta data_4_splits_jsonlines/english_train_head.jsonlines output.jsonlines
-# output.jsonlines [output path] redundant right now
-# pred.conll and gold.conll files written in the data/conll_logs dir, model wts loaded from data/
-# the unsplitted doc .jsonlines should be in the data/ dir
-
-
 
 
 def build_cluster_emb(doc1, doc2, clusters, offset):
@@ -120,21 +112,21 @@ if __name__ == "__main__":
     # First run
     with torch.no_grad():
         for doc in tqdm(docs, unit="docs"):
-            result, word_emb = model.run(doc)
-            print(doc['document_id'])
-            doc["words_emb"] = word_emb
-            # assert len(doc['cased_words']) == len(word_emb)
             
+            result, word_emb = model.run(doc)  # first run to get the predicted clusters in a single split
+            
+            print(doc['document_id'])
+            
+            doc["words_emb"] = word_emb
             doc["span_clusters_res"] = result.span_clusters # predicted span clusters
             doc["word_clusters"] = result.word_clusters
             clusters = doc["span_clusters_res"]
             
 
             for cluster in clusters:
-                # you have to set a offset 
                 cluster_i = []
+                
                 for span in cluster:
-                    
                     span_embedding = None
                     start, end = span
                     for i in range(start, end):
@@ -148,6 +140,19 @@ if __name__ == "__main__":
                 cluster_i = torch.stack(cluster_i)
                 cluster_i = torch.mean(cluster_i, dim=0)
                 doc['cluster_emb'].append(cluster_i)
+            
+
+            # second_l = []
+            # for cluster in clusters:
+            #     cluster_i = []
+            #     for start, end in cluster:
+            #         span_embedding = torch.mean(word_emb[start:end], dim=0)
+            #         cluster_i.append(span_embedding)
+            
+            #     cluster_i = torch.stack(cluster_i)
+            #     cluster_emb = torch.mean(cluster_i, dim=0)
+            #     second_l.append(cluster_emb)
+            
 
             
             for key in ("word2subword", "subwords", "word_id", "head2span"):
@@ -180,84 +185,15 @@ if __name__ == "__main__":
             clusters3 = [[(start + offset3, end + offset3) for start, end in tuple_list] for tuple_list in clusters3]
             clusters4 = [[(start + offset4, end + offset4) for start, end in tuple_list] for tuple_list in clusters4]
 
-            # ---------------------------------BLOCK1-------------------------------------
-            cluster_emb_merged1 = torch.stack(cluster_emb1 + cluster_emb2)
-            cluster_emb_merged1 = cluster_emb_merged1.to('cuda')
-            for i, cluster in enumerate(clusters1 + clusters2):
-                span_clusters_mapping1[i] = cluster #List[Tuple[int, int]]
             
-            res1 = model.run2(cluster_emb_merged1)
-            
-            combined_span_clusters1 = [] # list of clusters in the combined doc 1 and 2
-            
-            
-            for second_lvl_clusters in res1.word_clusters:
-                combined_span_clusters_i = []
-                for x in second_lvl_clusters:
-                    combined_span_clusters_i += span_clusters_mapping1[x]
-                combined_span_clusters1.append(sorted(combined_span_clusters_i))
-           
-           
-           # ---------------------------------BLOCK2-------------------------------------
-
-            cluster_emb_merged2 = torch.stack(cluster_emb3 + cluster_emb4)
-            cluster_emb_merged2 = cluster_emb_merged2.to('cuda')
-            for i, cluster in enumerate(clusters3 + clusters4):
-                span_clusters_mapping2[i] = cluster #List[Tuple[int, int]]
-            
-            res2 = model.run2(cluster_emb_merged2)
-            
-            combined_span_clusters2 = [] # list of clusters in the combined doc 3 and 4, with the word indices acc to the full doc
-            
-            
-            for second_lvl_clusters in res2.word_clusters:
-                combined_span_clusters_i = []
-                for x in second_lvl_clusters:
-                    combined_span_clusters_i += span_clusters_mapping2[x]
-                combined_span_clusters2.append(sorted(combined_span_clusters_i))
-
-
-            # -------------   RUN 2    -----------------------------------------------------------
-
-
-            # create cluster embeddings 
-            # to create this --- you need 2 docs now because the spans might be in 2 diff docs 
-            # or another way could be to average out the cluster embs that were merged to create the emb of the new cluster 
-
-            combined_clusters_emb1 = build_cluster_emb(doc1, doc2, combined_span_clusters1, 0)
-            combined_clusters_emb2 = build_cluster_emb(doc3, doc4, combined_span_clusters2, offset3)
-
-            span_clusters_mapping = {}
-            cluster_emb_merged = torch.stack(combined_clusters_emb1 + combined_clusters_emb2)
-            cluster_emb_merged = cluster_emb_merged.to('cuda')
-            for i, cluster in enumerate(combined_span_clusters1 + combined_span_clusters2):
-                
-                span_clusters_mapping[i] = cluster #List[Tuple[int, int]]
-            
-            res = model.run2(cluster_emb_merged)
-            # print(res.word_clusters)
-            combined_span_clusters = []
-            
-            #mapping the indexes to the actual clusters of spans
-            for second_lvl_clusters in res.word_clusters:
-                combined_span_clusters_i = []
-                for x in second_lvl_clusters:
-                    combined_span_clusters_i += span_clusters_mapping[x]
-                combined_span_clusters.append(sorted(combined_span_clusters_i))
-            # print("final res", combined_span_clusters)
+            combined_span_clusters = sorted(clusters1 + clusters2 + clusters3 + clusters4) 
 
             doc_id = doc1["document_id"][:-2]
             docs_new[doc_id] = combined_span_clusters
 
-            
-    # # with jsonlines.open(args.output_file, mode="w") as output_data:
-    # #     output_data.write_all(docs_new)
-
-    
     
     data_split = 'test'
-    docs = model._get_docs(model.config.__dict__[f"{data_split}_data"])   # from the head.jsonlines, because they contain 'span_clusters' not the other .jsonlines which contains the 'clusters'
-    # span clusters are formed after you run the convert_to_heads.py -- which are : clusters - some deleted clusters
+    docs = model._get_docs(model.config.__dict__[f"{data_split}_data"]) 
     
     with conll.open_(model.config, model.epochs_trained, data_split) \
             as (gold_f, pred_f):
@@ -268,7 +204,4 @@ if __name__ == "__main__":
             pred_span_clusters = docs_new[doc_id]
 
             conll.write_conll(doc, doc["span_clusters"], gold_f)
-            # remove singletons using ./coref-toolkit mod --strip-singletons data/conll_logs/roberta_test_e30.gold.conll > data/conll_logs/roberta_test_e30_x.gold.conll
-            # then rename it back
-            conll.write_conll(doc, pred_span_clusters, pred_f) # will be written in data/conll_logs/ dir
-            # to eval : python calculate_conll.py roberta test 30[no of epochs]
+            conll.write_conll(doc, pred_span_clusters, pred_f)
