@@ -437,14 +437,14 @@ if __name__ == "__main__":
                            ", the temporary directory will not be deleted.")
     args = argparser.parse_args()
 
-    # if os.path.exists(args.tmp_dir):
-    #     response = input(f"{args.tmp_dir} already exists!"
-    #                      f" Enter 'yes' to delete it or anything to exit: ")
-    #     if response != "yes":
-    #         sys.exit()
-    #     shutil.rmtree(args.tmp_dir)
+    if os.path.exists(args.tmp_dir):
+        response = input(f"{args.tmp_dir} already exists!"
+                         f" Enter 'yes' to delete it or anything to exit: ")
+        if response != "yes":
+            sys.exit()
+        shutil.rmtree(args.tmp_dir)
 
-    # os.makedirs(args.tmp_dir)
+    os.makedirs(args.tmp_dir)
     
     data_dir = os.path.join(args.conll_dir, "")
     conll_filenames = get_conll_filenames(data_dir)
