@@ -162,7 +162,6 @@ if __name__ == "__main__":
             
             doc_id = doc['document_id']
             pred_span_clusters = docs_new[doc_id]
-
             conll.write_conll(doc, doc["span_clusters"], gold_f)
             # remove singletons using ./coref-toolkit mod --strip-singletons data/conll_logs/roberta_test_e30.gold.conll > data/conll_logs/roberta_test_e30_x.gold.conll
             # then rename it back

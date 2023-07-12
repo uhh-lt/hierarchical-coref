@@ -1,0 +1,493 @@
+#begin document (1400_great_expectations_brat_1); part 0
+1400_great_expectations_brat_1	0	0	Chapter	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	1	I	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	2	My	_	_	_	_	_	_	_	_	(0|(1)
+1400_great_expectations_brat_1	0	3	father	_	_	_	_	_	_	_	_	0)
+1400_great_expectations_brat_1	0	4	's	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	5	family	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	6	name	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	7	being	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	8	Pirrip	_	_	_	_	_	_	_	_	(2)
+1400_great_expectations_brat_1	0	9	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	10	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	11	my	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	12	Christian	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	13	name	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	14	Philip	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	15	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	16	my	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	17	infant	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	18	tongue	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	19	could	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	20	make	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	21	of	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	22	both	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	23	names	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	24	nothing	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	25	longer	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	26	or	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	27	more	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	28	explicit	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	29	than	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	30	Pip	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	31	.	_	_	_	_	_	_	_	_	
+
+1400_great_expectations_brat_1	0	0	So	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	1	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	2	I	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	3	called	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	4	myself	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	5	Pip	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	6	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	7	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	8	came	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	9	to	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	10	be	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	11	called	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	12	Pip	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	13	.	_	_	_	_	_	_	_	_	
+
+1400_great_expectations_brat_1	0	0	I	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	1	give	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	2	Pirrip	_	_	_	_	_	_	_	_	(2)
+1400_great_expectations_brat_1	0	3	as	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	4	my	_	_	_	_	_	_	_	_	(0|(1)
+1400_great_expectations_brat_1	0	5	father	_	_	_	_	_	_	_	_	0)
+1400_great_expectations_brat_1	0	6	's	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	7	family	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	8	name	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	9	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	10	on	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	11	the	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	12	authority	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	13	of	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	14	his	_	_	_	_	_	_	_	_	(0)
+1400_great_expectations_brat_1	0	15	tombstone	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	16	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	17	my	_	_	_	_	_	_	_	_	(3|(1)
+1400_great_expectations_brat_1	0	18	sister	_	_	_	_	_	_	_	_	3)
+1400_great_expectations_brat_1	0	19	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	20	--	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	21	Mrs.	_	_	_	_	_	_	_	_	(38
+1400_great_expectations_brat_1	0	22	Joe	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	23	Gargery	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	24	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	25	who	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	26	married	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	27	the	_	_	_	_	_	_	_	_	(4
+1400_great_expectations_brat_1	0	28	blacksmith	_	_	_	_	_	_	_	_	38)|4)
+1400_great_expectations_brat_1	0	29	.	_	_	_	_	_	_	_	_	
+
+1400_great_expectations_brat_1	0	0	As	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	1	I	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	2	never	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	3	saw	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	4	my	_	_	_	_	_	_	_	_	(0|(1)
+1400_great_expectations_brat_1	0	5	father	_	_	_	_	_	_	_	_	0)
+1400_great_expectations_brat_1	0	6	or	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	7	my	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	8	mother	_	_	_	_	_	_	_	_	(5)
+1400_great_expectations_brat_1	0	9	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	10	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	11	never	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	12	saw	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	13	any	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	14	likeness	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	15	of	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	16	either	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	17	of	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	18	them	_	_	_	_	_	_	_	_	(6)
+1400_great_expectations_brat_1	0	19	(	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	20	for	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	21	their	_	_	_	_	_	_	_	_	(6)
+1400_great_expectations_brat_1	0	22	days	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	23	were	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	24	long	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	25	before	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	26	the	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	27	days	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	28	of	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	29	photographs	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	30	)	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	31	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	32	my	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	33	first	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	34	fancies	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	35	regarding	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	36	what	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	37	they	_	_	_	_	_	_	_	_	(6)
+1400_great_expectations_brat_1	0	38	were	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	39	like	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	40	were	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	41	unreasonably	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	42	derived	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	43	from	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	44	their	_	_	_	_	_	_	_	_	(6)
+1400_great_expectations_brat_1	0	45	tombstones	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	46	.	_	_	_	_	_	_	_	_	
+
+1400_great_expectations_brat_1	0	0	The	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	1	shape	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	2	of	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	3	the	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	4	letters	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	5	on	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	6	my	_	_	_	_	_	_	_	_	(0|(1)
+1400_great_expectations_brat_1	0	7	father	_	_	_	_	_	_	_	_	0)
+1400_great_expectations_brat_1	0	8	's	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	9	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	10	gave	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	11	me	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	12	an	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	13	odd	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	14	idea	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	15	that	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	16	he	_	_	_	_	_	_	_	_	(0)
+1400_great_expectations_brat_1	0	17	was	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	18	a	_	_	_	_	_	_	_	_	(39
+1400_great_expectations_brat_1	0	19	square	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	20	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	21	stout	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	22	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	23	dark	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	24	man	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	25	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	26	with	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	27	curly	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	28	black	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	29	hair	_	_	_	_	_	_	_	_	39)
+1400_great_expectations_brat_1	0	30	.	_	_	_	_	_	_	_	_	
+
+1400_great_expectations_brat_1	0	0	From	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	1	the	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	2	character	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	3	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	4	turn	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	5	of	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	6	the	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	7	inscription	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	8	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	9	“	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	10	Also	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	11	Georgiana	_	_	_	_	_	_	_	_	(5)
+1400_great_expectations_brat_1	0	12	Wife	_	_	_	_	_	_	_	_	(5
+1400_great_expectations_brat_1	0	13	of	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	14	the	_	_	_	_	_	_	_	_	(0
+1400_great_expectations_brat_1	0	15	Above	_	_	_	_	_	_	_	_	0)|5)
+1400_great_expectations_brat_1	0	16	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	17	”	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	18	I	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	19	drew	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	20	a	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	21	childish	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	22	conclusion	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	23	that	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	24	my	_	_	_	_	_	_	_	_	(5|(1)
+1400_great_expectations_brat_1	0	25	mother	_	_	_	_	_	_	_	_	5)
+1400_great_expectations_brat_1	0	26	was	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	27	freckled	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	28	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	29	sickly	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	30	.	_	_	_	_	_	_	_	_	
+
+1400_great_expectations_brat_1	0	0	To	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	1	five	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	2	little	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	3	stone	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	4	lozenges	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	5	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	6	each	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	7	about	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	8	a	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	9	foot	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	10	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	11	a	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	12	half	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	13	long	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	14	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	15	which	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	16	were	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	17	arranged	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	18	in	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	19	a	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	20	neat	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	21	row	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	22	beside	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	23	their	_	_	_	_	_	_	_	_	(6)
+1400_great_expectations_brat_1	0	24	grave	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	25	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	26	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	27	were	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	28	sacred	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	29	to	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	30	the	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	31	memory	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	32	of	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	33	five	_	_	_	_	_	_	_	_	(7
+1400_great_expectations_brat_1	0	34	little	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	35	brothers	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	36	of	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	37	mine	_	_	_	_	_	_	_	_	7)
+1400_great_expectations_brat_1	0	38	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	39	--	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	40	who	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	41	gave	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	42	up	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	43	trying	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	44	to	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	45	get	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	46	a	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	47	living	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	48	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	49	exceedingly	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	50	early	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	51	in	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	52	that	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	53	universal	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	54	struggle	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	55	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	56	--	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	57	I	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	58	am	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	59	indebted	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	60	for	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	61	a	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	62	belief	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	63	I	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	64	religiously	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	65	entertained	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	66	that	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	67	they	_	_	_	_	_	_	_	_	(7)
+1400_great_expectations_brat_1	0	68	had	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	69	all	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	70	been	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	71	born	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	72	on	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	73	their	_	_	_	_	_	_	_	_	(7)
+1400_great_expectations_brat_1	0	74	backs	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	75	with	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	76	their	_	_	_	_	_	_	_	_	(7)
+1400_great_expectations_brat_1	0	77	hands	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	78	in	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	79	their	_	_	_	_	_	_	_	_	(7)
+1400_great_expectations_brat_1	0	80	trousers-pockets	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	81	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	82	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	83	had	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	84	never	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	85	taken	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	86	them	_	_	_	_	_	_	_	_	(7)
+1400_great_expectations_brat_1	0	87	out	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	88	in	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	89	this	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	90	state	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	91	of	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	92	existence	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	93	.	_	_	_	_	_	_	_	_	
+
+1400_great_expectations_brat_1	0	0	Ours	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	1	was	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	2	the	_	_	_	_	_	_	_	_	(8
+1400_great_expectations_brat_1	0	3	marsh	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	4	country	_	_	_	_	_	_	_	_	8)
+1400_great_expectations_brat_1	0	5	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	6	down	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	7	by	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	8	the	_	_	_	_	_	_	_	_	(9
+1400_great_expectations_brat_1	0	9	river	_	_	_	_	_	_	_	_	9)
+1400_great_expectations_brat_1	0	10	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	11	within	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	12	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	13	as	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	14	the	_	_	_	_	_	_	_	_	(9
+1400_great_expectations_brat_1	0	15	river	_	_	_	_	_	_	_	_	9)
+1400_great_expectations_brat_1	0	16	wound	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	17	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	18	twenty	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	19	miles	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	20	of	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	21	the	_	_	_	_	_	_	_	_	(10
+1400_great_expectations_brat_1	0	22	sea	_	_	_	_	_	_	_	_	10)
+1400_great_expectations_brat_1	0	23	.	_	_	_	_	_	_	_	_	
+
+1400_great_expectations_brat_1	0	0	My	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	1	first	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	2	most	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	3	vivid	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	4	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	5	broad	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	6	impression	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	7	of	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	8	the	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	9	identity	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	10	of	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	11	things	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	12	seems	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	13	to	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	14	me	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	15	to	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	16	have	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	17	been	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	18	gained	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	19	on	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	20	a	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	21	memorable	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	22	raw	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	23	afternoon	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	24	towards	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	25	evening	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	26	.	_	_	_	_	_	_	_	_	
+
+1400_great_expectations_brat_1	0	0	At	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	1	such	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	2	a	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	3	time	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	4	I	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	5	found	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	6	out	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	7	for	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	8	certain	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	9	that	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	10	this	_	_	_	_	_	_	_	_	(11
+1400_great_expectations_brat_1	0	11	bleak	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	12	place	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	13	overgrown	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	14	with	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	15	nettles	_	_	_	_	_	_	_	_	11)
+1400_great_expectations_brat_1	0	16	was	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	17	the	_	_	_	_	_	_	_	_	(100
+1400_great_expectations_brat_1	0	18	churchyard	_	_	_	_	_	_	_	_	100)
+1400_great_expectations_brat_1	0	19	;	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	20	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	21	that	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	22	Philip	_	_	_	_	_	_	_	_	(0
+1400_great_expectations_brat_1	0	23	Pirrip	_	_	_	_	_	_	_	_	0)
+1400_great_expectations_brat_1	0	24	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	25	late	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	26	of	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	27	this	_	_	_	_	_	_	_	_	(12
+1400_great_expectations_brat_1	0	28	parish	_	_	_	_	_	_	_	_	12)
+1400_great_expectations_brat_1	0	29	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	30	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	31	also	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	32	Georgiana	_	_	_	_	_	_	_	_	(5)
+1400_great_expectations_brat_1	0	33	wife	_	_	_	_	_	_	_	_	(5
+1400_great_expectations_brat_1	0	34	of	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	35	the	_	_	_	_	_	_	_	_	(0
+1400_great_expectations_brat_1	0	36	above	_	_	_	_	_	_	_	_	0)|5)
+1400_great_expectations_brat_1	0	37	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	38	were	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	39	dead	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	40	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	41	buried	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	42	;	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	43	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	44	that	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	45	Alexander	_	_	_	_	_	_	_	_	(13)
+1400_great_expectations_brat_1	0	46	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	47	Bartholomew	_	_	_	_	_	_	_	_	(14)
+1400_great_expectations_brat_1	0	48	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	49	Abraham	_	_	_	_	_	_	_	_	(15)
+1400_great_expectations_brat_1	0	50	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	51	Tobias	_	_	_	_	_	_	_	_	(16)
+1400_great_expectations_brat_1	0	52	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	53	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	54	Roger	_	_	_	_	_	_	_	_	(17)
+1400_great_expectations_brat_1	0	55	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	56	infant	_	_	_	_	_	_	_	_	(7
+1400_great_expectations_brat_1	0	57	children	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	58	of	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	59	the	_	_	_	_	_	_	_	_	(6
+1400_great_expectations_brat_1	0	60	aforesaid	_	_	_	_	_	_	_	_	7)|6)
+1400_great_expectations_brat_1	0	61	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	62	were	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	63	also	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	64	dead	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	65	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	66	buried	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	67	;	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	68	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	69	that	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	70	the	_	_	_	_	_	_	_	_	(18
+1400_great_expectations_brat_1	0	71	dark	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	72	flat	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	73	wilderness	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	74	beyond	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	75	the	_	_	_	_	_	_	_	_	(11
+1400_great_expectations_brat_1	0	76	churchyard	_	_	_	_	_	_	_	_	11)|18)
+1400_great_expectations_brat_1	0	77	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	78	intersected	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	79	with	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	80	dikes	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	81	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	82	mounds	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	83	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	84	gates	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	85	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	86	with	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	87	scattered	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	88	cattle	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	89	feeding	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	90	on	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	91	it	_	_	_	_	_	_	_	_	(18)
+1400_great_expectations_brat_1	0	92	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	93	was	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	94	the	_	_	_	_	_	_	_	_	(101
+1400_great_expectations_brat_1	0	95	marshes	_	_	_	_	_	_	_	_	101)
+1400_great_expectations_brat_1	0	96	;	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	97	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	98	that	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	99	the	_	_	_	_	_	_	_	_	(9
+1400_great_expectations_brat_1	0	100	low	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	101	leaden	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	102	line	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	103	beyond	_	_	_	_	_	_	_	_	9)
+1400_great_expectations_brat_1	0	104	was	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	105	the	_	_	_	_	_	_	_	_	(9
+1400_great_expectations_brat_1	0	106	river	_	_	_	_	_	_	_	_	9)
+1400_great_expectations_brat_1	0	107	;	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	108	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	109	that	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	110	the	_	_	_	_	_	_	_	_	(10
+1400_great_expectations_brat_1	0	111	distant	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	112	savage	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	113	lair	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	114	from	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	115	which	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	116	the	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	117	wind	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	118	was	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	119	rushing	_	_	_	_	_	_	_	_	10)
+1400_great_expectations_brat_1	0	120	was	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	121	the	_	_	_	_	_	_	_	_	(102
+1400_great_expectations_brat_1	0	122	sea	_	_	_	_	_	_	_	_	102)
+1400_great_expectations_brat_1	0	123	;	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	124	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	125	that	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	126	the	_	_	_	_	_	_	_	_	(1
+1400_great_expectations_brat_1	0	127	small	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	128	bundle	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	129	of	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	130	shivers	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	131	growing	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	132	afraid	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	133	of	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	134	it	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	135	all	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	136	and	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	137	beginning	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	138	to	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	139	cry	_	_	_	_	_	_	_	_	1)
+1400_great_expectations_brat_1	0	140	,	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	141	was	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	142	Pip	_	_	_	_	_	_	_	_	(103)
+1400_great_expectations_brat_1	0	143	.	_	_	_	_	_	_	_	_	
+
+1400_great_expectations_brat_1	0	0	“	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	1	Hold	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	2	your	_	_	_	_	_	_	_	_	(1)
+1400_great_expectations_brat_1	0	3	noise	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	4	!	_	_	_	_	_	_	_	_	
+1400_great_expectations_brat_1	0	5	”	_	_	_	_	_	_	_	_	
+
+#end document

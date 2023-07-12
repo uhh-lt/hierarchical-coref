@@ -1,0 +1,294 @@
+#begin document (84_frankenstein_or_the_modern_prometheus_brat_7); part 0
+84_frankenstein_or_the_modern_prometheus_brat_7	0	0	You	_	_	_	_	_	_	_	_	(1)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	1	may	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	2	deem	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	3	me	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	4	romantic	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	5	,	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	6	my	_	_	_	_	_	_	_	_	(1|(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	7	dear	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	8	sister	_	_	_	_	_	_	_	_	1)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	9	,	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	10	but	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	11	I	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	12	bitterly	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	13	feel	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	14	the	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	15	want	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	16	of	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	17	a	_	_	_	_	_	_	_	_	(53
+84_frankenstein_or_the_modern_prometheus_brat_7	0	18	friend	_	_	_	_	_	_	_	_	53)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	19	.	_	_	_	_	_	_	_	_	
+
+84_frankenstein_or_the_modern_prometheus_brat_7	0	0	I	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	1	have	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	2	no	_	_	_	_	_	_	_	_	(54
+84_frankenstein_or_the_modern_prometheus_brat_7	0	3	one	_	_	_	_	_	_	_	_	54)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	4	near	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	5	me	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	6	,	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	7	gentle	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	8	yet	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	9	courageous	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	10	,	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	11	possessed	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	12	of	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	13	a	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	14	cultivated	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	15	as	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	16	well	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	17	as	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	18	of	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	19	a	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	20	capacious	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	21	mind	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	22	,	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	23	whose	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	24	tastes	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	25	are	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	26	like	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	27	my	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	28	own	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	29	,	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	30	to	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	31	approve	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	32	or	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	33	amend	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	34	my	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	35	plans	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	36	.	_	_	_	_	_	_	_	_	
+
+84_frankenstein_or_the_modern_prometheus_brat_7	0	0	How	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	1	would	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	2	such	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	3	a	_	_	_	_	_	_	_	_	(55
+84_frankenstein_or_the_modern_prometheus_brat_7	0	4	friend	_	_	_	_	_	_	_	_	55)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	5	repair	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	6	the	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	7	faults	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	8	of	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	9	your	_	_	_	_	_	_	_	_	(3|(1)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	10	poor	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	11	brother	_	_	_	_	_	_	_	_	3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	12	!	_	_	_	_	_	_	_	_	
+
+84_frankenstein_or_the_modern_prometheus_brat_7	0	0	I	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	1	am	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	2	too	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	3	ardent	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	4	in	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	5	execution	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	6	and	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	7	too	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	8	impatient	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	9	of	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	10	difficulties	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	11	.	_	_	_	_	_	_	_	_	
+
+84_frankenstein_or_the_modern_prometheus_brat_7	0	0	But	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	1	it	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	2	is	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	3	a	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	4	still	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	5	greater	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	6	evil	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	7	to	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	8	me	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	9	that	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	10	I	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	11	am	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	12	self-educated	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	13	:	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	14	for	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	15	the	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	16	first	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	17	fourteen	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	18	years	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	19	of	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	20	my	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	21	life	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	22	I	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	23	ran	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	24	wild	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	25	on	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	26	a	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	27	common	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	28	and	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	29	read	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	30	nothing	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	31	but	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	32	our	_	_	_	_	_	_	_	_	(24|(26)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	33	Uncle	_	_	_	_	_	_	_	_	24)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	34	Thomas	_	_	_	_	_	_	_	_	(24)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	35	'	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	36	books	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	37	of	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	38	voyages	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	39	.	_	_	_	_	_	_	_	_	
+
+84_frankenstein_or_the_modern_prometheus_brat_7	0	0	At	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	1	that	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	2	age	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	3	I	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	4	became	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	5	acquainted	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	6	with	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	7	the	_	_	_	_	_	_	_	_	(56
+84_frankenstein_or_the_modern_prometheus_brat_7	0	8	celebrated	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	9	poets	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	10	of	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	11	our	_	_	_	_	_	_	_	_	(2|(26)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	12	own	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	13	country	_	_	_	_	_	_	_	_	56)|2)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	14	;	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	15	but	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	16	it	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	17	was	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	18	only	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	19	when	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	20	it	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	21	had	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	22	ceased	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	23	to	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	24	be	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	25	in	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	26	my	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	27	power	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	28	to	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	29	derive	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	30	its	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	31	most	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	32	important	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	33	benefits	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	34	from	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	35	such	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	36	a	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	37	conviction	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	38	that	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	39	I	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	40	perceived	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	41	the	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	42	necessity	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	43	of	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	44	becoming	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	45	acquainted	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	46	with	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	47	more	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	48	languages	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	49	than	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	50	that	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	51	of	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	52	my	_	_	_	_	_	_	_	_	(2|(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	53	native	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	54	country	_	_	_	_	_	_	_	_	2)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	55	.	_	_	_	_	_	_	_	_	
+
+84_frankenstein_or_the_modern_prometheus_brat_7	0	0	Now	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	1	I	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	2	am	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	3	twenty-eight	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	4	and	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	5	am	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	6	in	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	7	reality	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	8	more	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	9	illiterate	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	10	than	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	11	many	_	_	_	_	_	_	_	_	(57
+84_frankenstein_or_the_modern_prometheus_brat_7	0	12	schoolboys	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	13	of	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	14	fifteen	_	_	_	_	_	_	_	_	57)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	15	.	_	_	_	_	_	_	_	_	
+
+84_frankenstein_or_the_modern_prometheus_brat_7	0	0	It	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	1	is	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	2	true	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	3	that	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	4	I	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	5	have	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	6	thought	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	7	more	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	8	and	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	9	that	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	10	my	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	11	daydreams	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	12	are	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	13	more	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	14	extended	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	15	and	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	16	magnificent	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	17	,	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	18	but	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	19	they	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	20	want	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	21	(	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	22	as	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	23	the	_	_	_	_	_	_	_	_	(58
+84_frankenstein_or_the_modern_prometheus_brat_7	0	24	painters	_	_	_	_	_	_	_	_	58)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	25	call	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	26	it	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	27	)	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	28	KEEPING	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	29	;	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	30	and	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	31	I	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	32	greatly	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	33	need	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	34	a	_	_	_	_	_	_	_	_	(59
+84_frankenstein_or_the_modern_prometheus_brat_7	0	35	friend	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	36	who	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	37	would	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	38	have	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	39	sense	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	40	enough	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	41	not	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	42	to	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	43	despise	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	44	me	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	45	as	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	46	romantic	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	47	,	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	48	and	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	49	affection	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	50	enough	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	51	for	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	52	me	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	53	to	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	54	endeavour	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	55	to	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	56	regulate	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	57	my	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	58	mind	_	_	_	_	_	_	_	_	59)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	59	.	_	_	_	_	_	_	_	_	
+
+84_frankenstein_or_the_modern_prometheus_brat_7	0	0	Well	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	1	,	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	2	these	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	3	are	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	4	useless	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	5	complaints	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	6	;	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	7	I	_	_	_	_	_	_	_	_	(3)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	8	shall	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	9	certainly	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	10	find	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	11	no	_	_	_	_	_	_	_	_	(60
+84_frankenstein_or_the_modern_prometheus_brat_7	0	12	friend	_	_	_	_	_	_	_	_	60)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	13	on	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	14	the	_	_	_	_	_	_	_	_	(61
+84_frankenstein_or_the_modern_prometheus_brat_7	0	15	wide	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	16	ocean	_	_	_	_	_	_	_	_	61)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	17	,	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	18	nor	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	19	even	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	20	here	_	_	_	_	_	_	_	_	(43)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	21	in	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	22	Archangel	_	_	_	_	_	_	_	_	(43)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	23	,	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	24	among	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	25	merchants	_	_	_	_	_	_	_	_	(62)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	26	and	_	_	_	_	_	_	_	_	
+84_frankenstein_or_the_modern_prometheus_brat_7	0	27	seamen	_	_	_	_	_	_	_	_	(63)
+84_frankenstein_or_the_modern_prometheus_brat_7	0	28	.	_	_	_	_	_	_	_	_	
+
+#end document

@@ -399,6 +399,62 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
                 self.save_weights()
             self.evaluate()
 
+
+
+    def train_merging(self):
+        """
+        Training for the second run.
+        """
+        docs = list(self._get_docs(self.config.train_data))
+        docs_ids = list(range(len(docs)))
+        avg_spans = sum(len(doc["head2span"]) for doc in docs) / len(docs)
+        #print(f'self.config.train_epochs: {self.config.train_epochs}')
+        for epoch in range(self.epochs_trained, self.config.train_epochs):
+            self.training = True
+            running_c_loss = 0.0
+            running_s_loss = 0.0
+            random.shuffle(docs_ids)
+            pbar = tqdm(docs_ids, unit="docs", ncols=0)
+            for doc_id in pbar:
+                doc = docs[doc_id]
+
+                for optim in self.optimizers.values():
+                    optim.zero_grad()
+
+                res, _ = self.run(doc)
+
+                c_loss = self._coref_criterion(res.coref_scores, res.coref_y)
+                # if res.span_y:
+                #     s_loss = (self._span_criterion(res.span_scores[:, :, 0], res.span_y[0])
+                #               + self._span_criterion(res.span_scores[:, :, 1], res.span_y[1])) / avg_spans / 2
+                # else:
+                s_loss = torch.zeros_like(c_loss)
+
+                del res
+
+                (c_loss + s_loss).backward()
+                running_c_loss += c_loss.item()
+                running_s_loss += s_loss.item()
+
+                del c_loss, s_loss
+
+                for optim in self.optimizers.values():
+                    optim.step()
+                for scheduler in self.schedulers.values():
+                    scheduler.step()
+
+                pbar.set_description(
+                    f"Epoch {epoch + 1}:"
+                    f" {doc['document_id']:26}"
+                    f" c_loss: {running_c_loss / (pbar.n + 1):<.5f}"
+                    f" s_loss: {running_s_loss / (pbar.n + 1):<.5f}"
+                )
+
+            self.epochs_trained += 1
+            if(self.epochs_trained == self.config.train_epochs - 1):
+                self.save_weights()
+            self.evaluate()
+
     # ========================================================= Private methods
 
     def _bertify(self, doc: Doc) -> torch.Tensor:

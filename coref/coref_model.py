@@ -248,13 +248,19 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
 
         res.coref_y = self._get_ground_truth(
             cluster_ids, top_indices, (top_rough_scores > float("-inf")))
+
+        # print(f'coref_y : {res.coref_y}')
+        # print(f'res.coref_scores : {res.coref_scores }')
         res.word_clusters = self._clusterize(doc, res.coref_scores,
                                              top_indices)
+        # print(f' res.word_clusters : {res.word_clusters}')
         res.span_scores, res.span_y = self.sp.get_training_data(doc, words)
+        # print(f' res.span_scores: {res.span_scores}')
+        # print(f'res.span_y : { res.span_y} ')
 
         if not self.training:
             res.span_clusters = self.sp.predict(doc, words, res.word_clusters)
-
+        # print(f'res.span_clusters : {res.span_clusters} ')
         return res
 
     def save_weights(self):
