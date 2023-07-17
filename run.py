@@ -13,7 +13,7 @@ import time
 import numpy as np  # type: ignore
 import torch        # type: ignore
 
-from coref import CorefModel
+from coref.coref_model2 import CorefModel
 
 
 @contextmanager
@@ -83,7 +83,8 @@ if __name__ == "__main__":
             model.load_weights(path=args.weights, map_location="cpu",
                                noexception=args.warm_start)
         with output_running_time():
-            model.train()
+            # model.train()
+            model.train_merging()
     else:
         model.load_weights(path=args.weights, map_location="cpu",
                            ignore={"bert_optimizer", "general_optimizer",

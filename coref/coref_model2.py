@@ -260,7 +260,7 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
 
 
     def run2(self, 
-            cluster_emb):
+            cluster_emb, cluster_ids = None):
         """
         This is a massive method, but it made sense to me to not split it into
         several ones to let one see the data flow.
@@ -290,8 +290,6 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
         # 60 because emb_size*3
         pw = torch.zeros((top_indices.shape[0], top_indices.shape[1], 60), dtype=torch.float32)
         pw = pw.to('cuda')
-        # print("hiii" , self.pw_shape)
-        # print("hi2", pw.shape)
 
         batch_size = self.config.a_scoring_batch_size
         a_scores_lst: List[torch.Tensor] = []
@@ -315,8 +313,9 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
         # coref_scores  [n_spans, n_ants]
         res.coref_scores = torch.cat(a_scores_lst, dim=0)
 
-        # res.coref_y = self._get_ground_truth(
-            # cluster_ids, top_indices, (top_rough_scores > float("-inf")))
+        if(cluster_ids != None):
+            res.coref_y = self._get_ground_truth(
+                cluster_ids, top_indices, (top_rough_scores > float("-inf")))
             
         # modify _clusterize
         res.word_clusters = self._clusterize2(words, res.coref_scores,
@@ -403,31 +402,129 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
 
     def train_merging(self):
         """
-        Training for the second run.
+        Training for the merging aspect.
         """
-        docs = list(self._get_docs(self.config.train_data))
-        docs_ids = list(range(len(docs)))
-        avg_spans = sum(len(doc["head2span"]) for doc in docs) / len(docs)
-        #print(f'self.config.train_epochs: {self.config.train_epochs}')
+        # config file had data paths while running this module : 
+        
+        full_doc_path = 'data_to_be_converted_back/english_train_head.jsonlines'
+        all_full_docs_span_clusters = {} # mapping of the full docs to the span clusters in them, we can use this to form the cluster_indices
+
+
+        docs_full = list(self._get_docs(full_doc_path))
+        for doc in docs_full:
+            doc_id = doc['document_id']
+            clusters = doc['span_clusters']
+            all_full_docs_span_clusters[doc_id] = clusters
+        
+        print(f'---------------EXTRACTING SPAN_CLUSTERS OF THE WHOLE DOC FINISHED --------------')
+
+        docs = list(self._get_docs(self.config.train_data))  # this is the splitted docs
+        docs_ids = list(range(len(docs_full)))
+
+
+        # building the cluster embeddings
+        with torch.no_grad():
+            for doc1, doc2 in list(zip(docs,docs[1:]))[::2]:
+                
+                doc_id = doc1['document_id'][:-2]
+                clusters1 = doc1["span_clusters"]
+                clusters2 = doc2["span_clusters"]
+                result1, word_emb1 = self.run(doc1)
+                result2, word_emb2 = self.run(doc2)
+
+                offset = len(doc1['cased_words'])
+                
+                doc1['cluster_emb'] = []
+                doc1['cluster_idx'] = []   # list to store the indices of the clusters to the actual cluster in the full doc
+                doc2['cluster_emb'] = []
+                doc2['cluster_idx'] = []   # list to store the indices of the clusters to the actual cluster in the full doc
+
+                for cluster in clusters1:
+                    cluster_i = []
+                    for span in cluster:
+                        span_embedding = None
+                        start, end = span
+                        for i in range(start, end):
+                            if(span_embedding == None):
+                                span_embedding = word_emb1[i]
+                            else:
+                                span_embedding += word_emb1[i]
+                        span_embedding /= (end - start)
+                        cluster_i.append(span_embedding)
+                    cluster_i = torch.stack(cluster_i)
+                    cluster_i = torch.mean(cluster_i, dim=0)
+                    doc1['cluster_emb'].append(cluster_i)
+
+                    span = cluster[0]
+                    final_clusters = all_full_docs_span_clusters[doc_id]
+                
+                    for i, clusterx in enumerate(final_clusters, start = 1):
+                        if span in clusterx:
+                            doc1['cluster_idx'].append(i)
+                            break
+                
+                for cluster in clusters2:
+                    cluster_i = []
+                    for span in cluster:
+                        span_embedding = None
+                        start, end = span
+                        for i in range(start, end):
+                            if(span_embedding == None):
+                                span_embedding = word_emb2[i]
+                            else:
+                                span_embedding += word_emb2[i]
+                        span_embedding /= (end - start)
+                        cluster_i.append(span_embedding)
+                    cluster_i = torch.stack(cluster_i)
+                    cluster_i = torch.mean(cluster_i, dim=0)
+                    doc2['cluster_emb'].append(cluster_i)
+
+                clusters2 = [[(start + offset, end + offset) for start, end in tuple_list] for tuple_list in clusters2]
+                for cluster in clusters2:
+                    span = cluster[0]
+                    final_clusters = all_full_docs_span_clusters[doc_id]
+                    for i, clusterx in enumerate(final_clusters, start = 1):
+                        if span in clusterx:
+                            doc2['cluster_idx'].append(i)
+                            break
+                
+                print(doc1['cluster_idx'])
+                print(doc2['cluster_idx'])
+                assert len(doc2['cluster_emb']) == len(doc2['cluster_idx'])
+                for key in ("word2subword", "subwords", "word_id", "head2span"):
+                    del doc1[key]
+                    del doc2[key]
+
+        print(f'---------------FINISHED BUILDING THE CLUSTER EMBEDDINGS AND INDICES --------------')
+
         for epoch in range(self.epochs_trained, self.config.train_epochs):
+            random.shuffle(docs_ids)
             self.training = True
             running_c_loss = 0.0
             running_s_loss = 0.0
-            random.shuffle(docs_ids)
-            pbar = tqdm(docs_ids, unit="docs", ncols=0)
+            
+            n = 0
+            
+            pbar = tqdm(docs_ids, unit="docs_full", ncols=0)
             for doc_id in pbar:
-                doc = docs[doc_id]
-
+                doc1 = docs[2*doc_id]
+                doc2 = docs[2*doc_id + 1]
+                n+=1
                 for optim in self.optimizers.values():
                     optim.zero_grad()
 
-                res, _ = self.run(doc)
+                cluster_emb1 = doc1['cluster_emb']
+                cluster_emb2 = doc2['cluster_emb']
+                cluster_emb_merged = torch.stack(cluster_emb1 + cluster_emb2)
+                cluster_emb_merged = cluster_emb_merged.to('cuda')
+                
+                
+                cluster_indices = doc1['cluster_idx'] + doc2['cluster_idx']
+                cluster_indices = torch.tensor(cluster_indices)
+                cluster_indices = cluster_indices.to('cuda')
+                res = self.run2(cluster_emb_merged, cluster_indices)
 
                 c_loss = self._coref_criterion(res.coref_scores, res.coref_y)
-                # if res.span_y:
-                #     s_loss = (self._span_criterion(res.span_scores[:, :, 0], res.span_y[0])
-                #               + self._span_criterion(res.span_scores[:, :, 1], res.span_y[1])) / avg_spans / 2
-                # else:
                 s_loss = torch.zeros_like(c_loss)
 
                 del res
@@ -443,15 +540,15 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
                 for scheduler in self.schedulers.values():
                     scheduler.step()
 
-                pbar.set_description(
+                print(
                     f"Epoch {epoch + 1}:"
-                    f" {doc['document_id']:26}"
-                    f" c_loss: {running_c_loss / (pbar.n + 1):<.5f}"
-                    f" s_loss: {running_s_loss / (pbar.n + 1):<.5f}"
+                    f" {doc1['document_id']}"
+                    f" c_loss: {running_c_loss / (n + 1):<.5f}"
+                    f" s_loss: {running_s_loss / (n + 1):<.5f}"
                 )
-
+            
             self.epochs_trained += 1
-            if(self.epochs_trained == self.config.train_epochs - 1):
+            if(self.epochs_trained == self.config.train_epochs):
                 self.save_weights()
             self.evaluate()
 
