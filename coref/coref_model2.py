@@ -603,6 +603,7 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
 
     def _build_optimizers(self):
         n_docs = len(self._get_docs(self.config.train_data))
+        # n_docs = 80
         self.optimizers: Dict[str, torch.optim.Optimizer] = {}
         self.schedulers: Dict[str, torch.optim.lr_scheduler.LambdaLR] = {}
 

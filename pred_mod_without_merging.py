@@ -9,8 +9,7 @@ from coref.tokenizer_customization import *
 from coref import bert, conll, utils
 
 
-# usage : python pred_mod_without_merging.py roberta litbank_splitted/jsonlines/english_test_head.jsonlines output.jsonlines
-# output.jsonlines [output path] redundant right now
+# usage : python pred_mod_without_merging.py roberta litbank_splitted/jsonlines/english_test_head.jsonlines --weights 'data/roberta_(e30_2023.06.12_13.48).pt'
 # pred.conll and gold.conll files written in the data/conll_logs dir, model wts loaded from data/
 
 def build_doc(doc: dict, model: CorefModel) -> dict:
@@ -47,7 +46,7 @@ if __name__ == "__main__":
     argparser = argparse.ArgumentParser()
     argparser.add_argument("experiment")
     argparser.add_argument("input_file")
-    argparser.add_argument("output_file")
+    # argparser.add_argument("output_file")
     argparser.add_argument("--config-file", default="config.toml")
     argparser.add_argument("--batch-size", type=int,
                            help="Adjust to override the config value if you're"

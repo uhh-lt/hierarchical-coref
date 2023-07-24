@@ -9,8 +9,7 @@ from coref.tokenizer_customization import *
 from coref import bert, conll, utils
 
 
-# usage : python predict_modified.py roberta litbank_splitted/jsonlines/english_test_head.jsonlines output.jsonlines
-# output.jsonlines [output path] redundant right now
+# usage : python predict_modified.py roberta litbank_splitted/jsonlines/english_test_head.jsonlines
 # pred.conll and gold.conll files written in the data/conll_logs dir, model wts loaded from data/
 # the unsplitted doc .jsonlines should be in the data/ dir
 
@@ -48,7 +47,7 @@ if __name__ == "__main__":
     argparser = argparse.ArgumentParser()
     argparser.add_argument("experiment")
     argparser.add_argument("input_file")
-    argparser.add_argument("output_file")
+    # argparser.add_argument("output_file")
     argparser.add_argument("--config-file", default="config.toml")
     argparser.add_argument("--batch-size", type=int,
                            help="Adjust to override the config value if you're"

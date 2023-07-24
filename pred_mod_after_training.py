@@ -48,7 +48,7 @@ if __name__ == "__main__":
     argparser = argparse.ArgumentParser()
     argparser.add_argument("experiment")
     argparser.add_argument("input_file")
-    argparser.add_argument("output_file")
+    # argparser.add_argument("output_file")
     argparser.add_argument("--config-file", default="config.toml")
     argparser.add_argument("--batch-size", type=int,
                            help="Adjust to override the config value if you're"
@@ -71,7 +71,7 @@ if __name__ == "__main__":
                        ignore={"bert_optimizer", "general_optimizer",
                                "bert_scheduler", "general_scheduler"})
     # load the weights for the second model 
-    model2.load_weights(path='data/roberta_(e50_2023.07.17_14.14).pt', map_location="cpu",
+    model2.load_weights(path='data/roberta_(e40_2023.07.17_13.50).pt', map_location="cpu",
                        ignore={"bert_optimizer", "general_optimizer",
                                "bert_scheduler", "general_scheduler"})
     model.training = False
