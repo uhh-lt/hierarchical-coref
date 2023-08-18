@@ -16,7 +16,7 @@ DATA_SPLITS = ["development", "test", "train"]
 DEPS_FILENAME = "deps.conllu"
 DEPS_IDX_FILENAME = "deps.index"
 DEP_SENT_PATTERN = re.compile(r"(?:^\d.+$\n?)+", flags=re.M)
-SENT_PATTERN = re.compile(r"(?:^(?:\w+\/){3}.+$\n?)+", flags=re.M)
+SENT_PATTERN = re.compile(r"(?:^[^\s^\t]{3,}\t.+$\n?)+", flags=re.M)
 
 
 class CorefSpansHolder:
@@ -64,7 +64,8 @@ class CorefSpansHolder:
 
 def build_jsonlines(data_dir: str,
                     out_dir: str,
-                    tmp_dir: str) -> None:
+                    tmp_dir: str,
+                    language: str = "english") -> None:
     """
     Builds a file for each data split where each line corresponds
     to a document.
@@ -75,7 +76,7 @@ def build_jsonlines(data_dir: str,
     fidx = open(os.path.join(tmp_dir, DEPS_IDX_FILENAME),
                 mode="r", encoding="utf8")
     out = {split_type: jsonlines.open(
-            os.path.join(out_dir, f"english_{split_type}.jsonlines"),
+            os.path.join(out_dir, f"{language}_{split_type}.jsonlines"),
             mode="w", compact=True
             ) for split_type in DATA_SPLITS}
 
@@ -83,7 +84,6 @@ def build_jsonlines(data_dir: str,
     with open(os.path.join(tmp_dir, DEPS_FILENAME),
               mode="r", encoding="utf8") as fgold:
         gold_sents_gen = re.finditer(DEP_SENT_PATTERN, fgold.read())
-
     for line in fidx:
         n_sents, filename = line.rstrip().split("\t")
         n_sents = int(n_sents)
@@ -157,7 +157,7 @@ def build_one_jsonline(filename: str,
             head = int(p_cols[6]) - 1
             head = None if head < 0 else total_words + head
 
-            if coref_info != "-":
+            if coref_info != "-" and coref_info != "_":
                 coref_spans.add(coref_info, word_id)
 
             if data["document_id"] is None:
@@ -196,6 +196,16 @@ def convert_con_to_dep(temp_dir: str, filenames: Dict[str, List[str]]) -> None:
             with open(temp_filename + "_dep", mode="w") as out:
                 subprocess.run(cmd, check=True, stdout=out)
     print()
+
+
+def parzu(original_sentences):
+    sentences = []
+    for sent in original_sentences:
+        sentences.append("\n".join([t.split("\t")[3] for t in sent.strip().split("\n")]))
+    parzu_input = "\n\n".join(sentences)
+    run = subprocess.Popen(["docker", "run", "-i", "rsennrich/parzu", "/ParZu/parzu", "-i", "tokenized"], stdin=subprocess.PIPE, stdout=subprocess.PIPE, text=True)
+    stdout, _ = run.communicate(input=parzu_input)
+    return stdout
 
 
 def extract_trees_from_file(fileobj: TextIO) -> Generator[str, None, None]:
@@ -256,7 +266,11 @@ def get_conll_filenames(data_dir: str, language: str) -> Dict[str, List[str]]:
     """
     conll_filenames = {}
     for data_split in DATA_SPLITS:
-        data_split_dir = os.path.join(data_dir, data_split, "data", language)
+        if language == "english":
+            data_split_dir = os.path.join(data_dir, data_split, "data", language)
+        else:
+            # TODO: properly handle splits here
+            data_split_dir = data_dir
         conll_filenames[data_split] = [
             filename for filename in get_filenames(data_split_dir)
             if filename.endswith("gold_conll")
@@ -378,6 +392,7 @@ if __name__ == "__main__":
                            " Defaults to 'temp'.")
     argparser.add_argument("--keep-tmp-dir", action="store_true", help="If set"
                            ", the temporary directory will not be deleted.")
+    argparser.add_argument("--lang", default="english")
     args = argparser.parse_args()
 
     if os.path.exists(args.tmp_dir):
@@ -388,12 +403,24 @@ if __name__ == "__main__":
         shutil.rmtree(args.tmp_dir)
 
     os.makedirs(args.tmp_dir)
-    data_dir = os.path.join(args.conll_dir, "v4", "data")
-    conll_filenames = get_conll_filenames(data_dir, "english")
-    extract_trees_to_files(args.tmp_dir, conll_filenames)
-    convert_con_to_dep(args.tmp_dir, conll_filenames)
+    if args.lang == "english":
+        data_dir = os.path.join(args.conll_dir, "v4", "data")
+        conll_filenames = get_conll_filenames(data_dir, args.lang)
+    elif args.lang == "german":
+        data_dir = args.conll_dir
+        conll_filenames = {"test": ["data/books/test/effi_briest_sample.gold_conll"]}
+    if args.lang == "english":
+        extract_trees_to_files(args.tmp_dir, conll_filenames)
+        convert_con_to_dep(args.tmp_dir, conll_filenames)
+    elif args.lang == "german":
+        os.makedirs(os.path.join(args.tmp_dir, "data/books/test"))
+        lines = "".join(open(os.path.join(args.conll_dir, "effi_briest_sample.gold_conll")).readlines()[1:-1])
+        parsed = parzu(lines.split("\n\n"))
+        out_file = open(os.path.join(args.tmp_dir, "data/books/test/effi_briest_sample.gold_conll_dep"), "w")
+        out_file.write(parsed)
+        out_file.close()
     merge_dep_files(args.tmp_dir, conll_filenames)
-    build_jsonlines(data_dir, args.tmp_dir, args.tmp_dir)
-    split_jsonlines(args.out_dir, args.tmp_dir)
+    build_jsonlines(data_dir, args.tmp_dir, args.tmp_dir, args.lang)
+    split_jsonlines(args.out_dir, args.tmp_dir, language=args.lang)
     if not args.keep_tmp_dir:
         shutil.rmtree(args.tmp_dir)
