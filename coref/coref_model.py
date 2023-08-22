@@ -3,6 +3,7 @@
 from datetime import datetime
 import os
 import pickle
+import glob
 import random
 import re
 from typing import Any, Dict, List, Optional, Set, Tuple
@@ -69,6 +70,7 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
         self._set_training(False)
         self._coref_criterion = CorefLoss(self.config.bce_loss_weight)
         self._span_criterion = torch.nn.CrossEntropyLoss(reduction="sum")
+        self._run_started = datetime.utcnow().isoformat()
 
     @property
     def training(self) -> bool:
@@ -156,7 +158,7 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
                 )
             print()
 
-        return (running_loss / len(docs), *s_checker.total_lea)
+        return (running_loss / len(docs), s_checker.total_lea, w_checker.total_lea)
 
     def load_weights(self,
                      path: Optional[str] = None,
@@ -188,7 +190,8 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
             map_location = self.config.device
         print(f"Loading from {path}...")
         state_dicts = torch.load(path, map_location=map_location)
-        self.epochs_trained = state_dicts.pop("epochs_trained", 0)
+        if "epochs_trained" not in ignore:
+            self.epochs_trained = state_dicts.pop("epochs_trained", 0)
         #print(f'self.epochs_trained : { self.epochs_trained}')
         for key, state_dict in state_dicts.items():
             if not ignore or key not in ignore:
@@ -263,21 +266,30 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
         # print(f'res.span_clusters : {res.span_clusters} ')
         return res
 
-    def save_weights(self):
-        """ Saves trainable models as state dicts. """
+    def save_weights(self, score=None):
+        """ Saves trainable models as state dicts if the previously saved ones have worse scores. """
         to_save: List[Tuple[str, Any]] = \
             [(key, value) for key, value in self.trainable.items()
              if self.config.bert_finetune or key != "bert"]
         to_save.extend(self.optimizers.items())
         to_save.extend(self.schedulers.items())
-
-        time = datetime.strftime(datetime.now(), "%Y.%m.%d_%H.%M")
+        all_paths = os.path.join(self.config.data_dir,
+                            f"{self.config.section}"
+                            f"_(e[0-9]+_{self._run_started}).pt")
         path = os.path.join(self.config.data_dir,
                             f"{self.config.section}"
-                            f"_(e{self.epochs_trained}_{time}).pt")
+                            f"_(e{self.epochs_trained}_{self._run_started}).pt")
         savedict = {name: module.state_dict() for name, module in to_save}
         savedict["epochs_trained"] = self.epochs_trained  # type: ignore
-        torch.save(savedict, path)
+        savedict["score"] = score
+        previous_paths = glob.glob(all_paths)
+        # This is absurdly inefficient as we load the old weights to determine the score
+        # But it should not matter as this only happens once per epoch and only for one model as all others were already deleted
+        best_score = max([0.0] + [torch.load(file_name)["score"] for file_name in previous_paths])
+        if best_score < score:
+            torch.save(savedict, path)
+            for file_name in previous_paths:
+                os.remove(file_name)
 
     def train(self):
         """
@@ -329,9 +341,8 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
                 )
 
             self.epochs_trained += 1
-            if(self.epochs_trained == self.config.train_epochs - 1):
-                self.save_weights()
-            self.evaluate()
+            _, _, (f1, _, _) = self.evaluate()
+            self.save_weights(f1)
 
     # ========================================================= Private methods
 
