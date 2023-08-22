@@ -1,3 +1,4 @@
+import argparse
 from collections import defaultdict
 import logging
 import os
@@ -7,7 +8,7 @@ import jsonlines
 
 
 DATA_DIR = "data"
-FILENAME = "english_{}{}.jsonlines"
+FILENAME = "{}_{}_{}{}.jsonlines"
 LOGGING_LEVEL = logging.WARNING  # DEBUG to output all duplicate spans
 SPLITS = ("development", "test", "train")
 
@@ -38,9 +39,14 @@ def get_head(mention: Tuple[int, int], doc: dict) -> int:
 if __name__ == "__main__":
     logging.basicConfig(level=LOGGING_LEVEL)
     path = os.path.join(DATA_DIR, FILENAME)
+    argparser = argparse.ArgumentParser(
+        description="Converts from spans to heads.")
+    argparser.add_argument("--lang", help="The language of the dataset", default="english")
+    argparser.add_argument("--dataset", default="ontonotes", help="Name of the datset.")
+    args = argparser.parse_args()
     for split in SPLITS:
-        with jsonlines.open(path.format(split, ""), mode="r") as inf:
-            with jsonlines.open(path.format(split, "_head"), mode="w") as outf:
+        with jsonlines.open(path.format(args.dataset, args.lang, split, ""), mode="r") as inf:
+            with jsonlines.open(path.format(args.dataset, args.lang, split, "_head"), mode="w") as outf:
                 deleted_spans = 0
                 deleted_clusters = 0
                 total_spans = 0

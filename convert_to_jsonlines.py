@@ -6,7 +6,7 @@ import re
 import shutil
 import subprocess
 import sys
-from typing import Dict, Generator, List, TextIO, Union
+from typing import Dict, Generator, List, Optional, TextIO, Union
 
 import jsonlines
 from tqdm import tqdm
@@ -16,7 +16,7 @@ DATA_SPLITS = ["development", "test", "train"]
 DEPS_FILENAME = "deps.conllu"
 DEPS_IDX_FILENAME = "deps.index"
 DEP_SENT_PATTERN = re.compile(r"(?:^\d.+$\n?)+", flags=re.M)
-SENT_PATTERN = re.compile(r"(?:^[^\s^\t]{3,}\t.+$\n?)+", flags=re.M)
+SENT_PATTERN = re.compile(r"(?:^(?:\w+\/){3}.+$\n?)+", flags=re.M)
 
 
 class CorefSpansHolder:
@@ -65,7 +65,9 @@ class CorefSpansHolder:
 def build_jsonlines(data_dir: str,
                     out_dir: str,
                     tmp_dir: str,
-                    language: str = "english") -> None:
+                    language: str = "english",
+                    conll_files: Optional[Dict[str, List[str]]] = None,
+                    dataset: str = "ontonotes") -> None:
     """
     Builds a file for each data split where each line corresponds
     to a document.
@@ -73,31 +75,40 @@ def build_jsonlines(data_dir: str,
     print("Building jsonlines...")
     data_dir = os.path.normpath(data_dir)
 
-    fidx = open(os.path.join(tmp_dir, DEPS_IDX_FILENAME),
-                mode="r", encoding="utf8")
+    if dataset == "ontonotes":
+        fidx = open(os.path.join(tmp_dir, DEPS_IDX_FILENAME),
+                    mode="r", encoding="utf8")
+        # This here is memory-unfriendly, but should be fine for most
+        with open(os.path.join(tmp_dir, DEPS_FILENAME),
+                mode="r", encoding="utf8") as fgold:
+            gold_sents_gen = re.finditer(DEP_SENT_PATTERN, fgold.read())
     out = {split_type: jsonlines.open(
             os.path.join(out_dir, f"{language}_{split_type}.jsonlines"),
             mode="w", compact=True
             ) for split_type in DATA_SPLITS}
 
-    # This here is memory-unfriendly, but should be fine for most
-    with open(os.path.join(tmp_dir, DEPS_FILENAME),
-              mode="r", encoding="utf8") as fgold:
-        gold_sents_gen = re.finditer(DEP_SENT_PATTERN, fgold.read())
-    for line in fidx:
-        n_sents, filename = line.rstrip().split("\t")
-        n_sents = int(n_sents)
-        sents = [next(gold_sents_gen).group(0) for _ in range(n_sents)]
-        data = build_one_jsonline(filename, sents)
-        out[get_split_type(data_dir, filename)].write(data)
+    if dataset == "ontonotes":
+        for line in fidx:
+            n_sents, filename = line.rstrip().split("\t")
+            n_sents = int(n_sents)
+            sents = [next(gold_sents_gen).group(0) for _ in range(n_sents)]
+            data = build_one_jsonline(filename, sents, has_dep_info=False)
+            out[get_split_type(data_dir, filename)].write(data)
+        fidx.close()
+    else:
+        for split, file_names in conll_files.items():
+            for filename in file_names:
+                sents = ("".join(open(filename).readlines()[1:-1])).split("\n\n")
+                data = build_one_jsonline(filename, sents, has_dep_info=True)
+                out[split].write(data)
 
-    fidx.close()
     for fileobj in out.values():
         fileobj.close()
 
 
 def build_one_jsonline(filename: str,
-                       parsed_sents: List[str]) -> Dict[str, Union[list, str]]:
+                       parsed_sents: List[str],
+                       has_dep_info: bool = False) -> Dict[str, Union[list, str]]:
     """
     Returns a dictionary of the following structure:
 
@@ -114,11 +125,13 @@ def build_one_jsonline(filename: str,
                                                 a list of spans of words
 
     """
-    with open(filename, mode="r", encoding="utf8") as f:
-        sents = re.findall(SENT_PATTERN, f.read())
-        # print(f'sents is {sents}') # const from the gold_conll file
-        # print(f'parsed sents are {parsed_sents}') # constructed from the dep file
-        assert len(sents) == len(parsed_sents)
+    sents = None
+    if not has_dep_info:
+        with open(filename, mode="r", encoding="utf8") as f:
+            sents = re.findall(SENT_PATTERN, f.read())
+            # print(f'sents is {sents}') # const from the gold_conll file
+            # print(f'parsed sents are {parsed_sents}') # constructed from the dep file
+            assert len(sents) == len(parsed_sents)
 
     data = {
         "document_id":      None,
@@ -133,49 +146,85 @@ def build_one_jsonline(filename: str,
     }
     coref_spans = CorefSpansHolder()
     total_words = 0
-    for sent_id, sources in enumerate(zip(sents, parsed_sents)):
-        sent, parsed_sent = [s.splitlines() for s in sources]
-        assert len(sent) == len(parsed_sent)
+    if not has_dep_info:
+        for sent_id, sources in enumerate(zip(sents, parsed_sents)):
+            sent, parsed_sent = [s.splitlines() for s in sources]
+            assert len(sent) == len(parsed_sent)
 
-        for s_word, p_word in zip(sent, parsed_sent):
-            s_cols = s_word.split()
-            p_cols = p_word.split('\t')
+            for s_word, p_word in zip(sent, parsed_sent):
+                s_cols = s_word.split()
+                p_cols = p_word.split('\t')
 
-            document_id = s_cols[0]
-            part_id = int(s_cols[1])
-            word_id = total_words + int(s_cols[2])  # continuous word_id
-            word = s_cols[3]
+                document_id = s_cols[0]
+                try:
+                    part_id = int(s_cols[1])
+                except ValueError:
+                    part_id = 0
+                word_id = total_words + int(s_cols[2])  # continuous word_id
+                word = s_cols[3]
 
-            speaker = s_cols[9]
-            coref_info = s_cols[-1]
+                speaker = s_cols[9]
+                coref_info = s_cols[-1]
 
-            pos = p_cols[3]
-            deprel = p_cols[7]
+                pos = p_cols[3]
+                deprel = p_cols[7]
 
-            # DS indexing starts with 1, zero is reserved for root
-            # Converting word_id to continuous id, setting root head to None
-            head = int(p_cols[6]) - 1
-            head = None if head < 0 else total_words + head
+                # DS indexing starts with 1, zero is reserved for root
+                # Converting word_id to continuous id, setting root head to None
+                head = int(p_cols[6]) - 1
+                head = None if head < 0 else total_words + head
 
-            if coref_info != "-" and coref_info != "_":
-                coref_spans.add(coref_info, word_id)
+                if coref_info != "-" and coref_info != "_":
+                    coref_spans.add(coref_info, word_id)
 
-            if data["document_id"] is None:
-                data["document_id"] = document_id
-            else:
-                assert data["document_id"] == document_id
-            data["cased_words"].append(word)
-            data["part_id"].append(part_id)
-            data["sent_id"].append(sent_id)
-            data["speaker"].append(speaker)
-            data["pos"].append(pos)
-            data["deprel"].append(deprel)
-            data["head"].append(head)
+                if data["document_id"] is None:
+                    data["document_id"] = document_id
+                else:
+                    assert data["document_id"] == document_id
+                data["cased_words"].append(word)
+                data["part_id"].append(part_id)
+                data["sent_id"].append(sent_id)
+                data["speaker"].append(speaker)
+                data["pos"].append(pos)
+                data["deprel"].append(deprel)
+                data["head"].append(head)
 
-        total_words += len(sent)
+            total_words += len(sent)
+    else:
+        for sent_id, raw_sent in enumerate(parsed_sents):
+            sent = raw_sent.splitlines()
+            sent_start_word_id = total_words
+            document_id = filename.split(".")[0]
+            data["document_id"] = document_id
+            for line in sent:
+                if line.startswith("#"):
+                    break
+                word_id = total_words
+                cols = line.split("\t")
+                word = cols[1]
+                part_id = 0
+                speaker = None
+                coref_info = cols[-1]
+                if coref_info != "-" and coref_info != "_":
+                    coref_spans.add(coref_info, word_id)
+                pos = cols[4]
+                deprel = cols[10]
+                try:
+                    head = int(cols[8]) + sent_start_word_id - 1
+                except ValueError:
+                    head = None
+                if head == -1:
+                    head = None
+                data["cased_words"].append(word)
+                data["part_id"].append(part_id)
+                data["sent_id"].append(sent_id)
+                data["speaker"].append(speaker)
+                data["pos"].append(pos)
+                data["deprel"].append(deprel)
+                data["head"].append(head)
+                total_words += 1
 
     data["clusters"] = list(coref_spans)
-
     return data
 
 
@@ -268,9 +317,8 @@ def get_conll_filenames(data_dir: str, language: str) -> Dict[str, List[str]]:
     for data_split in DATA_SPLITS:
         if language == "english":
             data_split_dir = os.path.join(data_dir, data_split, "data", language)
-        else:
-            # TODO: properly handle splits here
-            data_split_dir = data_dir
+        elif language == "german":
+            data_split_dir = os.path.join(data_dir, data_split)
         conll_filenames[data_split] = [
             filename for filename in get_filenames(data_split_dir)
             if filename.endswith("gold_conll")
@@ -313,7 +361,8 @@ def merge_dep_files(temp_dir: str, filenames: Dict[str, List[str]]) -> None:
 
 def split_jsonlines(out_dir: str,
                     tmp_dir: str,
-                    language: str = "english") -> None:
+                    language: str = "english",
+                    dataset: str = "ontonotes") -> None:
     """ Splits jsonlines located in tmp_dir and writes them to out_dir.
     Splitting means separating different parts of the same document into
     multiple jsonlines. """
@@ -321,7 +370,7 @@ def split_jsonlines(out_dir: str,
                 os.path.join(tmp_dir, f"{language}_{split_type}.jsonlines"),
                 mode="r") for split_type in DATA_SPLITS}
     out = {split_type: jsonlines.open(
-            os.path.join(out_dir, f"{language}_{split_type}.jsonlines"),
+            os.path.join(out_dir, f"{dataset}_{language}_{split_type}.jsonlines"),
             mode="w", compact=True
             ) for split_type in DATA_SPLITS}
 
@@ -393,6 +442,7 @@ if __name__ == "__main__":
     argparser.add_argument("--keep-tmp-dir", action="store_true", help="If set"
                            ", the temporary directory will not be deleted.")
     argparser.add_argument("--lang", default="english")
+    argparser.add_argument("--dataset", default="ontonotes")
     args = argparser.parse_args()
 
     if os.path.exists(args.tmp_dir):
@@ -402,25 +452,37 @@ if __name__ == "__main__":
             sys.exit()
         shutil.rmtree(args.tmp_dir)
 
+    build_dep_file = True
+
     os.makedirs(args.tmp_dir)
     if args.lang == "english":
         data_dir = os.path.join(args.conll_dir, "v4", "data")
         conll_filenames = get_conll_filenames(data_dir, args.lang)
     elif args.lang == "german":
-        data_dir = args.conll_dir
-        conll_filenames = {"test": ["data/books/test/effi_briest_sample.gold_conll"]}
-    if args.lang == "english":
+        if args.dataset == "full-books":
+            data_dir = args.conll_dir
+            conll_filenames = {"test": ["data/books/test/effi_briest_sample.gold_conll"]}
+        elif args.dataset == "tuba":
+            data_dir = args.conll_dir
+            conll_filenames = get_conll_filenames(data_dir, args.lang)
+            build_dep_file = False
+        elif args.dataset == "droc":
+            data_dir = args.conll_dir
+            build_dep_file = False
+            conll_filenames = get_conll_filenames(data_dir, args.lang)
+    if args.lang == "english" and args.dataset == "ontonotes":
         extract_trees_to_files(args.tmp_dir, conll_filenames)
         convert_con_to_dep(args.tmp_dir, conll_filenames)
-    elif args.lang == "german":
+    if args.lang == "german" and args.dataset in "full-books":
         os.makedirs(os.path.join(args.tmp_dir, "data/books/test"))
         lines = "".join(open(os.path.join(args.conll_dir, "effi_briest_sample.gold_conll")).readlines()[1:-1])
         parsed = parzu(lines.split("\n\n"))
         out_file = open(os.path.join(args.tmp_dir, "data/books/test/effi_briest_sample.gold_conll_dep"), "w")
         out_file.write(parsed)
         out_file.close()
-    merge_dep_files(args.tmp_dir, conll_filenames)
-    build_jsonlines(data_dir, args.tmp_dir, args.tmp_dir, args.lang)
-    split_jsonlines(args.out_dir, args.tmp_dir, language=args.lang)
+    if build_dep_file:
+        merge_dep_files(args.tmp_dir, conll_filenames)
+    build_jsonlines(data_dir, args.tmp_dir, args.tmp_dir, args.lang, conll_filenames, dataset=args.dataset)
+    split_jsonlines(args.out_dir, args.tmp_dir, args.lang, args.dataset)
     if not args.keep_tmp_dir:
         shutil.rmtree(args.tmp_dir)
