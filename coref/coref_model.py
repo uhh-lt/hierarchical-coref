@@ -199,6 +199,8 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
                     self.optimizers[key].load_state_dict(state_dict)
                 elif key.endswith("_scheduler"):
                     self.schedulers[key].load_state_dict(state_dict)
+                elif key.endswith("score"):
+                    pass
                 else:
                     self.trainable[key].load_state_dict(state_dict)
                 print(f"Loaded {key}")
@@ -275,7 +277,7 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
         to_save.extend(self.schedulers.items())
         all_paths = os.path.join(self.config.data_dir,
                             f"{self.config.section}"
-                            f"_(e[0-9]+_{self._run_started}).pt")
+                            f"_(e*_{self._run_started}).pt")
         path = os.path.join(self.config.data_dir,
                             f"{self.config.section}"
                             f"_(e{self.epochs_trained}_{self._run_started}).pt")
@@ -465,6 +467,12 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
                 self._docs[path] = self._tokenize_docs(path)
                 with open(cache_filename, mode="wb") as cache_f:
                     pickle.dump(self._docs[path], cache_f)
+        if "train" in path:
+            # When traning we filter out very long documents
+            self._docs =  {
+                k : [doc for doc in v if len(doc["cased_words"]) < 6000]
+                for k, v in self._docs.items()
+            }
         return self._docs[path]
 
     @staticmethod

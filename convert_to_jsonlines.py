@@ -466,7 +466,7 @@ if __name__ == "__main__":
             data_dir = args.conll_dir
             conll_filenames = get_conll_filenames(data_dir, args.lang)
             build_dep_file = False
-        elif args.dataset == "droc":
+        elif args.dataset.startswith("droc"):
             data_dir = args.conll_dir
             build_dep_file = False
             conll_filenames = get_conll_filenames(data_dir, args.lang)

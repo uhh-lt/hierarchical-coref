@@ -8,9 +8,9 @@
 data_dir = "data"
 
 # Train, dev and test jsonlines
-train_data = "data/english_train_head.jsonlines"
-dev_data = "data/english_development_head.jsonlines"
-test_data = "data/english_test_head.jsonlines"
+train_data = "data/ontonotes_english_train_head.jsonlines"
+dev_data = "data/ontonotes_english_development_head.jsonlines"
+test_data = "data/ontonotes_english_test_head.jsonlines"
 
 # The device where everything is to be placed. "cuda:N"/"cpu" are supported.
 #export CUDA_VISIBLE_DEVICES=0
@@ -99,6 +99,42 @@ conll_log_dir = "data/conll_logs"
 # =============================================================================
 # The sections listed here do not need to make use of all config variables
 # If a variable is omitted, its default value will be used instead
+
+[gelectra-droc-split]
+bert_model = "deepset/gelectra-large"
+train_data = "data/droc_split_german_train_head.jsonlines"
+dev_data = "data/droc_german_development_head.jsonlines"
+test_data = "data/droc_german_test_head.jsonlines"
+
+[gelectra-base-droc]
+bert_model = "deepset/gelectra-base"
+train_data = "data/droc_german_train_head.jsonlines"
+dev_data = "data/droc_german_development_head.jsonlines"
+test_data = "data/droc_german_test_head.jsonlines"
+
+[gelectra-droc]
+bert_model = "deepset/gelectra-large"
+train_data = "data/droc_german_train_head.jsonlines"
+dev_data = "data/droc_german_development_head.jsonlines"
+test_data = "data/droc_german_test_head.jsonlines"
+
+[gelectra]
+bert_model = "deepset/gelectra-large"
+train_data = "data/tuba_german_train_head.jsonlines"
+dev_data = "data/tuba_german_development_head.jsonlines"
+test_data = "data/tuba_german_test_head.jsonlines"
+
+[gelectra_base]
+bert_model = "deepset/gelectra-base"
+train_data = "data/tuba_german_train_head.jsonlines"
+dev_data = "data/tuba_german_development_head.jsonlines"
+test_data = "data/tuba_german_test_head.jsonlines"
+
+[german_dbmdz]
+bert_model = "dbmdz/bert-base-german-cased"
+train_data = "data/tuba_german_train_head.jsonlines"
+dev_data = "data/tuba_german_development_head.jsonlines"
+test_data = "data/tuba_german_test_head.jsonlines"
 
 [roberta]
 bert_model = "roberta-large"
