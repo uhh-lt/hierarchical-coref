@@ -1,6 +1,7 @@
 """ see __init__.py """
 
 from datetime import datetime
+import itertools
 import os
 import pickle
 import random
@@ -260,7 +261,7 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
 
 
     def run2(self, 
-            cluster_emb, cluster_ids = None):
+            cluster_emb, cluster_ids = None, clusters_a: Optional[int] = None, clusters_b: Optional[int] = None):
         """
         This is a massive method, but it made sense to me to not split it into
         several ones to let one see the data flow.
@@ -312,6 +313,10 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
 
         # coref_scores  [n_spans, n_ants]
         res.coref_scores = torch.cat(a_scores_lst, dim=0)
+        if clusters_a is not None and clusters_b is not None:
+            # No merging with itself.
+            res.coref_scores[:clusters_a,:clusters_a] = float("-inf")
+            res.coref_scores[clusters_a:clusters_a + clusters_b,clusters_a:clusters_a + clusters_b] = float("-inf")
 
         if(cluster_ids != None):
             res.coref_y = self._get_ground_truth(
@@ -400,13 +405,13 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
 
 
 
-    def train_merging(self):
+    def train_merging(self, path='data/english_train_head.jsonlines'):
         """
         Training for the merging aspect.
         """
         # config file had data paths while running this module : 
         
-        full_doc_path = 'data_to_be_converted_back/english_train_head.jsonlines'
+        full_doc_path = path
         all_full_docs_span_clusters = {} # mapping of the full docs to the span clusters in them, we can use this to form the cluster_indices
 
 
@@ -423,10 +428,11 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
 
 
         # building the cluster embeddings
+        grouped_docs = itertools.groupby(docs, key=lambda d: d["document_id"].rsplit("_", 1)[0])
+        grouped_docs = {key: list(value) for key, value in grouped_docs}
         with torch.no_grad():
-            for doc1, doc2 in list(zip(docs,docs[1:]))[::2]:
-                
-                doc_id = doc1['document_id'][:-2]
+            for doc_id, doc_list in grouped_docs.items():
+                # doc_id = doc1['document_id'].rsplit("_", 1)[0]
                 clusters1 = doc1["span_clusters"]
                 clusters2 = doc2["span_clusters"]
                 result1, word_emb1 = self.run(doc1)
@@ -496,6 +502,8 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
                     del doc2[key]
 
         print(f'---------------FINISHED BUILDING THE CLUSTER EMBEDDINGS AND INDICES --------------')
+        
+        breakpoint()
 
         for epoch in range(self.epochs_trained, self.config.train_epochs):
             random.shuffle(docs_ids)
@@ -571,14 +579,12 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
 
         # Obtain bert output for selected batches only
         attention_mask = (subwords_batches != self.tokenizer.pad_token_id)
-        out, _ = self.bert(
+        out = self.bert(
             subwords_batches_tensor,
             attention_mask=torch.tensor(
                 attention_mask, device=self.config.device))
-        del _
 
-        # [n_subwords, bert_emb]
-        return out[subword_mask_tensor]
+        return out.last_hidden_state[subword_mask_tensor]
 
     def _build_model(self):
         self.bert, self.tokenizer = bert.load_bert(self.config)
