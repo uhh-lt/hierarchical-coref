@@ -7,6 +7,8 @@ import shutil
 import subprocess
 import sys
 from typing import Dict, Generator, List, Optional, TextIO, Union
+import itertools
+import glob
 
 import jsonlines
 from tqdm import tqdm
@@ -194,7 +196,7 @@ def build_one_jsonline(filename: str,
         for sent_id, raw_sent in enumerate(parsed_sents):
             sent = raw_sent.splitlines()
             sent_start_word_id = total_words
-            document_id = filename.split(".")[0]
+            document_id = os.path.basename(filename).rsplit(".", 1)[0]
             data["document_id"] = document_id
             for line in sent:
                 if line.startswith("#"):
@@ -250,7 +252,7 @@ def convert_con_to_dep(temp_dir: str, filenames: Dict[str, List[str]]) -> None:
 def parzu(original_sentences):
     sentences = []
     for sent in original_sentences:
-        sentences.append("\n".join([t.split("\t")[3] for t in sent.strip().split("\n")]))
+        sentences.append("\n".join([t.split("\t")[2] for t in sent.strip().split("\n")]))
     parzu_input = "\n\n".join(sentences)
     run = subprocess.Popen(["docker", "run", "-i", "rsennrich/parzu", "/ParZu/parzu", "-i", "tokenized"], stdin=subprocess.PIPE, stdout=subprocess.PIPE, text=True)
     stdout, _ = run.communicate(input=parzu_input)
@@ -461,7 +463,7 @@ if __name__ == "__main__":
     elif args.lang == "german":
         if args.dataset == "full-books":
             data_dir = args.conll_dir
-            conll_filenames = {"test": ["data/books/test/effi_briest_sample.gold_conll"]}
+            conll_filenames = {"test": glob.glob(os.path.join(args.conll_dir, "test/*.gold_conll")), "development": glob.glob(os.path.join(args.conll_dir, "development/*.gold_conll"))}
         elif args.dataset == "tuba":
             data_dir = args.conll_dir
             conll_filenames = get_conll_filenames(data_dir, args.lang)
@@ -473,13 +475,17 @@ if __name__ == "__main__":
     if args.lang == "english" and args.dataset == "ontonotes":
         extract_trees_to_files(args.tmp_dir, conll_filenames)
         convert_con_to_dep(args.tmp_dir, conll_filenames)
-    if args.lang == "german" and args.dataset in "full-books":
-        os.makedirs(os.path.join(args.tmp_dir, "data/books/test"))
-        lines = "".join(open(os.path.join(args.conll_dir, "effi_briest_sample.gold_conll")).readlines()[1:-1])
-        parsed = parzu(lines.split("\n\n"))
-        out_file = open(os.path.join(args.tmp_dir, "data/books/test/effi_briest_sample.gold_conll_dep"), "w")
-        out_file.write(parsed)
-        out_file.close()
+    if args.lang == "german" and args.dataset == "full-books":
+        os.makedirs(os.path.join(args.tmp_dir, args.conll_dir, "test"))
+        os.makedirs(os.path.join(args.tmp_dir, args.conll_dir, "development"))
+        for conll_file in list(itertools.chain.from_iterable(conll_filenames.values())):
+            lines = "".join(open(conll_file).readlines()[1:-1])
+            print(lines.split("\n")[:2])
+            print(lines.split("\n")[-2:])
+            parsed = parzu(lines.split("\n\n"))
+            out_file = open(os.path.join(args.tmp_dir, conll_file.replace(".gold_conll", ".gold_conll_dep")), "w")
+            out_file.write(parsed)
+            out_file.close()
     if build_dep_file:
         merge_dep_files(args.tmp_dir, conll_filenames)
     build_jsonlines(data_dir, args.tmp_dir, args.tmp_dir, args.lang, conll_filenames, dataset=args.dataset)
