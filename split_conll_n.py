@@ -2,8 +2,23 @@
 Split script for droc dataset
 """
 import argparse
+import itertools
 import os
 from pathlib import Path
+
+
+def split_list(input_list, delimiter):
+    result = []
+    sublist = []
+    for item in input_list:
+        if item == delimiter:
+            result.append(sublist)
+            sublist = []
+        else:
+            sublist.append(item)
+    result.append(sublist)
+    return result
+
 
 def count_sentences(file_path):
     sentence_count = 0
@@ -47,26 +62,38 @@ def split_conll_file(file_path, output_directory, num_splits):
         current_output_file = output_files[current_file_index]
         name = '#begin document ({}); part 0\n'.format(current_output_file.name[len(split_dir):-11])
         output_files[current_file_index].write(name)
+        lines = []
+        should_write_newline = False
         for line in input_file:
             if line.startswith("#"):
                 continue
             line = line.lstrip()
-            current_file_index = int(current_sentence_index / min_per_split)
-            if current_file_index == len(output_files): # Whatever is left goes into the last file
-                current_file_index -= 1
-            current_output_file = output_files[current_file_index]
-            if line == "":
-                current_sentence_index += 1
-                if current_sentence_index % min_per_split == 0:
+            if current_file_index < (new_current_file_index := int(current_sentence_index / min_per_split)):
+                last_sentence = list(itertools.chain.from_iterable(split_list(lines, "")[-2:]))
+                has_mrs = any("Mrs\t" in line for line in last_sentence)
+                has_mr = any("Mr\t" in line for line in last_sentence)
+                has_mr_dot = any("Mr." in line for line in last_sentence)
+                if not has_mr and not has_mrs and not has_mr_dot and not current_file_index + 1 == len(output_files):
+                    # switch to new file
                     current_output_file.write('#end document\n')
                     if current_file_index < len(output_files) - 1:
                         current_output_file = output_files[current_file_index + 1]
                         name = '#begin document ({}); part 0\n'.format(current_output_file.name[len(split_dir):-11])
                         output_files[current_file_index + 1].write(name)
-                else:
-                    current_output_file.write('\n')
+                    current_file_index = min(new_current_file_index, len(output_files) - 1)
+                    should_write_newline = False
+            elif should_write_newline:
+                current_output_file.write('\n')
+                should_write_newline = False
+            if line == "":
+                current_sentence_index += 1
+                should_write_newline = True
             else:
                 current_output_file.write(line)
+                if should_write_newline:
+                    current_output_file.write('\n')
+                    should_write_newline = False
+            lines.append(line)
 
         output_files[-1].write('#end document\n')
         print("Split complete. Split files:", *out_paths)
