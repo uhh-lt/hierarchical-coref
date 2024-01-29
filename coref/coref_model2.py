@@ -432,74 +432,53 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
         grouped_docs = {key: list(value) for key, value in grouped_docs}
         with torch.no_grad():
             for doc_id, doc_list in grouped_docs.items():
-                # doc_id = doc1['document_id'].rsplit("_", 1)[0]
-                clusters1 = doc1["span_clusters"]
-                clusters2 = doc2["span_clusters"]
-                result1, word_emb1 = self.run(doc1)
-                result2, word_emb2 = self.run(doc2)
+                doc_ids = [doc['document_id'].rsplit("_", 1)[0] for doc in doc_list]
+                all_clusters = [doc["span_clusters"] for doc in doc_list]
+                results, word_embs = zip(*[self.run(doc) for doc in doc_list])
+                #result1, word_emb1 = self.run(doc1)
+                #result2, word_emb2 = self.run(doc2)
 
-                offset = len(doc1['cased_words'])
-                
-                doc1['cluster_emb'] = []
-                doc1['cluster_idx'] = []   # list to store the indices of the clusters to the actual cluster in the full doc
-                doc2['cluster_emb'] = []
-                doc2['cluster_idx'] = []   # list to store the indices of the clusters to the actual cluster in the full doc
+                #offset = len(doc1['cased_words'])
 
-                for cluster in clusters1:
-                    cluster_i = []
-                    for span in cluster:
-                        span_embedding = None
-                        start, end = span
-                        for i in range(start, end):
-                            if(span_embedding == None):
-                                span_embedding = word_emb1[i]
-                            else:
-                                span_embedding += word_emb1[i]
-                        span_embedding /= (end - start)
-                        cluster_i.append(span_embedding)
-                    cluster_i = torch.stack(cluster_i)
-                    cluster_i = torch.mean(cluster_i, dim=0)
-                    doc1['cluster_emb'].append(cluster_i)
+                for doc in doc_list:
+                    doc['cluster_emb'] = []
+                    doc['cluster_idx'] = []   # list to store the indices of the clusters to the actual cluster in the full doc
 
-                    span = cluster[0]
-                    final_clusters = all_full_docs_span_clusters[doc_id]
-                
-                    for i, clusterx in enumerate(final_clusters, start = 1):
-                        if span in clusterx:
-                            doc1['cluster_idx'].append(i)
-                            break
-                
-                for cluster in clusters2:
-                    cluster_i = []
-                    for span in cluster:
-                        span_embedding = None
-                        start, end = span
-                        for i in range(start, end):
-                            if(span_embedding == None):
-                                span_embedding = word_emb2[i]
-                            else:
-                                span_embedding += word_emb2[i]
-                        span_embedding /= (end - start)
-                        cluster_i.append(span_embedding)
-                    cluster_i = torch.stack(cluster_i)
-                    cluster_i = torch.mean(cluster_i, dim=0)
-                    doc2['cluster_emb'].append(cluster_i)
+                for doc_idx, (doc, clusters) in enumerate(zip(doc_list, all_clusters)):
+                    for cluster in clusters:
+                        cluster_i = []
+                        for span in cluster:
+                            span_embedding = None
+                            start, end = span
+                            for i in range(start, end):
+                                if(span_embedding == None):
+                                    span_embedding = word_embs[doc_idx][i]
+                                else:
+                                    span_embedding += word_embs[doc_idx][i]
+                            span_embedding /= (end - start)
+                            cluster_i.append(span_embedding)
+                        cluster_i = torch.stack(cluster_i)
+                        cluster_i = torch.mean(cluster_i, dim=0)
+                        doc['cluster_emb'].append(cluster_i)
 
-                clusters2 = [[(start + offset, end + offset) for start, end in tuple_list] for tuple_list in clusters2]
-                for cluster in clusters2:
-                    span = cluster[0]
-                    final_clusters = all_full_docs_span_clusters[doc_id]
-                    for i, clusterx in enumerate(final_clusters, start = 1):
-                        if span in clusterx:
-                            doc2['cluster_idx'].append(i)
-                            break
+
+                        offset = sum([len(d['cased_words']) for d in doc_list[:doc_idx]])
+                        cluster = [(start + offset, end + offset) for start, end in cluster]
+                        span = cluster[0]
+                    
+                        final_clusters = all_full_docs_span_clusters[doc_id]
+                        for i, clusterx in enumerate(final_clusters, start = 1):
+                            if span in clusterx:
+                                doc['cluster_idx'].append(i)
+                                break
                 
-                print(doc1['cluster_idx'])
-                print(doc2['cluster_idx'])
-                assert len(doc2['cluster_emb']) == len(doc2['cluster_idx'])
+                for i, d in enumerate(doc_list):
+                    #print("Index", i)
+                    #print(d['cluster_idx'])
+                    assert len(d['cluster_emb']) == len(d['cluster_idx'])
                 for key in ("word2subword", "subwords", "word_id", "head2span"):
-                    del doc1[key]
-                    del doc2[key]
+                    for doc in doc_list:
+                        del doc[key]
 
         print(f'---------------FINISHED BUILDING THE CLUSTER EMBEDDINGS AND INDICES --------------')
         
@@ -512,11 +491,11 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
             running_s_loss = 0.0
             
             n = 0
-            
+            num_splits = 2
             pbar = tqdm(docs_ids, unit="docs_full", ncols=0)
             for doc_id in pbar:
-                doc1 = docs[2*doc_id]
-                doc2 = docs[2*doc_id + 1]
+                doc1 = docs[num_splits * doc_id]
+                doc2 = docs[num_splits * doc_id + random.randint(1, num_splits - 1)]
                 n+=1
                 for optim in self.optimizers.values():
                     optim.zero_grad()
