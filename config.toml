@@ -106,6 +106,25 @@ train_data = "data/droc_split_german_train_head.jsonlines"
 dev_data = "data/droc_german_development_head.jsonlines"
 test_data = "data/droc_german_test_head.jsonlines"
 
+[gelectra-droc-merging-4]
+bert_model = "deepset/gelectra-large"
+train_data = "data_4_splits_jsonlines/droc_german_train_head.jsonlines"
+dev_data = "data_4_splits_jsonlines/droc_german_development_head.jsonlines"
+test_data = "data_4_splits_jsonlines/droc_german_test_head.jsonlines"
+train_epochs = 50
+dropout_rate = 0.6
+learning_rate = 1e-5
+
+[gelectra-droc-merging]
+bert_model = "deepset/gelectra-large"
+train_data = "data_2_splits_jsonlines/droc_german_train_head.jsonlines"
+dev_data = "data_2_splits_jsonlines/droc_german_development_head.jsonlines"
+test_data = "data_2_splits_jsonlines/droc_german_test_head.jsonlines"
+bert_learning_rate = 0
+dropout_rate = 0.6
+learning_rate = 1e-5
+train_epochs = 60
+
 [gelectra-base-droc]
 bert_model = "deepset/gelectra-base"
 train_data = "data/droc_german_train_head.jsonlines"
